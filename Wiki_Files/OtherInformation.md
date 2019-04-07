@@ -1,0 +1,110 @@
+### Mob Cap
+
+There is a mobcap on the server. This mob cap is per-chunk based. That means if you have hit a maximum number of mobs allowed in the current chunk, you can always go to another chunk and get more mobs.
+
+There is also a maximum amount for each individual mobs. For example, in a single chunk, you may ONLY have up to a maximum of 10 turtles. The amount for each individual mobs are different.
+
+There is also a maximum overall mobs allowed in a chunk. Currently, you are allowed to have a combined total of 60 passive / semi-passive mobs (total) and 60 aggressive mobs. This means the MAXIMUM mobs you can have in a single given chunk is 120 mobs.
+
+At the current time, name tagged mobs won't despawn when the mob limit is reached. 
+
+
+
+### Claims
+
+It is your responsibly to claim your land. Staff are able to roll back griefs, although it doesn't completely recover everything. 
+
+Claimed animals such as Parrots and Wolves can still be damaged even if they are in a claim. Suggest that you put them in your house.
+
+Item frames can also be punched off. If you are worried about it being stolen, cover it up or make sure there's no way for a person to reach that area. 
+
+Claims are supposed to be automatically removed after 365 days. If there is a claim that is over the time limit and still hasn't been removed yet, you may ask a staff to remove it for you.
+
+It's important when claiming that you don't overlap claim. It can be tricky to see where they are, but you are hold a stick + shift + right click and it'll show you claims around you. Remember that your chest, when placed, also automatically creates a claim around it. Check if that's the case before freaking out.
+
+You need to claim at least 50 blocks from another person's build. If the person you're claiming next to doesn't care, then it's good. If they want it to be removed, then you'll need to relocate.
+
+
+
+### Ignoring players
+
+Sometime players can be very annoything. You can easily ignore them by typing /ignore (username) and they will be ignored. 
+
+You can view the list of  everyone you've ignored via /ignorelist.
+
+
+
+### VIP Perks
+
+The perks of VIP can be found [HERE](https://cynagen.craftingstore.net/category/22212)
+
+
+### Sethomes
+
+You are only about to set 2 homes as a default player and 3 homes if you're a VIP.
+
+For those of you who have more than the limit, you'll still be able to use them. However, you won't be able to set any more homes until and delete homes and go under the limit.
+
+
+
+### Server Specs
+
+That is classified information ;)
+
+If you want to see if the server if lagging or your ping, you can press F3. The ping will be in gold and the TPS will be in green.
+
+
+
+### Can't get up into the nether roof
+
+That is on purpose. This is to prevent people from generating mass amounts of chunks in the nether, be lazy and build gold farms there, make travel too easy, and few other stuff.
+
+Don't bother debating to Kyrobi about it, you'll instantly be ignored. The nether roof will stay off limits.
+
+
+
+### Why are some particles not showing?
+
+Some people how low-end computers who can easily lag because of the large amounts of particles. By default, the server lowers and/or disable some particles. If you want to enable them, simply do /toggle and enable particles.
+
+There's also some additional things you can toggle off / on.
+
+
+
+### Automatic deletion of chunks
+
+Chunks that haven't been visited in a while that are not claimed will be deleted after X amount of time. This is also why it's very important to claim your house so that the server doesn't just delete it.
+
+This is also one of the reason that server is able to have 1.13 chunks without you having to go out very far into the world.
+
+Stuff deleted by the server can be recovered providing that the server has a backup of it. Keep in mind that recovering builds like this will take some time and will easily piss off Kyrobi if done too frequently .
+
+
+
+### Additional server info
+
+There is a way to check for additional information on the server such as the the average play time of players. 
+
+You can access it [HERE](http://cynagen.xyz:8144/server). The page might take some time to update. 
+
+
+### Disable McMMO
+
+Like it or not, McMMO is enabled on the server. If you absolutely do not want to use McMMO, you my contact Kyrobi to completely disable it for you. 
+
+Keep in mind that other player's will still have McMMO and its effects.
+
+
+
+### Increase player slots
+
+Mostly likely not. This is a small server and a small community, no reason to increase it further. If anything, the player slot might decrease in the future. 
+
+If the server is full, consider buying VIP to join even when the server is full. You'll also support the server along the way.
+
+
+### Achievements disabled
+
+Yes it is. No one really cares about them and it's a pain moving thousands of useless files when the time comes.
+
+
