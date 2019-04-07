@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Ban Appeal
-about: Submit ban appeal
-title: 'Ban Appeal'
-labels: ''
-assignees: Kyrobi
-
----
-
 Please title this post "Ban Appeal:" followed by a name
 
 Ban Appeal Template:

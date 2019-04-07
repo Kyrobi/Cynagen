@@ -14,28 +14,12 @@ Bug Report Template:
 
 **Minecraft username**:
 
-**How do you re-create / trigger this issue**:
+**1. Expected behavior**:
 
-**Detailed explanation of this issue**:
+**2. Actual behavior**:
 
-**Additional information**: (Optional)
+**3. How can this issue be replicated?**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**4. A screenshot / video link if available**:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional information**:
