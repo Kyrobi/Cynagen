@@ -43,12 +43,12 @@ A. Yes. As long as the person who's building there first gives you permission, y
 
 ### Q. Is PvP allowed?
 
-A. Yes! However, both much be willing participants. If PvP does still occur, the insisting player will be punished.
+A. Yes! However, both much be willing participants. If PvP does still occur, the insisting player will be punished. If both parties do not care, then nothing happens.
 
 
 ### Q. How do I earn money?
 
-A.  Each time you vote, you will earn $100. Selling stuff on market can also get you money. Access market via /shop or /market. Additionally, you can buy the donation package which will give you $500.
+A.  Each time you vote, you will earn $200. Selling stuff on market can also get you money. Access market via /shop or /market. Additionally, you can buy the donation package which will give you $500.
 
 
 ### Q. When was this server started?
