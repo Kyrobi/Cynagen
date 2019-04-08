@@ -13,4 +13,4 @@
 
 This server isn't a democracy; it's a dictatorship. Staff has final say.
 
-Keep this server English.
+Keep this server English....
