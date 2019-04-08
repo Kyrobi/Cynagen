@@ -18,8 +18,6 @@ Claimed animals such as Parrots and Wolves can still be damaged even if they are
 
 Item frames can also be punched off. If you are worried about it being stolen, cover it up or make sure there's no way for a person to reach that area. 
 
-Claims are supposed to be automatically removed after 365 days. If there is a claim that is over the time limit and still hasn't been removed yet, you may ask a staff to remove it for you.
-
 It's important when claiming that you don't overlap claim. It can be tricky to see where they are, but you are hold a stick + shift + right click and it'll show you claims around you. Remember that your chest, when placed, also automatically creates a claim around it. Check if that's the case before freaking out.
 
 You need to claim at least 50 blocks from another person's build. If the person you're claiming next to doesn't care, then it's good. If they want it to be removed, then you'll need to relocate.
