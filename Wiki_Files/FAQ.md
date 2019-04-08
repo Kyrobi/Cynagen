@@ -2,10 +2,16 @@
 
 A. You can't.
 
+### Q. How to I get VIP rank?
+
+A. There are two ways to receive VIP rank. 
+1. You can buy it off of the [store](https://cynagen.craftingstore.net) for $19.99 
+
+2. By voting, you have a small chance of receiving a VIP shard. 5 of these VIP shards can be traded for VIP rank that last for 90 days.
 
 ### Q. How do I contact the owner?
 
-A. You can click HERE to join the server Discord and contact him through there.
+A. You can click [HERE](https://discordapp.com/invite/B5JW7qp) to join the server Discord and contact him through there.
 
 
 ### Q. Can I give feedback / suggestions to the server? 
@@ -15,25 +21,30 @@ A. Yep! [Click here](https://github.com/Kyrobi/Cynagen/issues).
 
 ### Q. How do I get more claim blocks?
 
-A. 1.)By voting.  2.)By playing on the server.   3.)Buying a donation package.
+A. 
+1. By voting.  
+
+2. By playing on the server.   
+
+3. Buying a donation package.
 
 
 ### Q. Can I claim an unclaimed build?
 
 A:
 
-    Case 1:
+   1.  Case 1:
+               If a person's land expires due to them being inactive, then the building that was protected is fair game. Anyone can destroy it if they wish / claim it as their own.
 
-    If a person's land expires due to them being inactive, then the building that was protected is fair game. Anyone can destroy it if they wish / claim it as their own.
+   2. Case 2:
+               If the owner of the claim decides to unclaim it for reasons such as to expand the size, move the claim, or make it smaller; the buildings inside the claim still belongs to the owner. If they fail to reclaim in within 5 days, then it's also fair game.(You'll need an alternative way for staff to prove that this build / claim if yours or else the 5 days won't apply.)
 
-    Case 2:
 
-    If the owner of the claim decides to unclaim it for reasons such as to expand the size, move the claim, or make it smaller; the buildings inside the claim still belongs to the owner. If they fail to reclaim in within 5 days, then it's also fair game.(You'll need an alternative way for staff to prove that this build / claim if yours or else the 5 days won't apply.)
 
 
 ### Q. How many homes am I able to set?
 
-A. Default players are able to set 2 homes. VIP are about to set 3 homes.
+A. Default players are able to set 3 homes. VIP are about to set 4 homes.
 
 
 ### Q. Can I start a build right next to someone else's?
@@ -43,7 +54,7 @@ A. Yes. As long as the person who's building there first gives you permission, y
 
 ### Q. Is PvP allowed?
 
-A. Yes! However, both much be willing participants. If PvP does still occur, the insisting player will be punished. If both parties do not care, then nothing happens.
+A. Yes! However, both must be willing participate. If PvP does still occur, the insisting player will be punished.
 
 
 ### Q. How do I earn money?
@@ -91,3 +102,5 @@ A. Brazil
 A. Going to keep it simple, used /kit claim to the get the claim tool (Golden Shovel) or craft it yourself. From that, just ask on the server and people will assist you.
 
 
+
+***
