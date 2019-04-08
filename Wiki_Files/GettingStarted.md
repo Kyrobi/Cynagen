@@ -48,9 +48,10 @@ After you feel comfortable getting the very basics of the server, you may procee
 ## Money
 
 There are a couple of ways to earn money on the server.
-**1.**Voting. You can get $100 each time you vote. Command: /vote
 
-**2.**Selling items on market. You can sell items and hope that players buy them. Make sure you collect your money from the market.
+1. [Voting.](https://topg.org/Minecraft/in-488463) You can get $200 each time you vote. Command: /vote
+
+2. Selling items on market. You can sell items and hope that players buy them. Make sure you collect your money from the market.
 
 
 ## Market
@@ -65,7 +66,7 @@ Note:
 
 You won't be able to see your own published items on the market.
 
-There is a 5% seller's tax and 10% buyer's tax.
+There is a 5% seller's tax.
 
 
 
