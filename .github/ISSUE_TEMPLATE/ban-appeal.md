@@ -9,9 +9,6 @@ assignees: ''
 
 Please title this post "Ban Appeal:" followed by a name
 
-Ban Appeal Template:
-####################
-
 **Minecraft username**:
 
 **I was banned on**: (date)
