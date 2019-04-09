@@ -2,24 +2,21 @@
 name: Bug report
 about: Report bugs / glitches here
 title: 'Bug:'
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
 Please title this post: "Bug:" followed by a name.
 
-Bug Report Template:
-####################
-
 **Minecraft username**:
 
-**1. Expected behavior**:
+* Expected behavior**:
 
-**2. Actual behavior**:
+**Actual behavior**:
 
-**3. How can this issue be replicated?**
+**How can this issue be replicated?**
 
-**4. A screenshot / video link if available**:
+* A screenshot / video link if available**:
 
 **Additional information**:
