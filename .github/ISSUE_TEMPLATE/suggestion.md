@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest an idea
 title: 'Suggestion:'
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---

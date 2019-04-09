@@ -2,7 +2,7 @@
 name: Player Report
 about: Report a player
 title: 'Player Report: '
-labels: ''
+labels: Player Report
 assignees: Kyrobi
 
 ---
