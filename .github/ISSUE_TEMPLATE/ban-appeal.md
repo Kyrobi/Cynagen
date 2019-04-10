@@ -2,7 +2,7 @@
 name: Ban Appeal
 about: Submit a ban appeal
 title: 'Ban Appeal: '
-labels: ''
+labels: Ban Appeal
 assignees: ''
 
 ---
