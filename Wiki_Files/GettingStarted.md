@@ -1,3 +1,6 @@
+# This "Getting Started" wiki will no longer be on the wiki list. Consider this particular page abandoned.
+
+
 ### Get Started
 
 This will cover some basic things that you'll need to get started.
