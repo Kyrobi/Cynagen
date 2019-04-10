@@ -1,6 +1,6 @@
 ### Q. How do I apply for staff?
 
-A. You can't.
+> A. You can't.
 
 ### Q. How to I get VIP rank?
 
