@@ -4,8 +4,6 @@ There is a mobcap on the server. This mob cap is per-chunk based. That means if 
 
 There is also a maximum amount for each individual mobs. For example, in a single chunk, you may ONLY have up to a maximum of 10 turtles. The amount for each individual mobs are different.
 
-There is also a maximum overall mobs allowed in a chunk. Currently, you are allowed to have a combined total of 60 passive / semi-passive mobs (total) and 60 aggressive mobs. This means the MAXIMUM mobs you can have in a single given chunk is 120 mobs.
-
 At the current time, name tagged mobs won't despawn when the mob limit is reached. 
 
 
@@ -14,6 +12,8 @@ At the current time, name tagged mobs won't despawn when the mob limit is reache
 
 It is your responsibly to claim your land. Staff are able to roll back griefs, although it doesn't completely recover everything. 
 
+Claims do not expired. However; they will be removed by a staff depending on the circumstances.
+
 Claimed animals such as Parrots and Wolves can still be damaged even if they are in a claim. Suggest that you put them in your house.
 
 Item frames can also be punched off. If you are worried about it being stolen, cover it up or make sure there's no way for a person to reach that area. 
@@ -21,6 +21,8 @@ Item frames can also be punched off. If you are worried about it being stolen, c
 It's important when claiming that you don't overlap claim. It can be tricky to see where they are, but you are hold a stick + shift + right click and it'll show you claims around you. Remember that your chest, when placed, also automatically creates a claim around it. Check if that's the case before freaking out.
 
 You need to claim at least 50 blocks from another person's build. If the person you're claiming next to doesn't care, then it's good. If they want it to be removed, then you'll need to relocate.
+
+Backups of the world are done everyday and go back up to a month. If you need a build recovered from longer than that period, you are essentially screwed. 
 
 
 
@@ -57,7 +59,7 @@ If you want to see if the server if lagging or your ping, you can press F3. The 
 
 That is on purpose. This is to prevent people from generating mass amounts of chunks in the nether, be lazy and build gold farms there, make travel too easy, and few other stuff.
 
-Don't bother debating to Kyrobi about it, you'll instantly be ignored. The nether roof will stay off limits.
+Don't bother debating to a staff or an administrator about it, you'll be ignored. The nether roof will stay off limits.
 
 
 
@@ -75,7 +77,9 @@ Chunks that haven't been visited in a while that are not claimed will be deleted
 
 This is also one of the reason that server is able to have 1.13 chunks without you having to go out very far into the world.
 
-Stuff deleted by the server can be recovered providing that the server has a backup of it. Keep in mind that recovering builds like this will take some time and will easily piss off Kyrobi if done too frequently .
+Stuff deleted by the server can be recovered providing that the server has a backup of it. Keep in mind that recovering builds like this will take some time and will easily piss off Kyrobi if done too frequently.
+
+Backups of the world are done everyday and go back up to a month. If you need a build recovered from longer than that period, you are essentially screwed.
 
 
 
@@ -88,9 +92,7 @@ You can access it [HERE](http://cynagen.xyz:8144/server). The page might take so
 
 ### Disable McMMO
 
-Like it or not, McMMO is enabled on the server. If you absolutely do not want to use McMMO, you my contact Kyrobi to completely disable it for you. 
-
-Keep in mind that other player's will still have McMMO and its effects.
+Like it or not, McMMO is enabled on the server. If you absolutely do not want to use McMMO, you may leave the server.
 
 
 
