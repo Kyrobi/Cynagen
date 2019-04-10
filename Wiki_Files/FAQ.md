@@ -3,6 +3,8 @@
 > You can't.
 
 
+
+
 ### How to I get VIP rank?
 
 > There are two ways to receive VIP rank: 
@@ -11,15 +13,19 @@
 > 2. By voting, you have a small chance of receiving a VIP shard. 5 of these VIP shards can be traded for VIP rank that last for 90 days.
 
 
+
+
 ### How do I contact the owner?
 
 > You can click [HERE](https://discordapp.com/invite/B5JW7qp) to join the server Discord and contact him through there.
 
 
 
+
 ### Can I give feedback / suggestions to the server? 
 
 > Yep! [Click here](https://github.com/Kyrobi/Cynagen/issues). 
+
 
 
 
@@ -30,6 +36,7 @@
 > 2. By playing on the server.   
 
 > 3. Buying a donation package.
+
 
 
 
@@ -48,9 +55,11 @@
 
 
 
+
 ### Can I start a build right next to someone else's?
 
 > Yes. As long as the person who's building there first gives you permission, you can build their. Alternatively, you can grow up, > suck it up, and get over it. Find another place to build. It's not that hard.
+
 
 
 
@@ -60,9 +69,11 @@
 
 
 
+
 ### How do I earn money?
 
 > Each time you vote, you will earn $200. Selling stuff on market can also get you money. Access market via /shop or /market. Additionally, you can buy the donation package which will give you $500.
+
 
 
 
@@ -72,9 +83,11 @@
 
 
 
+
 ### How often does the server reset?
 
 > Server hasn't reseted since it opened. 
+
 
 
 
@@ -84,9 +97,11 @@
 
 
 
+
 ### What is the world border on the server?
 
 > It changes every so often. You will have to find out the current world border yourself. I do not recommend building near the world border in-case the world border shrinks.
+
 
 
 
@@ -96,15 +111,18 @@
 
 
 
+
 ### How do I check when I joined the server?
 
 > You can check via /jointime. You can check when other player have join via /jointime (username).
 
 
 
+
 ### Where are the beans located?
 
 > Brazil
+
 
 
 
