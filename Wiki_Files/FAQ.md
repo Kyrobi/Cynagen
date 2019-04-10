@@ -5,12 +5,19 @@
 ***
 
 
-### How to I get VIP rank?
+### How to I get the VIP rank?
 
 > There are two ways to receive VIP rank: 
 > 1. You can buy it off of the [store](https://cynagen.craftingstore.net) for $19.99 
 
 > 2. By voting, you have a small chance of receiving a VIP shard. 5 of these VIP shards can be traded for VIP rank that last for 90 days.
+
+***
+
+
+### How to I get the Veteran rank?
+
+> Anyone who joined the server before March 1, 2018. You can check when you first joined the server via /jointime (username). If you qualify, please open a issue [here](https://github.com/Kyrobi/Cynagen/issues). Just state that you qualify for the Veteran rank and provide your Minecraft username.
 
 ***
 
