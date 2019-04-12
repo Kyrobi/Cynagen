@@ -90,11 +90,6 @@ There is a way to check for additional information on the server such as the the
 You can access it [HERE](http://cynagen.xyz:8144/server). The page might take some time to update. 
 
 
-### Disable McMMO
-
-You can disable McMMO by typing /enable vanilla, and you can enable it by typing /disable vanilla.
-
-
 
 ### Increase player slots
 
