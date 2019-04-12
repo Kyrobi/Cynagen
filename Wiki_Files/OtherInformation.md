@@ -10,15 +10,15 @@ At the current time, name tagged mobs won't despawn when the mob limit is reache
 
 ### Claims
 
-It is your responsibly to claim your land. Staff are able to roll back griefs, although it doesn't completely recover everything. 
+It is your responsibility to claim your land. Staff are able to roll back griefs, although it doesn't completely recover everything. 
 
-Claims do not expired. However; they will be removed by a staff depending on the circumstances.
+Claims do not expire. However; they will be removed by a staff depending on the circumstances.
 
 Claimed animals such as Parrots and Wolves can still be damaged even if they are in a claim. Suggest that you put them in your house.
 
 Item frames can also be punched off. If you are worried about it being stolen, cover it up or make sure there's no way for a person to reach that area. 
 
-It's important when claiming that you don't overlap claim. It can be tricky to see where they are, but you are hold a stick + shift + right click and it'll show you claims around you. Remember that your chest, when placed, also automatically creates a claim around it. Check if that's the case before freaking out.
+It's important when claiming that you don't overlap claim. It can be tricky to see where they are, but if you hold a stick + shift + right click and it'll show you claims around you. Remember that your chest, when placed, also automatically creates a claim around it. Check if that's the case before freaking out.
 
 You need to claim at least 50 blocks from another person's build. If the person you're claiming next to doesn't care, then it's good. If they want it to be removed, then you'll need to relocate.
 
@@ -41,7 +41,7 @@ The perks of VIP can be found [HERE](https://cynagen.craftingstore.net/category/
 
 ### Sethomes
 
-You are only about to set 2 homes as a default player and 3 homes if you're a VIP.
+You are only about to set 3 homes as a default player and 4 homes if you're a VIP.
 
 For those of you who have more than the limit, you'll still be able to use them. However, you won't be able to set any more homes until and delete homes and go under the limit.
 
@@ -92,19 +92,20 @@ You can access it [HERE](http://cynagen.xyz:8144/server). The page might take so
 
 ### Disable McMMO
 
-Like it or not, McMMO is enabled on the server. If you absolutely do not want to use McMMO, you may leave the server.
+You can disable McMMO by typing /enable vanilla, and you can enable it by typing /disable vanilla.
 
 
 
 ### Increase player slots
 
-Mostly likely not. This is a small server and a small community, no reason to increase it further. If anything, the player slot might decrease in the future. 
+Most likely not. This is a small server and a small community, there is no reason to increase it further. If anything, the player slot might decrease in the future. 
 
 If the server is full, consider buying VIP to join even when the server is full. You'll also support the server along the way.
 
 
+
 ### Achievements disabled
 
-Yes it is. No one really cares about them and it's a pain moving thousands of useless files when the time comes.
+Yes, they are. No one really cares about them and it's a pain moving thousands of useless files when the time comes.
 
 
