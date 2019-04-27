@@ -6,7 +6,9 @@
 
 ### I died in the end, can I get my stuff back?
 
-> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end. If you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest.  
+> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end. If you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest. 
+
+Best course of action if you're falling into the void, instantly log out and tell a staff the situation. Don't log back in until you're told to.
 
 ***
 
