@@ -4,6 +4,12 @@
 
 ***
 
+### I died in the end, can I get my stuff back?
+
+> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end. If you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest.  
+
+***
+
 
 ### How to I get the VIP rank?
 
