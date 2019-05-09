@@ -3,7 +3,7 @@ name: Ban Appeal
 about: Submit a ban appeal
 title: 'Ban Appeal: '
 labels: Ban Appeal
-assignees: ''
+assignees: ToxicSnow
 
 ---
 

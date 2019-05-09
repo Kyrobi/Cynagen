@@ -3,7 +3,7 @@ name: Player Report
 about: Report a player
 title: 'Player Report: '
 labels: Player Report
-assignees: Kyrobi
+assignees: Kyrobi, ToxicSnow
 
 ---
 
