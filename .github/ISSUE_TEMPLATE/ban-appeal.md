@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 Note: All the issues made here are public, meaning everyone can see it.
-If you would instead like to make a private issue or have a private discussion, you can use the command ***new** on the Discord server to create a private chat with the staff.
+If you would instead like to make a private issue or have a private discussion, you can type **-new** on the Discord server to create a private chat with the staff.
 You might also get faster response time.
 
 
