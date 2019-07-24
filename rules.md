@@ -80,6 +80,14 @@
 
 
 ## General
+These are rules that staff will warn you about.
 
+* Do not change your nickname to match an existing one. Similar nicknames are allowed (Ex. Thing1 and Thing2).
+
+* Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
+
+============================================================
 
 **Staff have final say in things NOT listed above. You are to only debate your issue with the staff that issued the punishment.**
+
+P.S. **Feel free to contribute to this list by making a pull request.**
