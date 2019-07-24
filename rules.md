@@ -86,6 +86,8 @@ These are rules that staff will warn you about.
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
+* Telling new players to do /thot is no longer allowed.
+
 ============================================================
 
 **Staff have final say in things NOT listed above. You are to only debate your issue with the staff that issued the punishment.**
