@@ -4,7 +4,7 @@
 
 * Unless given explicit permission from a staff or the owner of the build, destroying anything placed by hand is considered griefing.
 
-* Griefing a what is considered an abandoned build is generally not allowed either. If you can get away with it, then consider yourself lucky. If a staff later down the road finds out you griefed, you’ll still be punished.
+* Griefing what is considered an abandoned build is generally not allowed either. If you can get away with it, then consider yourself lucky. If a staff later down the road finds out you griefed, you’ll still be punished.
 
 * If a person trusts you onto their land and you griefed from it, you will be punished.
 
