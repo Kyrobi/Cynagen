@@ -10,9 +10,9 @@
 
 * If a person is helping you and takes stuff from you by “accident”, they’ll have 2 days to restore the items before they are punished.
 
-* If a person requests for you to leave their claim for any reason, you must comply with their request. Not leaving will result in you being teleported away, and if you return to the claim without permission from the person you will be punished.
+* If a person requests for you to leave their claim for any reason, you must comply with their request. Not leaving will result in you being teleported away. If you return to the claim without permission from the person, you will be punished.
 
-* Purposely claiming land / building right next to an existing claim/build is not permitted.
+* Purposely claiming land or building right next to an existing claim or build is not permitted.
 
 * Placing blocks to purposely harm another player’s build it also considered griefing.
 
@@ -21,7 +21,7 @@
 ## 2. Do not advertise.
 * Advertising is prohibited in chat. Advertising consists of promoting anything that isn’t Cynagen related.
 
-* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) is allowed as long as they are not being advertised. 
+* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) is allowed as long as they are not being promoted. 
 
 * If you advertise on the server, you will be punished depending on the severity and frequency of the advertisement.
 
@@ -36,18 +36,18 @@
 
 * Cyber-bullying, harassment, and doing things to create chaos isn’t allowed.
 
-* If a player is being inappropriate in chat, contact the staff about it. you can use the /ignore command to ignore them. If you engage in a conflict with them, you will also be punished.
+* If a player is being inappropriate in chat, contact the staff about it. You can use the /ignore command to ignore them. If you engage in a conflict with them, you will also be punished.
 
 
 
 ## 4. Keep the server peaceful and enjoyable.
-* Please keep controversial topics out of the server such as political, religious, and gun control related issues.
+* Please keep controversial topics out of the server such as political or religious related issues.
 
-* If you are doing something and players on the server wish for you to stop, then you’ll need to stop.
+* If you are doing something and players on the server wish for you to stop, then you’ll need to stop. If you feel what you're doing is reasonable, you may explain the situation to the players. If you're unsure, contact a staff about it.
 
 * Spamming is not allowed.
 
-* Inappropriate usernames aren’t allowed on the server, and you will be requested to make a name change. Failure to change your name will result in a ban.
+* Inappropriate usernames aren’t allowed on the server. You will be requested to make a name change. Failure to change your name will result in a ban.
 
 * You may not use nicknames to harass, bully, spam, or harm other users. 
 
@@ -56,16 +56,16 @@
 
 
 ## 5. Cheating, hacking, and exploiting are not allowed. 
-* If you abuse any exploits, bugs, or glitches you will be punished based on the severity of the abuse. Unfair advantages that you find are considered exploits and should be reported to a staff member, or in the #support channel on Discord. 
+* If you abuse any exploits, bugs, or glitches, you will be punished based on the severity of the abuse. Unfair advantages that you find are considered exploits and should be reported to a staff member or in the #support channel on Discord. 
 
-* If you find someone that has any sort of machine or knowledge of any bugs/duplication glitches, please report them immediately. Failure to do so will result in both parties being banned.
+* If you find someone that has any sort of machine or knowledge of any bugs or duplication glitches, please report them immediately. Failure to do so will result in both parties being banned.
 
-* Using modifications to the game such as x-ray texture packs are also considered cheating.
+* Using modifications to the game such as x-ray texture packs are also considered cheating. (You get ores way faster than normal players.)
 
 
 
 ## 6. Use some common sense.
-* Common sense is this magical thing that very few people have. According to every dictionary ever made it means that you shouldn’t be stupid.
+* Common sense is this magical thing that very few people have. According to every dictionary ever made, it means that you shouldn’t be stupid.
 
 * Bending the rules to fit your way counts as not having common sense.
 
