@@ -1,6 +1,6 @@
 ## 1. Do not grief.
 
-* Do not grief someone’s build. This includes structures of any kind, farm animals/captured mobs, and villagers.
+* Do not grief someone’s build. This includes any block, farm animals, captured mobs, and villagers.
 
 * Unless given explicit permission from a staff or the owner of the build, destroying anything placed by hand is considered griefing.
 
