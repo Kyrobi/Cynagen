@@ -4,7 +4,7 @@
 
 * Unless given explicit permission from a staff or the owner of the build, destroying anything placed by hand is considered griefing.
 
-* Griefing what is considered an abandoned build is generally not allowed either. If you can get away with it, then consider yourself lucky. If a staff later down the road finds out you griefed, you’ll still be punished.
+* Griefing what is considered an abandoned build is generally not allowed. If a staff later finds out you griefed, you’ll still be punished.
 
 * If a person trusts you onto their land and you griefed from it, you will be punished.
 
@@ -14,25 +14,27 @@
 
 * Purposely claiming land or building right next to an existing claim or build is not permitted.
 
-* Placing blocks to purposely harm another player’s build it also considered griefing.
+* Placing blocks to purposely harm another player’s build is considered griefing.
+
+* If you live inside a person's claim, the owner of the claim has the final say. This includes kicking you out without notice, telling you where to build, and etc. Land claim owner's actions cannot supersede the server's rule: destroying your build, killing your animals, and etc. 
 
 
 
 ## 2. Do not advertise.
 * Advertising is prohibited in chat. Advertising consists of promoting anything that isn’t Cynagen related.
 
-* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) is allowed as long as they are not being promoted. 
+* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. 
 
 * If you advertise on the server, you will be punished depending on the severity and frequency of the advertisement.
 
-* Advertising your in-game products is perfectly fine; you are allowed to promote your plot shop and products you are selling in-game as long as it isn’t excessive (excessive being less than 2 minutes in between each advertisement).
+* Advertising your in-game products is fine; you are allowed to promote your plot shop and products you are selling in-game as long as it isn’t excessive (excessive being less than 2 minutes in between each advertisement).
 
 
 
 ## 3. Be Respectful to everyone. 
 * You are allowed to swear on this server, but you may not direct your language toward another user with intent to be harmful. Staff will decide if the language is used to harm others. If you'd like to debate your case, you will need to provide evidence that you’re not violating the rule.
 
-* Racist rhetorics are not allowed anywhere on the server (includes chat, books, signs, etc.).
+* Racist rhetorics are not allowed anywhere on the server (builds, chat, books, signs, etc).
 
 * Cyber-bullying, harassment, and doing things to create chaos isn’t allowed.
 
@@ -41,26 +43,26 @@
 
 
 ## 4. Keep the server peaceful and enjoyable.
-* Please keep controversial topics out of the server such as political or religious related issues.
+* Keep controversial topics such as political or religious related issues out of the server.
 
-* If you are doing something and players on the server wish for you to stop, then you’ll need to stop. If you feel what you're doing is reasonable, you may explain the situation to the players. If you're unsure, contact a staff about it.
+* If you are doing something the players on the server wish for you to stop, then you need to stop. If you feel what you're doing is reasonable, you may explain the situation to the players. If you're unsure, contact a staff about it.
 
 * Spamming is not allowed.
 
-* Inappropriate usernames aren’t allowed on the server. You will be requested to make a name change. Failure to change your name will result in a ban.
+* Inappropriate usernames are not allowed on the server. You will be requested to make a name change. Failure to change your name will result in a ban.
 
-* You may not use nicknames to harass, bully, spam, or harm other users. 
+* You may not use nicknames or usernames to harass, bully, spam, or harm other users. 
 
-* Purposely causing lag to the server is not allowed.
+* Purposely causing lag to the server is not allowed. This includes anything that will jeopardize the server's integrity.
 
 
 
 ## 5. Cheating, hacking, and exploiting are not allowed. 
 * If you abuse any exploits, bugs, or glitches, you will be punished based on the severity of the abuse. Unfair advantages that you find are considered exploits and should be reported to a staff member or in the #support channel on Discord. 
 
-* If you find someone that has any sort of machine or knowledge of any bugs or duplication glitches, please report them immediately. Failure to do so will result in both parties being banned.
+* If you have any knowledge of advantageous bugs, glitches, or exploits, please report them immediately. Failure to do so will result in both parties being banned.
 
-* Using modifications to the game such as x-ray texture packs are also considered cheating. (You get ores way faster than normal players.)
+* Using modifications to the game such as x-ray texture packs are also considered cheating.
 
 
 
@@ -77,10 +79,11 @@
 
 * Not following the rules is considered not having common sense.
 
+* Going around a punishment is considered not having common sense.
+
 
 
 ## General
-These are rules that staff will warn you about.
 
 * Do not change your nickname to match an existing one. Similar nicknames are allowed (Ex. Thing1 and Thing2).
 
