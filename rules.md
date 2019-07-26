@@ -89,6 +89,8 @@
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
+* You may not build any AFK machines/farm to gain McMMO levels. This includes fishing, swords, unarm, herbalism, and etc.
+"What if I punch enderman at my farm to gain levels and unarmed?" That's fine as low as you're not AFK. If you are AFK, chances are you're using an autoclicker which will get you banned.
 
 ============================================================
 
