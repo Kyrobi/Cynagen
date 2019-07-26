@@ -47,7 +47,7 @@
 
 * If you are doing something the players on the server wish for you to stop, then you need to stop. If you feel what you're doing is reasonable, you may explain the situation to the players. If you're unsure, contact a staff about it.
 
-* Spamming is not allowed. Spamming includes filling the chat with multiple messages, and excessive CAPS.
+* Spamming is not allowed. Spamming includes filling the chat with multiple messages or excessive CAPS.
 
 * Inappropriate skins are not allowed on the server. You will be reqested to change your skin. Failure to change your skin will result in a ban.
 
@@ -82,8 +82,6 @@
 * Not following the rules is considered not having common sense.
 
 * Going around a punishment is considered not having common sense.
-
-* Going around the chat filter is considered not having common sense.
 
 
 ## General
