@@ -11,6 +11,3 @@ At the moment in time, you can only contribute to the wiki. This is how you cont
 4. After you finished editing the document, click **Propose File change** > **Create Pull Request** and then **Create Pull Request** again. 
 
 5. Done! Your edits are now sent in for review. 
-
-
-If the main branch (This one) gets edited, a pull request will show up on YOUR copy of the files. Simply accept the merge so that it has the up-to-date files as the main one.
