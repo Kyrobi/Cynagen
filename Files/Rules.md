@@ -95,6 +95,10 @@
 
 ============================================================
 
-**Staff have final say in things NOT listed above. You are to only debate your issue with the staff that issued the punishment.**
+Before being punished, you have the rights to request from a staff for which rule you've violated.
+
+**Moderators are to only enforce the rules above.**
+
+**Admins have final say in things NOT listed above. You are to only debate your issue with the staff that issued the punishment.**
 
 P.S. **Feel free to contribute to this list by making a pull request.**
