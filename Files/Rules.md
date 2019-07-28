@@ -57,6 +57,10 @@
 
 * Purposely causing lag to the server is not allowed. This includes anything that will jeopardize the server's integrity.
 
+* Any build(s) that pose as hate crime, inciting hate, religious matters, political matters, and etc are not allowed.
+
+* Structures like penises and middle fingers are allowed, but there are limitations. This is an out of sight, out of mind type of deal. If you don't want to be punished for it, put it somewhere where other people won't easily see it. This includes building it underground in a claim you own, inside of your house, or in an remote location where no one will see (as long as it's on claimed land that you actively use). Building it next to someone's house, outside of spawn, and randomly across the server is not allowed.
+
 
 
 ## 5. Cheating, hacking, and exploiting are not allowed. 
