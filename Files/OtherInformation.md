@@ -51,7 +51,7 @@ For those of you who have more than the limit, you'll still be able to use them.
 
 That is classified information ;)
 
-If you want to see if the server is lagging or your ping, you can press F3. The ping will be in gold and the TPS will be in green.
+If you want to see if the server is lagging or your ping, you can press Tab. Your ping and the server TPS will be shown in TABS.
 
 
 
