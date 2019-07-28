@@ -57,9 +57,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### Can I claim an unclaimed build?
 
-> Case 1: If a person's land expires due to them being inactive, then the building that was protected is fair game. Anyone can destroy it if they wish / claim it as their own.
-
-> Case 2: If the owner of the claim decides to unclaim it for reasons such as to expand the size, move the claim, or make it > smaller; the buildings inside the claim still belongs to the owner. If they fail to reclaim in within 5 days, then it's also fair game.(You'll need an alternative way for staff to prove that this build / claim if yours or else the 5 days won't apply.)
+> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/server-emotes)
 
 ***
 
@@ -73,7 +71,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### Can I start a build right next to someone else's?
 
-> Yes. As long as the person who's building there first gives you permission, you can build their. Alternatively, you can grow up, > suck it up, and get over it. Find another place to build. It's not that hard.
+> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/server-emotes)
 
 ***
 
@@ -115,7 +113,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### What is the world border on the server?
 
-> It changes every so often. You will have to find out the current world border yourself. I do not recommend building near the world border in-case the world border shrinks.
+> The radius of the world border is 100k blocks. 
 
 ***
 
@@ -143,7 +141,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### How do I claim land?
 
-> Going to keep it simple, used /kit claim to the get the claim tool (Golden Shovel) or craft it yourself. From that, just ask on the server and people will assist you.
+> Simple type `/claim` in chat. It will have all the basics you need to know.
 
 
 
