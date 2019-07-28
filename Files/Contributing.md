@@ -1,6 +1,6 @@
 At the moment in time, you can only contribute to the wiki. This is how you contribute:
 
-1. On the main page, go into the **Wiki_Files**. In here, it contains all the docs for the Wiki. 
+1. On the main page, go into the **Files**. In here, it contains all the docs for the Wiki. 
 
 2. Click on the file that you would like to propose a change to (contribute).  
 
