@@ -15,12 +15,12 @@ Please title this post: "Bug:" followed by a name.
 
 **Minecraft username**:
 
-* Expected behavior**:
+**Expected behavior**:
 
 **Actual behavior**:
 
 **How can this issue be replicated?**
 
-* A screenshot / video link if available**:
+**A screenshot / video link if available**:
 
 **Additional information**:
