@@ -1,6 +1,9 @@
 Page basically contains slightly less important things than the updates page.
 
 ### Jul 28, 2019
+- Updates rules: [Change 1](https://github.com/Kyrobi/Cynagen/commit/461c4229d8c3455873597f6b0f6280f78f624cc8#diff-28e8d561bafb1ffaaf075122f9556943) [Change 2](https://github.com/Kyrobi/Cynagen/commit/693f98dd81e6c226d4ec2565ed11a3d592b31c53#diff-28e8d561bafb1ffaaf075122f9556943)
+
+### Jul 28, 2019
 - Server website changed to [https://site.cynagen.xyz](https://site.cynagen.xyz). <br><br>
 
 ### Jul 26, 2019
