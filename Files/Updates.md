@@ -1,5 +1,10 @@
 Please note that this document might not always be up to date (Kinda ironic). If you want the latest updates, consider joining our [Discord](https://discordapp.com/invite/B5JW7qp).
 
+
+### Jul 20, 2019
+- Performance improvements.
+- Additionally, item frames should be a lot less laggy now. Therefor the limits on them has been increased.<br><br>
+
 ### Jul 26, 2019
 - Performance Improvements.<br><br>
 
