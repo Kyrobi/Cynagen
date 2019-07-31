@@ -1,4 +1,4 @@
-Last updates: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynagen/commit/693f98dd81e6c226d4ec2565ed11a3d592b31c53#diff-28e8d561bafb1ffaaf075122f9556943)
+Last updated: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynagen/commit/693f98dd81e6c226d4ec2565ed11a3d592b31c53#diff-28e8d561bafb1ffaaf075122f9556943)
 
 ## 1. Do not grief.
 
