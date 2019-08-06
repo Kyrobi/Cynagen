@@ -1,6 +1,17 @@
 Please note that this document might not always be up to date (Kinda ironic). If you want the latest updates, consider joining our [Discord](https://discordapp.com/invite/B5JW7qp).
 
 
+### Aug 6, 2019
+- Server map and server status are both back up. See them here: [site.cynagen.xyz](site.cynagen.xyz)<br><br>
+
+### Aug 4, 2019
+- **Improvements to /wild.**
+- Faster response time.
+- Less resource intensive.
+- Can be used in Nether and End.
+- **WARNING:** Using /wild in the End of Nether will have a chance to spawn you in a dangerous place and instantly kill you.
+- <br><br>
+
 ### Jul 20, 2019
 - Performance improvements.
 - Additionally, item frames should be a lot less laggy now. Therefor the limits on them has been increased.<br><br>
