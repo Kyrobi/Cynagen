@@ -1,5 +1,9 @@
 Page basically contains slightly less important things than the updates page.
 
+
+## Aug 7, 2019
+- Tpa and tpahere request now have a 10 second delay. This is to prevent people from spamming another person with it.
+
 ## Aug 1, 2019
 - Fixed bows not working in the End.
 
