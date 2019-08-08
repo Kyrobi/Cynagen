@@ -1,6 +1,9 @@
 Page basically contains slightly less important things than the updates page.
 
 
+## Aug 8, 2019
+-  Fixed issue with dropped items in plots vanishing.
+
 ## Aug 7, 2019
 - Tpa and tpahere request now have a 10 second delay. This is to prevent people from spamming another person with it.
 
