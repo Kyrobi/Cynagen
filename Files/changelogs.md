@@ -1,5 +1,7 @@
 Page basically contains slightly less important things than the updates page.
 
+## Aug 13, 2019
+- Getting killed by a Ravager will show that you go killed by CHONK.
 
 ## Aug 8, 2019
 -  Fixed issue with dropped items in plots vanishing.
