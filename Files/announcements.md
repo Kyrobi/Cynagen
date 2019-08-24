@@ -1,5 +1,8 @@
 Please note that this document might not always be up to date (Kinda ironic). If you want the latest updates, consider joining our [Discord](https://discordapp.com/invite/B5JW7qp).
 
+## Aug 21, 2019
+- Simple play time leveling system. Every X amount of playtime, you will gain EXP, sort of like how claim blocks work.
+Your level will be shown in tab. There are a total of 100 levels. Voting will also give you a large amounts of EXP. These levels do nothing. Purely cosmetics. Do /levels to check your level stats.
 
 ### Aug 6, 2019
 - Server map and server status are both back up. See them here: [site.cynagen.xyz](site.cynagen.xyz)<br><br>
