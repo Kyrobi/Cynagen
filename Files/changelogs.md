@@ -1,5 +1,9 @@
 Page basically contains slightly less important things than the updates page.
 
+## Aug 24, 2019
+- Fixed issue with player levels being lost if they don't disconnect before server restarts.
+- Per player mob spawning: Players now won't be able to hog all the spawn limits. Everyone will get an equal share of mob spawning rate
+
 ## Aug 13, 2019
 - Getting killed by a Ravager will show that you go killed by CHONK.
 - /cry
