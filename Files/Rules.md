@@ -96,8 +96,7 @@ Last updated: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynag
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
-* You may not build any __**AFK/AFKable**__ machines/farm to gain McMMO levels. This includes fishing, swords, unarm, herbalism, and etc.
-"What if I punch enderman at my farm to gain levels and unarmed?" That's fine as long as you're not AFK. If you are AFK, chances are you're using an autoclicker which will get you banned.
+* You may not build any __**AFK**__ machines.
 
 ============================================================
 
