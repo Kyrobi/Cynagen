@@ -12,6 +12,6 @@ b). Your contribution has to at least have decent grammar and writing skills.
 c). When you contribute to the archive, make sure to add your IGN at the end of the post. Example: [Here]
 
 
-If your contribution is very long (>3 setences) and would like to elaborate more, you'll need to upload a seperate file named the date of the event. i.e. (Sep-17-2001.md). The seperate uploaded file needs to be in the corosponding year's folder. 
+If your contribution is very long (>3 setences) and would like to elaborate more, you'll need to put on somewhere else (i.e. Google Docs, Pastebin, Hastebin). On the original master post, put "[Here]" and link it to the elaborated post.
 
-On the original master post, put "[Here]" and link it to the elaborated post.
+You are currently **ONLY** allowed to use Google Docs, Pastebin, or Hastebin to make your elborated post. This is so that people don't link to mlicicious websites. 
