@@ -16,6 +16,7 @@ Example: June 4, 1776  /   September 9, 2001
 You can either
 
 1). Make a pull request. (For those who know how)
+
     a). If want to want elaborate on a certain event, you'll need to use Google Docs or Pastebin to put your content. On the pull request, you can put something like "Read more here" and link it to the additional content. 
 
 2). Join our [Discord](https://discordapp.com/invite/B5JW7qp) a make a ticket by typing `-new` in chat.
