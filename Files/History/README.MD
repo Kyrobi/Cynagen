@@ -10,3 +10,8 @@ a). It most be at least somewhat interesting.
 b). Your contribution has to at least have decent grammar and writing skills.
 
 c). When you contribute to the archive, make sure to add your IGN at the end of the post. Example: [Here]
+
+
+If your contribution is very long (>3 setences) and would like to elaborate more, you'll need to upload a seperate file named the date of the event. i.e. (Sep-17-2001.md). The seperate uploaded file needs to be in the corosponding year's folder. 
+
+On the original master post, put "[Here]" and link it to the elaborated post.
