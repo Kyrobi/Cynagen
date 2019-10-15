@@ -22,8 +22,6 @@
 
 * /poop - Summons a cocoa bean and plays a "fart" sound.
 
-* /pets - Opens up the "pets" menu. You can summon one pet to follow you around.
-
 
 
 ## Extra Perks:
@@ -34,9 +32,6 @@
 
 * Create colored signs - Instead of just regular black text, you can color it. Use '/colors' to find the color codes. (i.e. '&6Hello, &7Bob' This will
   have the Hello text in gold while the Bob text in grey.)
-  
-* Customize armor stand - Further customize how armor stand looks. Right-click a flint in hand while looking away from armor stand to toggle edit menu. 
-  Then right-click the flint onto the armor stand to apply the change.
   
 * Rename items with color via anvil - Apply colors to item names. (i.e. '&6Hello, &7Bob' This will
   have the Hello text in gold while the Bob text in grey.)
