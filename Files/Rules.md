@@ -20,6 +20,8 @@ Last updated: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynag
 
 * If you live inside a person's claim, the owner of the claim has the final say. This includes kicking you out without notice, telling you where to build, and etc. Land claim owner's actions cannot supersede the server's rule: destroying your build, killing your animals, and etc. 
 
+* Taking another player's item(s) without their consent is considered griefing. 
+
 
 
 ## 2. Do not advertise.
