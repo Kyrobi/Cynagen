@@ -65,6 +65,8 @@ Last updated: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynag
 
 * Structures like penises and middle fingers are allowed, but there are limitations. This is an out of sight, out of mind type of deal. If you don't want to be punished for it, put it somewhere where other people won't easily see it. This includes building it underground in a claim you own, inside of your house, or in an remote location where no one will see (as long as it's on claimed land that you actively use). Building it next to someone's house, outside of spawn, and randomly across the server is not allowed.
 
+* Anyone with bad faith who deliberarely irritates and harasses other player(s) within the game are not permitted on the server. 
+
 
 
 ## 5. Cheating, hacking, and exploiting are not allowed. 
@@ -73,6 +75,8 @@ Last updated: July 28, 2019. View changes [here](https://github.com/Kyrobi/Cynag
 * If you have any knowledge of advantageous bugs, glitches, or exploits, please report them immediately. Failure to do so will result in both parties being banned.
 
 * Using modifications to the game such as x-ray texture packs are also considered cheating.
+
+* Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord.
 
 
 
