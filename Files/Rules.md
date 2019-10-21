@@ -25,9 +25,9 @@ Last updated: October 18, 2019. View changes [here](https://github.com/Kyrobi/Cy
 
 
 ## 2. Do not advertise.
-* Advertising is prohibited in chat. Advertising consists of promoting anything that isn’t Cynagen related.
+* Advertising is prohibited in chat. Advertising consists of **promoting** anything that isn’t Cynagen related.
 
-* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. 
+* Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videosm google links, Twitch, and external sites are also allow provided you're sensible with them - no link to virus, NSFW, or the like.
 
 * If you advertise on the server, you will be punished depending on the severity and frequency of the advertisement.
 
