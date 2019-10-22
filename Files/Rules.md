@@ -38,7 +38,7 @@ Last updated: October 18, 2019. View changes [here](https://github.com/Kyrobi/Cy
 ## 3. Be Respectful to everyone. 
 * You are allowed to swear on this server, but you may not direct your language toward another user with intent to be harmful. Staff will decide if the language is used to harm others. If you'd like to debate your case, you will need to provide evidence that you’re not violating the rule.
 
-* Racist rhetorics are not allowed anywhere on the server (builds, chat, books, signs, etc).
+* Demeaning rhetorics are not allowed anywhere on the server (builds, chat, books, signs, etc).
 
 * Cyber-bullying, harassment, and doing things to create chaos isn’t allowed.
 
