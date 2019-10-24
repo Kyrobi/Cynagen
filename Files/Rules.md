@@ -8,13 +8,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 * Griefing what is considered an abandoned build is generally not allowed. If a staff later finds out you griefed, you’ll still be punished.
 
-* If a person trusts you onto their land and you griefed from it, you will be punished.
-
 * If a person requests for you to leave their claim for any reason, you must comply with their request. Not leaving will result in you being teleported away. If you return to the claim without permission from the person, you will be punished.
-
-* Purposely claiming land or building right next to an existing claim or build is not permitted.
-
-* Placing blocks to purposely harm another player’s build is considered griefing.
 
 * If you live inside a person's claim, the owner of the claim has the final say. This includes kicking you out without notice, telling you where to build, and etc. Land claim owner's actions cannot supersede the server's rule: destroying your build, killing your animals, and etc. 
 
@@ -47,15 +41,9 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 ## 4. Keep the server peaceful and enjoyable.
 * Keep controversial topics such as political or religious related issues out of the server.
 
-* If you are doing something the players on the server wish for you to stop, then you need to stop. If you feel what you're doing is reasonable, you may explain the situation to the players. If you're unsure, contact a staff about it.
-
-* Spamming is not allowed. Spamming includes filling the chat with multiple messages or excessive CAPS.
-
 * Inappropriate skins are not allowed on the server. You will be reqested to change your skin. Failure to change your skin will result in a ban.
 
 * Inappropriate usernames are not allowed on the server. You will be requested to make a name change. Failure to change your name will result in a ban.
-
-* You may not use nicknames or usernames to harass, bully, spam, or harm other users. 
 
 * Purposely causing lag to the server is not allowed. This includes anything that will jeopardize the server's integrity.
 
@@ -63,7 +51,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 * Structures like penises and middle fingers are allowed, but there are limitations. This is an out of sight, out of mind type of deal. If you don't want to be punished for it, put it somewhere where other people won't easily see it. This includes building it underground in a claim you own, inside of your house, or in an remote location where no one will see (as long as it's on claimed land that you actively use). Building it next to someone's house, outside of spawn, and randomly across the server is not allowed.
 
-* Anyone with bad faith and/or deliberarely irritates and harasses other player(s) within the game are not permitted on the server. 
+* ** Anyone with bad faith and/or deliberarely irritates and harasses other player(s) within the game are not permitted on the server. **
 
 
 
