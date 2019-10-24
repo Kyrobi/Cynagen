@@ -67,7 +67,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 
 ## 6. Use some common sense.
-* Common sense is this magical thing that very few people have. According to every dictionary ever made, it means that you shouldn’t be stupid.
+Common sense is this magical thing that very few people have. According to every dictionary ever made, it means that you shouldn’t be stupid.
 
 **a).** Bending the rules to fit your way counts as not having common sense.
 
@@ -79,7 +79,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **e).** Not following the rules is considered not having common sense.
 
-**af).** Going around a punishment is considered not having common sense.
+**f).** Going around a punishment is considered not having common sense.
 
 
 ## General
