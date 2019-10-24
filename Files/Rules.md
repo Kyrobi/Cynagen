@@ -1,4 +1,4 @@
-Last updated: October 18, 2019. View changes [here](https://github.com/Kyrobi/Cynagen/commits/master/Files)
+View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/Files)
 
 ## 1. Do not grief.
 
