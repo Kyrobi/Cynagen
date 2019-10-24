@@ -19,11 +19,11 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 ## 2. Do not advertise.
 **a).** Advertising is prohibited in chat. Advertising consists of **promoting** anything that isn’t Cynagen related.
 
-**b).** Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videosm google links, Twitch, and external sites are also allow provided you're sensible with them - no link to virus, NSFW, or the like.
+**b).** Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videos, Google links, Twitch, and external sites are allowed provided you're sensible with them - no linking to a virus, NSFW, or the like.
 
 **c).** If you advertise on the server, you will be punished depending on the severity and frequency of the advertisement.
 
-**d).** Advertising your in-game products is fine; you are allowed to promote your plot shop and products you are selling in-game as long as it isn’t excessive (excessive being less than 2 minutes in between each advertisement).
+**d).** Advertising your in-game products is fine; you are allowed to promote your plot shop and products you are selling in-game as long as it isn’t excessive (excessive being a period of time where you think won't annoy players on the server).
 
 
 
