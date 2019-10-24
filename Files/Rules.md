@@ -10,8 +10,6 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 * If a person trusts you onto their land and you griefed from it, you will be punished.
 
-* If a person is helping you and takes stuff from you by “accident”, they’ll have 2 days to restore the items before they are punished.
-
 * If a person requests for you to leave their claim for any reason, you must comply with their request. Not leaving will result in you being teleported away. If you return to the claim without permission from the person, you will be punished.
 
 * Purposely claiming land or building right next to an existing claim or build is not permitted.
