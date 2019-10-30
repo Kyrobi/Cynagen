@@ -31,7 +31,11 @@ This price list is crowd sourced.
 Any blocks you can get inside of the vanilla game.
 
 ### Stone
-**Price:**
+Price: N/A
+
+Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
+
+Description: A common item block that can be found anywhere in the world.
 
 
 # Items
