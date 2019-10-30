@@ -1,4 +1,4 @@
-## Price List
+## Normal Item Price List
 
 The list below might not always be up-to-date. You should also not take the price below as absolutes.
 The prices listed below are simply to provide users with some sort of base price. 
