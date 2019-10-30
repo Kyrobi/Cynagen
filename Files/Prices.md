@@ -19,10 +19,20 @@ This price list is crowd sourced.
 ![#5555FF](https://placehold.it/15/5555FF/000000?text=+) - **Rare**
 
 
+![#AAAAAA](https://placehold.it/15/AAAAAA/000000?text=+) - **Uncommon**
+
+
+![#000000](https://placehold.it/15/000000/000000?text=+) - **Common**
+
+
 ![#FFFF55](https://placehold.it/15/FFFF55/000000?text=+) - **Seasonal**
 
 # Blocks
 Any blocks you can get inside of the vanilla game.
+
+### Stone
+**Price:**
+
 
 # Items
 Any items you can get inside of the vanilla game.
