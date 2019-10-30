@@ -61,6 +61,11 @@ Rarity: ![#AAAAAA](https://placehold.it/15/AAAAAA/000000?text=+)
 
 
 
+
+# Special Items
+Any items that you can not get inside the vanilla game OR any items acquired from events, monthly items, or other non-conventional ways.
+
+
 The colors are what the items will be colored ingame. Only really applies to special items.
 
 ![#FF5555](https://placehold.it/15/FF5555/000000?text=+) - **Ethereal**
@@ -76,10 +81,6 @@ The colors are what the items will be colored ingame. Only really applies to spe
 
 
 ![#FFFF55](https://placehold.it/15/FFFF55/000000?text=+) - **Seasonal**
-
-
-# Special Items
-Any items that you can not get inside the vanilla game OR any items acquired from events, monthly items, or other non-conventional ways.
 
 ___
 **Legendary Broadsword**
