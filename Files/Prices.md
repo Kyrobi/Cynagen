@@ -33,7 +33,7 @@ Any blocks you can get inside of the vanilla game.
 ___
 **Stone**
 
-Price: N/A
+Price: $2/per | $3/stack
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 ___
