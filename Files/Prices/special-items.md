@@ -20,3 +20,5 @@ This price list is crowd sourced.
 
 
 ![#FFFF55](https://placehold.it/15/FFFF55/000000?text=+) - **Seasonal**
+
+**Tip: To quickly find the item you want, press `CTRL + F` and type in the item's name**
