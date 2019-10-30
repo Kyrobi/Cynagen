@@ -87,4 +87,4 @@ Price Per: N/A
 
 Rarity: ![#FF5555](https://placehold.it/15/FF5555/000000?text=+)
 
-Description: A powerful monthly weapon that could of been bought from the monthly item store. Could be bought for $20,000.
+Description: A powerful sword from the monthly item store. Could be bought for $20,000.
