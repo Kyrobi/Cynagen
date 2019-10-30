@@ -9,10 +9,7 @@ This price list is crowd sourced.
 
 # Normal Items
 
-___
-**Stone**
 
-Price Per: $2
 ___
 **Cobblestone**
 
@@ -22,13 +19,18 @@ ___
 
 Price Per: N/A
 ___
+**Emerald**
+
+Price Per: N/A
+___
 **Grass Block**
 
 Price Per: N/A
 ___
-**Emerald**
+**Stone**
 
-Price Per: N/A
+Price Per: $2
+___
 
 
 
