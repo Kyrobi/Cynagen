@@ -31,28 +31,28 @@ This price list is crowd sourced.
 Any blocks you can get inside of the vanilla game.
 
 ___
-### Stone
+**Stone**
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 
 Description: N/A
 ___
-### Cobblestone
+**Cobblestone**
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 
 Description: N/A
 ___
-### Cobblestone
+**Dirt**
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 
 Description: N/A
 ___
-### Cobblestone
+**Grass Block**
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
