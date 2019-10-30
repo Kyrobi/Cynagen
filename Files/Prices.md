@@ -30,12 +30,21 @@ This price list is crowd sourced.
 # Blocks
 Any blocks you can get inside of the vanilla game.
 
+
 ### Stone
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 
-Description: A common item block that can be found anywhere in the world.
+Description: N/A
+
+
+### Cobblestone
+Price: N/A
+
+Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
+
+Description: N/A
 
 
 # Items
