@@ -5,7 +5,7 @@ The prices listed below are simply to provide users with some sort of base price
 
 If you would like to update prices, you can make a pull request. 
 
-This price list is crowd sourced. 
+This price list is crowd sourced. List is also in alphabetical order.
 
 # Normal Items
 
