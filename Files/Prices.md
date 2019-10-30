@@ -20,3 +20,12 @@ This price list is crowd sourced.
 
 
 ![#FFFF55](https://placehold.it/15/FFFF55/000000?text=+) - **Seasonal**
+
+# Blocks
+Any blocks you can get inside of the vanilla game.
+
+# Items
+Any items you can get inside of the vanilla game.
+
+# Special Items
+Any items that you can not get inside the vanilla game OR any items acquired from events, monthly items, or other non-conventional ways.
