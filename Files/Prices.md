@@ -36,32 +36,24 @@ ___
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
-
-Description: N/A
 ___
 **Cobblestone**
 
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
-
-Description: N/A
 ___
 **Dirt**
 
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
-
-Description: N/A
 ___
 **Grass Block**
 
 Price: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
-
-Description: N/A
 
 
 
