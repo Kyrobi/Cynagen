@@ -7,8 +7,7 @@ If you would like to update prices, you can make a pull request.
 
 This price list is crowd sourced. 
 
-# Blocks
-Any blocks you can get inside of the vanilla game.
+# Normal Items
 
 ___
 **Stone**
