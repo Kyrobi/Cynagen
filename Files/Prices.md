@@ -47,8 +47,6 @@ ___
 
 Price Per: N/A
 
-Rarity: ![#AAAAAA](https://placehold.it/15/AAAAAA/000000?text=+)
-
 
 
 
