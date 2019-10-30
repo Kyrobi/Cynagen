@@ -26,22 +26,6 @@ ___
 **Grass Block**
 
 Price Per: N/A
-
-
-
-
-
-
-<!-- Please keep a large blank space between each category -->
-
-
-
-
-
-
-# Items
-Any items you can get inside of the vanilla game.
-
 ___
 **Emerald**
 
