@@ -33,25 +33,25 @@ Any blocks you can get inside of the vanilla game.
 ___
 **Stone**
 
-Price: $2/per | $3/stack
+Price Per: $2
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 ___
 **Cobblestone**
 
-Price: N/A
+Price Per: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 ___
 **Dirt**
 
-Price: N/A
+Price Per: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 ___
 **Grass Block**
 
-Price: N/A
+Price Per: N/A
 
 Rarity: ![#000000](https://placehold.it/15/000000/000000?text=+)
 
