@@ -13,23 +13,23 @@ This price list is crowd sourced. List is also in alphabetical order.
 ___
 **Cobblestone**
 
-Price Per: N/A
+Price Per: $0.02
 ___
 **Dirt**
 
-Price Per: N/A
+Price Per: $0.02
 ___
 **Emerald**
 
-Price Per: N/A
+Price Per: $2.50
 ___
 **Grass Block**
 
-Price Per: N/A
+Price Per: $0.04
 ___
 **Stone**
 
-Price Per: $2
+Price Per: $0.04
 ___
 
 
