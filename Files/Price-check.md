@@ -8,24 +8,24 @@ The colors are what the items will be colored ingame. Only really applies to spe
 ___
 **Legendary Broadsword** 
 
-Price Per: N/A
+Price Per: $20,000
 
-Description: A powerful sword from the monthly item store. Could be bought for $20,000.
+Description: A powerful sword with very high base damage. Purchased from the limited time shop.
 
 Note: This item is no longer available to be bought from the server. It will also not be returning to the shop.
 ___
 **Bottled Fart** 
 
-Price Per: N/A
+Price Per: $200
 
-Description: "Makes you die". A splash potion from the monthly item store. Could be bought for $200.
+Description: "Makes you die". Purchased from the limited time shop.
 
 Note: This item is no longer available to be bought from the server.
 ___
 **Deadly Precision** 
 
-Price Per: N/A
+Price Per: $40,000
 
-Description: "Makes you die". A splash potion from the monthly item store. Could be bought for $200.
+Description: "A bow with deadly precision". Purchased from the limited time shop.
 
 Note: This item is no longer available to be bought from the server.
