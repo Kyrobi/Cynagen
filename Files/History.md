@@ -7,11 +7,24 @@ Some events might not has as much detail as parts were forgotten.
 
 # Age of Drama
 
+# The War II
+### April, 2018
+A major Cynagen player, GamerFishy, eventually gained Moderator status on Fixerboy's version of Cynagen. GamerFishy wanted to be a Moderator on the actual Cynagen when it was still up. Now that she's a Moderator, she dedcided to stay on Fixerboy's server. The rest of the Cynagen members saw this as a betrayal. The fact that she abandoned all of the other players just so she could be a staff on the other Cynagen.
+
+Due to this, members of Cynagen decided to go on Fixerboy's server and cause mayhem. Weeks later, GamerFishy officially hates all the Cynagen member, include the server in it's entirety. She thinks that the server is racist, homophobic, and ablist. In retaliation, the members of Cynagen also began to despise her more.
+
+
 # The Secret Month
+### Last few days of March, 2018
+I decided that it's time to bring the server back again. The Cynagen that Fixerboy owned didn't end well and the friends that were on the private server are no longer active. This is an attempt to bring back everything that was lost.
+
+### Late to mid March, 2018
+The twenty or so players that were invited onto the private server became less and less active. It came to a point where no one would be online anymore.
+
+### March 1, 2018
+Due to the original Cynagen shutting down, I decided to make a private server to have a select few on Cynagen to play on it. It was just a small vanilla server with custom terrain generation.
 
 # The War 
-
-### March 2018
 
 
 ### Febuarary 2018
