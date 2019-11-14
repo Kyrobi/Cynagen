@@ -2,6 +2,8 @@ Note: Some events might not have dates attached to them or only have a very broa
 
 Some events might not has as much detail as parts were forgotten. 
 
+### November 13, 2019
+socksguy was the first person to obtain the **Blinding Light of Destiny**. (478 days since initial release)
 
 # Age of Recovery
 
