@@ -64,7 +64,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord.
 
-**e).** This includes using anything that gives the user a clear advantage on the server. If you're not sure, ask in our Discord.
+**e).** Using anything that gives the user a clear advantage on the server. If you're not sure, ask in our Discord.
 
 
 
