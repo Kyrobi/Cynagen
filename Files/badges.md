@@ -8,6 +8,8 @@
 ## Special Event Ranks
 
 **[Winter Soldier]** 
+
 Difficulty: Extreme
+
 How to get: Get this by killing the enderdragon(s) / wither(s) on the 2019 Eternal Winter event server.
 
