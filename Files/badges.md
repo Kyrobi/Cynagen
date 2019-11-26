@@ -2,6 +2,12 @@
 
 **[GayLord]** - You get this by getting 100% gayness from the command '/igay' on the Discord server.
 
-### Special Event Ranks
 
-**[Winter Soldier]** - Get this by killing the enderdragon(s) / wither(s) on the 2019 Eternal Winter event server.
+Difficulty: Easy, Normal, Hard, Extreme
+
+## Special Event Ranks
+
+**[Winter Soldier]** 
+Difficulty: Extreme
+How to get: Get this by killing the enderdragon(s) / wither(s) on the 2019 Eternal Winter event server.
+
