@@ -3,7 +3,7 @@
 **[GayLord]** - You get this by getting 100% gayness from the command '/igay' on the Discord server.
 
 
-Difficulty: Easy, Normal, Hard, Extreme
+**Difficulty: Easy, Normal, Hard, Extreme**
 
 ## Special Event Ranks
 
