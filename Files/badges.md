@@ -1,4 +1,4 @@
-**Difficulty: Easy, Normal, Hard, Extreme**
+**Difficulty: Easy, Normal, Hard, Extreme, Impossible**
 
 
 ### [x Year] 
@@ -17,6 +17,15 @@ Difficulty: Hard
 How to get: You get this by getting 100% gayness from the command '/igay' on the Discord server.
 
 Description: Only the true Gaylord has the patience to issue that many commands.
+
+
+### [BLOD]
+
+Difficulty: Impossible
+
+How to get: Get this by crafting **Blinding Light of Destiny** on the server.
+
+Description: You have unlocked the Blinding Light of Destiny! You are truly a legendary player.
 
 
 # Special Event Ranks
