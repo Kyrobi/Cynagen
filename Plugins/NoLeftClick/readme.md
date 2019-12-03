@@ -5,3 +5,5 @@ Permissions:
 - `leftclick.bypass`
 
 - Allows you to left click.
+
+A .jar file is included for those who can't/don't want to compile it themselves.
