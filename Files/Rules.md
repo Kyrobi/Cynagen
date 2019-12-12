@@ -92,6 +92,8 @@ Common sense is this magical thing that very few people have. According to every
 
 * You may not build any __**AFK**__ machines.
 
+* You are not allow to profit from strcitly VIP only items / perks. 
+
 ============================================================
 
 * Before being punished, you have the right to request from a staff which rule you've violated.
