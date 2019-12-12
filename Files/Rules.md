@@ -92,7 +92,7 @@ Common sense is this magical thing that very few people have. According to every
 
 * You may not build any __**AFK**__ machines.
 
-* You are not allow to profit from strcitly VIP only items / perks. 
+* You are not allow to profit from strcitly VIP specific items / perks. 
 
 ============================================================
 
