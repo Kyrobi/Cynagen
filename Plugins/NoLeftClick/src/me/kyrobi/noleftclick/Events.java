@@ -18,7 +18,7 @@ public class Events implements Listener{
 	}
 	
 	
-	@EventHandler //Uh... does nothing
+	@EventHandler //Prevents right-clicking on an entity
 	public void leftClickPlayer(PlayerInteractEntityEvent ev) {
 	    
 		ev.setCancelled(true);
