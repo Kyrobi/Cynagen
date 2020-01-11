@@ -21,6 +21,6 @@ Please title this post "Ban Appeal:" followed by a name
 
 **I like to be unbanned because**:
 
-**I often slap little kids because**:
+**What's wrong with you?**:
 
 **Additional information**: (Optional)
