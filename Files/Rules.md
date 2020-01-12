@@ -6,7 +6,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **b).** Unless given explicit permission from a staff or the owner of the build, destroying anything placed by hand is considered griefing.
 
-**c).** Griefing what is considered an abandoned build is generally not allowed. If a staff later finds out you griefed, you’ll still be punished.
+**c).** Griefing what is considered an abandoned build is generally not allowed.
 
 **d).** If a person requests for you to leave their claim for any reason, you must comply with their request. Not leaving will result in you being teleported away. If you return to the claim without permission from the person, you will be punished.
 
@@ -21,14 +21,10 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **b).** Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videos, Google links, Twitch, and external sites are allowed provided you're sensible with them - no linking to a virus, NSFW, or the like.
 
-**c).** If you advertise on the server, you will be punished depending on the severity and frequency of the advertisement.
-
-**d).** Advertising your in-game products is fine; you are allowed to promote your plot shop and products you are selling in-game as long as it isn’t excessive (excessive being a period of time where you think won't annoy players on the server).
-
 
 
 ## 3. Be Respectful to everyone. 
-**a).** You are allowed to swear on this server, but you may not direct your language toward another user with intent to be harmful. Staff will decide if the language is used to harm others. If you'd like to debate your case, you will need to provide evidence that you’re not violating the rule.
+**a).** You are allowed to swear on this server, but you may not direct your language toward another user with intent to be harmful.
 
 **b).** Demeaning rhetorics are not allowed anywhere on the server (builds, chat, books, signs, etc).
 
@@ -47,9 +43,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **d).** Purposely causing lag to the server is not allowed. This includes anything that will jeopardize the server's integrity.
 
-**e).** Any build(s) that pose as hate crime, inciting hate, religious matters, political matters, and etc are not allowed.
-
-**f).** Anyone with bad faith and/or deliberately irritates and harasses other player(s) within the game are not permitted on the server.
+**e).** Anyone with bad faith and/or deliberately irritates and harasses other player(s) within the game are not permitted on the server.
 
 
 
@@ -58,7 +52,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **b).** If you have any knowledge of advantageous bugs, glitches, or exploits, please report them immediately. Failure to do so will result in both parties being banned.
 
-**c).** Using modifications to the game such as x-ray texture packs are also considered cheating.
+**c).** Using modifications to the game such as x-ray texture packs is also considered cheating.
 
 **d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord.
 
@@ -69,19 +63,13 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 ## 6. Use some common sense.
 Common sense is this magical thing that very few people have. According to every dictionary ever made, it means that you shouldn’t be stupid.
 
-**a).** Bending the rules to fit your way counts as not having common sense.
+**a).** Encouraging players to break the rules counts as not having common sense.
 
-**b).** Encouraging players to break the rules counts as not having common sense.
+**b).** Not following the rules is considered not having common sense.
 
-**c).** Finding a glitch and not reporting it counts as not having common sense.
+**c).** Going around a punishment is considered not having common sense.
 
-**d).** Stealing other player’s dropped items counts as not having common sense.
-
-**e).** Not following the rules is considered not having common sense.
-
-**f).** Going around a punishment is considered not having common sense.
-
-**g).** Going around the spirit or the intent of the rules is not allowed.
+**d).** Going around the spirit or the intent of the rules is not allowed.
 
 
 ## General
@@ -93,6 +81,8 @@ Common sense is this magical thing that very few people have. According to every
 * You may not build any __**AFK**__ machines.
 
 * You are not allow to profit from strcitly VIP specific items / perks. 
+
+* The player is not allowed to perform any action(s) if they are not actually playing the game.
 
 ============================================================
 
