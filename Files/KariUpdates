@@ -1,0 +1,5 @@
+2.0.0 | Jan 15, 2019
+
+- Recoded the bot in Java
+- Bot commands are no longer case sensitive
+- Bot fixes to ^uptime not tracking hours correctly
