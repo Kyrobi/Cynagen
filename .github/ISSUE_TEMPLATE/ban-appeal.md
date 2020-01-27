@@ -11,7 +11,7 @@ Please title this post "Ban Appeal:" followed by a name
 
 **Minecraft username**:
 
-**I was banned on**: (date)
+**I was banned on**: (Format: Dec 23, 2012)
 
 **I was banned by**: (Leave blank if unknown)
 
@@ -21,6 +21,6 @@ Please title this post "Ban Appeal:" followed by a name
 
 **I like to be unbanned because**:
 
-**What's wrong with you?**:
+**What's your opinion on getting tattoos?**:
 
 **Additional information**: (Optional)
