@@ -1,0 +1,9 @@
+This folder contains the server settings and plugin settings for the server. I will try my best to keep everything here up-to-date.
+
+Everything posted here is up to my descretion. Not everything will be public. Example of such things would be special anticheat settings,
+passwords, seeds, player's private profiles / saves, and the likes.
+
+Why am I making most of the settings public? It's so that techinical players can dive in and see how things work on the server.
+It also further broadends the information avaiable on the server for players to access. 
+
+If you would like to add, remove, or change some configs which you think will benefit the server, feel free to make a pull request.
