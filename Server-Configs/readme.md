@@ -9,3 +9,18 @@ It also further broadends the information avaiable on the server for players to 
 If you would like to add, remove, or change some configs in ways you think will benefit the server, feel free to make a pull request.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+inb4 Aznation (or other servers) uses this info for their own benefits.
+
+
