@@ -9,6 +9,7 @@ If you would like to add, remove, or change some configs in ways you think will 
 
 
 >inb4 Aznation (or other servers) cops this for their own benefits.
+
 >mfw when servers are too lazy to set up their own permissions so they use this
 
 
