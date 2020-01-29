@@ -1,4 +1,4 @@
-This folder contains the server settings and plugin settings for the server. I will try my best to keep everything here up-to-date.
+This folder contains the server settings and plugin settings for the server. I will try my best to keep everything here up-to-date and have it synced with the actual server.
 
 Everything posted here is up to my descretion. Not everything will be public. Example of such things would be special anticheat settings,
 passwords, seeds, player's private save data, and the likes. This is so that security won't be jeopodized - to an extent anyways.
