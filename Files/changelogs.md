@@ -1,3 +1,5 @@
+Please note that this document might not always be up to date (Kinda ironic). If you want the latest updates, consider joining our [Discord](https://discordapp.com/invite/B5JW7qp).
+
 Page basically contains slightly less important things than the updates page.
 
 ## Aug 24, 2019
