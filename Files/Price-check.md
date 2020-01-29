@@ -4,7 +4,17 @@ Any items that you can not get inside the vanilla game OR any items acquired fro
 
 The colors are what the items will be colored ingame. Only really applies to special items.
 
+# Limited Time Items
+___
+**Cannabis** 
 
+Price Per: $1,000
+
+Description: A powerful drug with interesting effects.
+Warning: Do not try at home.
+___
+
+# Other Special Items
 ___
 **Legendary Broadsword** 
 
