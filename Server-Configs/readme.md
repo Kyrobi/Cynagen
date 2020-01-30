@@ -13,7 +13,7 @@ It will also further broadends the information avaiable on the server for player
 
 If you would like to add, remove, or change some configs in ways you think will benefit the server, feel free to make a pull request.
 
-##Honorable mention
+## Honorable mention
 >inb4 Aznation [accuses me](https://telegra.ph/AZnAtiON-pls-no-kil-me-01-30) of stealing their server info.
 
 
