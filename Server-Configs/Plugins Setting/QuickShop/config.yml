@@ -1,0 +1,180 @@
+# 
+# whether to use decimal format output.
+config-version: 78
+language: en-US
+dev-mode: false
+tax: 0.09
+tax-account: tax
+show-tax: true
+log-actions: false
+whole-number-prices-only: false
+force-bukkit-chat-handler: false
+disabled-metrics: true
+updater: false
+auto-report-errors: false
+include-offlineplayer-list: false
+database:
+  mysql: false
+  host: localhost
+  port: 3306
+  database: quickshop
+  user: root
+  password: passwd
+  prefix: none
+  usessl: false
+  queue: true
+  auto-fix-encoding-issue-in-database: false
+limits:
+  use: false
+  default: 10
+  old-algorithm: false
+  ranks:
+    quickshop:
+      vip: 20
+shop-blocks:
+- CHEST
+- TRAPPED_CHEST
+shop:
+  allow-economy-loan: true
+  update-sign-when-inventory-moving: true
+  cost: 10
+  refund: false
+  price-change-requires-fee: false
+  fee-for-price-change: 10
+  lock: true
+  sneak-to-create: true
+  sneak-to-trade: false
+  sneak-to-control: false
+  auto-sign: true
+  pay-unlimited-shop-owners: false
+  display-items: false
+  display-items-check-ticks: 6000
+  display-type: 0
+  find-distance: 80
+  alternate-currency-symbol: $
+  disable-vault-format: false
+  ignore-unlimited-shop-messages: false
+  special-region-only: false
+  auto-fetch-shop-messages: false
+  ignore-cancel-chat-event: true
+  allow-shop-without-space-for-sign: false
+  maximum-price: -1
+  sign-material: OAK_WALL_SIGN
+  blacklist-world:
+  - disabled_world_name
+  protection-checking: true
+  display-item-use-name: false
+  max-shops-checks-in-once: 100
+  enchance-display-protect: false
+  enchance-shop-protect: false
+  display-auto-despawn: false
+  display-despawn-range: 10
+  display-check-time: 10
+  word-for-sell-all-items: all
+  word-for-trade-all-items: all
+  ongoing-fee:
+    enable: false
+    ticks: 42000
+    cost-per-shop: 2
+    ignore-unlimited: true
+    async: true
+  allow-free-shop: false
+  minimum-price: 0.01
+  show-owner-uuid-in-controlpanel-if-op: false
+  blacklist-lores:
+  - SoulBound
+  force-load-downgrade-items:
+    enable: false
+    method: 0
+  use-fast-shop-search-algorithm: false
+blacklist:
+- Bedrock
+lockette:
+  enable: false
+  private: '[Private]'
+  more_users: '[More Users]'
+plugin:
+  Multiverse-Core: false
+  OpenInv: true
+  PlaceHolderAPI: true
+effect:
+  sound:
+    ontabcomplete: false
+    oncommand: false
+    onclick: false
+matcher:
+  item:
+    damage: true
+    displayname: true
+    lores: true
+    enchs: true
+    potions: true
+    attributes: true
+    itemflags: true
+    custommodeldata: true
+    repaircost: false
+  work-type: 0
+server-uuid: 0be9c151-b752-49b5-983c-a3b80dfde4e5
+economy-type: 0
+update-sign-when-inventory-moving: true
+allow-economy-loan: true
+send-display-item-protection-alert: false
+use-decimal-format: false
+decimal-format: '#,###.##'
+disable-debuglogger: true
+cachingpool:
+  enable: false
+  maxsize: 100000000
+server-platform: 0
+mixedeconomy:
+  deposit: eco give {0} {1}
+  withdraw: eco take {0} {1}
+game-language: default
+maximum-digits-in-price: -1
+send-shop-protection-alert: false
+integration:
+  towny:
+    enable: false
+    create:
+    - SHOPTYPE
+    - MODIFY
+    trade: []
+  worldguard:
+    enable: false
+    create:
+    - FLAG
+    - CHEST_ACCESS
+    trade: []
+  plotsquared:
+    enable: false
+  residence:
+    enable: false
+    create:
+    - FLAG
+    - interact
+    - use
+    trade: []
+  factions:
+    enable: false
+    create:
+      flag: []
+      require:
+        open: false
+        normal: true
+        wilderness: false
+        peaceful: true
+        permanent: false
+        safezone: false
+        own: false
+        warzone: false
+    trade:
+      flag: []
+      require:
+        open: false
+        normal: true
+        wilderness: false
+        peaceful: false
+        permanent: false
+        safezone: false
+        own: false
+        warzone: false

@@ -1,0 +1,407 @@
+#                                                                                                        
+#     _/_/_/_/                                _/_/_/                        _/                           
+#    _/          _/_/_/    _/_/_/  _/    _/  _/    _/    _/_/_/    _/_/_/  _/  _/    _/    _/  _/_/_/    
+#   _/_/_/    _/    _/  _/_/      _/    _/  _/_/_/    _/    _/  _/        _/_/      _/    _/  _/    _/   
+#  _/        _/    _/      _/_/  _/    _/  _/    _/  _/    _/  _/        _/  _/    _/    _/  _/    _/    
+# _/_/_/_/    _/_/_/  _/_/_/      _/_/_/  _/_/_/      _/_/_/    _/_/_/  _/    _/    _/_/_/  _/_/_/       
+#                                    _/                                                    _/            
+#                               _/_/                                                      _/             
+# Main Configuration
+#  
+# Thank you very much for purchasing my plugin <3
+# If you have any questions / problems, please use my online service desk:
+# https://prodigysupport.team/tickets/servicedesk/customer/portal/1
+# ~ JarFiles
+
+# Enables / Disables Debug mode
+debug: false
+# Enables / Disables Passwords config encryption
+password-encryption: false
+# Enables / Disables Ingame Commands
+ingame-commands: true
+backup:
+  # You can change the backups master folder here
+  # Do not change is unless you know what you are doing
+  master-folder: .
+  # You can change the save location of the backups here
+  # Do not change is unless you know what you are doing
+  #  
+  # Placeholders:
+  # {pluginname} - name of the plugin
+  # {plugindir} - home directory of the plugin (Something like plugins/EasyBackup/)
+  save-location: '{plugindir}/backups'
+  # You can change the name of the backup here
+  #  
+  # Placeholders
+  # {time} - will be replaced with the backup time
+  file-name: backup_{time}
+  password:
+    # Enables / Disables password and file encryption
+    enabled: false
+    # Set your backup password.
+    # NOTE IT SOMEWHERE. THERE IS NOT WAY TO RESTORE IT
+    password: ''
+  # You can define how the {time} placeholder will be handled
+  # For more information see:
+  # https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+  time-format: MM_dd_yyyy-hh_mm_ss_aa
+  # You can set the max amount of backups you want on your local server here
+  # Set it to '-1' to disable it
+  max-backups-before-erase: 1
+  anti-lag:
+    # Enables / Disables Anti Lag Feature which will slow down the backup to prevent lags
+    enabled: true
+    # Set the threshold for the anti lag feature. Default is 1.5 which means if the tps drops about 1.5 after the backup started the backup will slow down
+    threshold: 1.5
+  schedule:
+    # Controls when backups are automatically made
+    #  
+    # Normal Schedule: 
+    # For daily backups, just enter the time.
+    # If you do not include AM or PM, it will be in military time.
+    # To backup on specific days, write the day before the time on the same line
+    # To be safe, put single quotes around your backup schedule: '17:30'
+    # Example: 
+    # DAY HOUR:MINUTE PM
+    # HOUR:MINUTE AM (Exclude day for daily)
+    # HOUR:MINUTE (24 hour time)
+    # Mon Wed Fri 7:00
+    # 4:00 AM
+    #  
+    # Cron Schedule: 
+    # If you want to use cron expressions instead of the normal schedule, clear the list below and enter
+    # your expressions. Do NOT forget to enable cron expressions support below
+    # Example: '0 0 0 ? * * *' to create a backup every day at 00:00:00
+    # If you need help with creating your own cron expressions, check out https://www.freeformatter.com/cron-expression-generator-quartz.html
+    list:
+    - 0 0 0 ? * * *
+    # Enables / Disables Cron Expressions support for the backup schedule
+    cron-enabled: false
+    # Set the interval between each check if it's time to create a backup
+    # Value is in seconds
+    check-interval: 1
+  # Enables / Disables the usage of the exempt patterns below
+  use-exempt: true
+  # You can specify which files you don't want to be backed up
+  # HOW IT WORKS:
+  # A new File instance will be created for each string below
+  # This means: If you set it to 'logs' for example, 
+  # the plugin will search for a directory named 'logs' in the main server directory
+  # The Directory and all sub files and directory will be excluded. 
+  # If you only want to exlude a single file, you have to set it to the full file name
+  # Like: 'logs/latest.log'
+  #  
+  # IF YOU ENABLED EXEMPT_REGEX YOU HAVE TO SPECIFY REGEX EXPRESSIONS HERE
+  # THE BACKUP DIRECTORY IS EXCLUDED BY DEFAULT
+  exempt-files:
+  - logs
+  - plugins/dynmap/web/tiles
+  - plugins/EasyBackup/backups
+  - plugins/CoreProtect
+  - plugins/Matrix/logs
+  # Commands which will be executed once a backup starts
+  #  
+  # Prefixes:
+  # system - executes the command on the system
+  # server - executes the command on the server the plugin is running on
+  #  
+  # Example:
+  # system:sh -c this is my test command
+  # server:say I just found out how the command feature works
+  start-commands: []
+  # Commands which will be executed once a backup starts
+  #  
+  # Prefixes:
+  # system - executes the command on the finish
+  # server - executes the command on the server the plugin is running on
+  #  
+  # Example:
+  # system:sh -c this is my test command
+  # server:say I just found out how the command feature works
+  finish-commands: []
+  # Commands which will be executed once a backup fails
+  #  
+  # Prefixes:
+  # system - executes the command on the system
+  # server - executes the command on the server the plugin is running on
+  #  
+  # Example:
+  # system:sh -c this is my test command
+  # server:say I just found out how the command feature works
+  fail-commands: []
+  cleaner:
+    # Enables / Disables the cleaner
+    enabled: true
+    # Set the amount of days after the files should be deleted
+    days-old: 7
+    # Set the directories in which the cleaner checks for files to be deleted
+    directories:
+    - logs
+    # Enables / Disables the usage of the pattern list below
+    # If you disabled this all files which are old enough will be deleted
+    use-patterns: false
+    # You can specify which files you want to be checked by the cleaner
+    # Each filename will be checked against the specified patterns below
+    # If a match is found and the file is old enough, the file will be deleted
+    # You can test your expressions here: https://regex101.com
+    file-pattern: []
+    # Enables / Disables recursive checking of directories
+    recursive: false
+  mysql:
+    enabled: false
+    command: sh -c mysqldump -u %username% -p%password% %database% %tables% > %output_file%
+    use-auth-file: false
+    databases: []
+    # You can change the save location of the sql backups here
+    # Do not change is unless you know what you are doing
+    #  
+    # Placeholders:
+    # {pluginname} - name of the plugin
+    # {plugindir} - home directory of the plugin (Something like plugins/EasyBackup/)
+    save-location: '{plugindir}/sqlbackups'
+    # You can change the name of the sql backup here
+    #  
+    # Placeholders
+    # {time} - will be replaced with the sql backup time
+    # {database} - database which the backup has been created of
+    file-name: backup_{database]_{time}
+    # You can define how the {time} placeholder will be handled
+    # For more information see:
+    # https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+    time-format: MM_dd_yyyy-hh_mm_ss_aa
+    direct-access:
+      # Enables / Disables Mysql Dumping by accessing the database directly (Does not require ssh access or something)
+      enabled: false
+      # Specify your JDBC Url here.
+      # Only change it if you know what you are doing.
+      # Make sure it contains the {database} placeholder which will be replaced with the database later
+      command: jdbc:mysql://localhost:3306/{database}?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false
+      # Specify which tables you want to be backed up here
+      # You must use the following format:
+      # DATABASE:USERNAME:PASSWORD[:TABLES]
+      # The Table argument is optional. If you don't specify it, all tables will be backed up
+      # For more details view the examples below
+      #  
+      # Example:
+      # thisismydb:testuser
+      # thisismydb:testuser:thisismypassword
+      # thisismydb2:testuser2:thisismypassword2[:iwantthistable:andthisonetoo]
+      databases: []
+    dump-command:
+      # Enables / Disables Mysql Dumping using the mysqldump command
+      enabled: false
+      # Specify your MysqlDump command here.
+      # You must use the following placeholders:
+      # - {database} will be replaced with the database name
+      # - {tables} will be relpaced with the tables name
+      # - {password} will be replaced with the users password
+      # - {username} will be replaced with the users name
+      # - {output_file} will be replaced with the path + name of the backup
+      #  
+      # IMPORTANT:
+      # The command must start with the application you are using:
+      # For Windows, it's 'cmd.exe /c <command>'
+      # For Linux, it usually is 'sh -c <command>'
+      # The command below is made for linux users. if you use windows, make sure to set it to 'cmd.exe /c <the command>'
+      command: sh -c mysqldump -u {username} -p{password} {database} {tables} > {output_file}
+      # Enables / Disables using the mysql auth file
+      # You don't have to use the {password} and {user} placeholder in the dump command if you enable this
+      use-auth-file: false
+      # Specify which tables you want to be backed up here
+      # You must use the following format:
+      # DATABASE:USERNAME:PASSWORD[:TABLES]
+      # If you are using the auth file to authenticate
+      # set both, username and password to 'authfile'
+      # The Table argument is optional. For more details view the examples below
+      #  
+      # Example:
+      # thisismydb:testuser
+      # thisismydb:testuser:thisismypassword
+      # thisismydb2:testuser2:thisismypassword2[:iwantthistable:andthisonetoo]
+      #  
+      # If you are using the authentication with the auth file, make sure to use:
+      # thisismydb:authfile:authfile
+      # thisismydb2:authfile:authfile[:iwantthistable:andthisonetoo]
+      databases: []
+  upload-services:
+    # Enables / Disables Local Backup Deletion after all uploads have been completed
+    delete-local: false
+    dropbox:
+      # Enables / Disables Dropbox Upload
+      enabled: false
+      # Paste your dropbox access token here
+      #  
+      # Instructions on how to get your token: 
+      # https://prodigysupport.team/wiki/eb/how-tos/how-to-get-your-dropbox-token
+      access-token: ''
+      # Set the DropBox path you want your files to be uploaded to
+      upload-path: /backups/
+      # You can set the max amount of backups you want in your dropbox here
+      # Set it to '-1' to disable it
+      max-backups-before-erase: -1
+      # You can configure the chunk size for uploads here
+      # DO NOT CHANGE THIS IF YOU ARE NOT SURE WHAT YOU ARE DOING
+      chunk-size: 8388608
+    ftp:
+      # Enables / Disables FTP Upload
+      enabled: false
+      ssh:
+        # If you are using ssh keys to authenticate with your ftp server
+        # You can enable or disable it here
+        use: false
+        # Set the path to your ssh private key here
+        private-key: ''
+        # Set your ssh private key passphrase here
+        passphrase: ''
+      # Select which ftp protocol you want to use.
+      # Available are: 
+      # - SFTP
+      # - FTP
+      # - FTPS
+      protocol: ftp
+      # Set your ftp host address here
+      host: example.com
+      # Set your ftp username here
+      username: root
+      # Set your ftp password here
+      password: ''
+      # Set your ftp port here
+      port: 21
+      # Set the FTP path you want your files to be uploaded to
+      upload-path: /root/backups/
+      # You can set the max amount of backups you want on your ftp server
+      # Set it to '-1' to disable it
+      max-backups-before-erase: -1
+    google-drive:
+      # Enables / Disables Google Drive Upload
+      enabled: false
+      # Paste your Google Drive access token here
+      #  
+      # Instructions on how to get your token: 
+      # https://prodigysupport.team/wiki/eb/how-tos/how-to-get-your-google-drive-refresh-token
+      refresh-token: ''
+      # Set the Google Drive path you want your files to be uploaded to
+      upload-path: /backups/
+      # You can set the max amount of backups you want in your google drive storage here
+      # Set it to '-1' to disable it
+      max-backups-before-erase: -1
+      # You can configure the chunk size for uploads here
+      # DO NOT CHANGE THIS IF YOU ARE NOT SURE WHAT YOU ARE DOING
+      chunk-size: 8388608
+  # Compression Level of the backup. Available are:
+  # HIGHEST
+  # HIGH
+  # NORMAL
+  # LOW
+  # LOWEST
+  # NONE
+  # A higher level means that the backup will be smaller,
+  # however it'll take longer to create the backup
+  compression-level: NORMAL
+  # Enables / Disables the usage of the regex expressions
+  use-pattern: false
+  disk-protection:
+    # Enables / Disables Disk protection
+    enabled: false
+    # Sets the disk protection threshold (in mb)
+    threshold: 500
+    # Enables / Disables Async Disc Protection Execution
+    async: false
+  notifier:
+    mail:
+      # Enables / Disables Mail Notifications
+      enabled: false
+      # Enables / Disables Mail Debugger (requires normal debug to be activated too)
+      debug: false
+      # SMTP Host
+      smtp-host: smtp.gmail.com
+      # SMTP Host
+      smtp-port: 587
+      # SMTP From Email Address
+      smtp-from: example@gmail.com
+      # SMTP From Name
+      smtp-from-custom-name: EasyBackup Notifications
+      # Enables / Disables Start TLS
+      tls-required: true
+      # SMTP Username (Usually your full email address)
+      smtp-username: example@gmail.com
+      # SMTP Password
+      #  
+      # Gmail Note:
+      # IF YOU HAVE 2FA ENABLED YOU MUST CREATE AN APP AND SET THE PASSWORD TO IT'S TOKEN
+      # To create an app token, follow the instructions here:
+      # https://support.google.com/mail/answer/185833?hl=en
+      password: your-gmail-account-password
+      # Set the email address(es) the email will be sent to
+      recipients:
+      - example@example.com
+      content:
+        # Set the emails content type here
+        type: text/plain; charset=utf-8
+        # Emails Subject
+        #  
+        # Placeholders:
+        # {event-type} - Event Type
+        # {event-message} - Custom Event Message
+        # {time} - Current time
+        subject: '[EasyBackup] {event-type}'
+        # Set the email body part here
+        #  
+        # Placeholders:
+        # {event-type} - Event Type
+        # {event-message} - Custom Event Message
+        # {time} - Current time
+        text: 'Type: {event-type}\nMessage: {event-message}\nTime: {time}'
+      # Enables / Disables sending of the OnCreate Event
+      on-create: false
+      # Enables / Disables sending of the OnFail Event
+      on-fail: false
+      # Enables / Disables sending of the OnSuccess Event
+      on-success: false
+  actionbar:
+    # Enables / Disables the action bar
+    enabled: false
+    colors:
+      # Set the colorcode which will be displayed for all not done bars
+      not-done: '7'
+      # Set the colorcode which will be displayed for all done bars
+      done: '6'
+      # Set the colorcode which will be displayed for all lag bars
+      lag: c
+    formats:
+      # Sets the bar's format
+      #  
+      # Placeholders:
+      # {prefix} - bar's prefix
+      # {bar} - formatted percentage bar
+      # {percentage} - current percentage
+      bar: '&7{prefix}: &r{bar} &7(&b{percentage}%&7)'
+    # Sets the bar's message format
+    #  
+    # Placeholders:
+    # {prefix} - bar's prefix
+    # {message} - message
+    formats-message: '&7{prefix}: {message}'
+  # Enables / Disables incremental backup mode
+  # You can read more about incremental backups here:
+  # https://prodigysupport.team/wiki/x/JgDBAg
+  #  
+  # NOTE:
+  # 1) YOU'LL HAVE TO DELETE ALL BACKUPS IN THE BACKUP
+  #    DIRECTORY IF YOU ENABLE OR DISABLED THIS!!!
+  #  
+  # 2) YOU MUST SET 'backup.max-backups-before-erase'
+  #    TO 2 OR ABOVE (OR -1)
+  is-incremental: false
+developer:
+  events:
+    # Enables / Disables Event sending
+    enabled: false
+    # Enables / Disables sending of the OnCreate Event
+    on-create: false
+    # Enables / Disables sending of the OnFail Event
+    on-fail: false
+    # Enables / Disables sending of the OnSuccess Event
+    on-success: false
+# Enables / Disables the Update Checker
+update-checker: true

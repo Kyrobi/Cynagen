@@ -1,0 +1,20 @@
+general:
+  max_length: 240
+  save_on_stop: true
+  use_mysql: false
+  use_offline_skins: true
+  hide_players: false
+  update_notifications: true
+  death_message: '&6{name} &7died.'
+  quit_message: '&6{name} &7left the game.'
+recording:
+  blocks:
+    enabled: true
+    real_changes: true
+  entities:
+    enabled: true
+    items:
+      enabled: true
+  chat:
+    enabled: false
+    format: '&r<{name}> {message}'

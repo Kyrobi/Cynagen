@@ -1,0 +1,91 @@
+# Rifle's Chair plugin by Rifle D. Luffy
+# Version 6.0
+# #=============[Seat Configuration]=============##
+# stair-seating-position: The exact positions of where the armorstand spawns on a stair; default 0.35,0.3,0.5
+# slab-seating-position: The exact positions of where the armorstand spawns on a slab; default 0.5,0.3,0.5
+# carpet-seating-position: The exact positions of where the armorstand spawns on a carpet; default 0.5,-0.15,0.5
+# be careful when playing around with this feature!
+# in the format x,y,z where...
+# x is forward
+# y is up
+# z is sideways (positive z is to the right, negative z is the left)
+stair-seating-position: 0.5,0.3,0.5
+slab-seating-positiong: 0.5,0.3,0.5
+carpet-seating-position: 0.5,-0.15,0.5
+seating-position: 0.35,0.3,0.5
+disable-update-message-if-on-latest: false
+disable-update-messages: true
+exit-seat-where-facing: false
+allow-trap-door-chairs: false
+require-empty-hand: false
+max-distance: 3
+max-item-count-to-sit: -1
+require-signs-at-end: false
+eject-player-on-damage: false
+minimum-eject-damage: 2
+face-attacker-when-ejected: false
+toss-player: false
+toss-velocity: 0.5
+scale-toss-velocity: true
+velocity-scale-factor: 2
+regen-when-sitting: false
+regen-potency: 0
+allow-custom-messages: false
+priority-on-if-has-perm: false
+allowed-chairs:
+- ACACIA_STAIRS
+- BIRCH_STAIRS
+- BRICK_STAIRS
+- COBBLESTONE_STAIRS
+- DARK_OAK_STAIRS
+- DARK_PRISMARINE_STAIRS
+- JUNGLE_STAIRS
+- NETHER_BRICK_STAIRS
+- OAK_STAIRS
+- PRISMARINE_BRICK_STAIRS
+- PRISMARINE_STAIRS
+- PURPUR_STAIRS
+- QUARTZ_STAIRS
+- RED_SANDSTONE_STAIRS
+- SANDSTONE_STAIRS
+- SPRUCE_STAIRS
+- WOOD_STAIRS
+- STONE_BRICK_STAIRS
+- ACACIA_SLAB
+- BIRCH_SLAB
+- BRICK_SLAB
+- COBBLESTONE_SLAB
+- DARK_OAK_SLAB
+- DARK_PRISMARINE_SLAB
+- JUNGLE_SLAB
+- NETHER_BRICK_SLAB
+- OAK_SLAB
+- PETRIFIED_OAK_SLAB
+- PRISMARINE_BRICK_SLAB
+- PRISMARINE_SLAB
+- PURPUR_SLAB
+- QUARTZ_SLAB
+- RED_SANDSTONE_SLAB
+- SANDSTONE_SLAB
+- SPRUCE_SLAB
+- STONE_BRICK_SLAB
+- STONE_SLAB
+- BLACK_CARPET
+- BLUE_CARPET
+- BROWN_CARPET
+- CYAN_CARPET
+- GRAY_CARPET
+- GREEN_CARPET
+- LIGHT_BLUE_CARPET
+- LIGHT_GRAY_CARPET
+- LIME_CARPET
+- MAGENTA_CARPET
+- ORANGE_CARPET
+- PINK_CARPET
+- PURPLE_CARPET
+- RED_CARPET
+- WHITE_CARPET
+- YELLOW_CARPET
+- WHITE_CARPET
+blacklisted-chairs: []
+disabled-worlds: []

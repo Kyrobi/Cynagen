@@ -1,0 +1,71 @@
+#------------------------------------------------#
+#     ____              __   _   __      __      #
+#    / __ )____ _____  / /__/ | / /___  / /____  #
+#   / __  / __ `/ __ \/ //_/  |/ / __ \/ __/ _ \ #
+#  / /_/ / /_/ / / / / ,< / /|  / /_/ / /_/  __/ #
+# /_____/\__,_/_/ /_/_/|_/_/ |_/\____/\__/\___/  #
+#                                 by Ryuji(Ryu)  #
+#------------------------------------------------#
+settings:
+ # This is the min amount a player may withdraw at a time.
+  min-withdrawal-amount: 10.0
+ # This is the max amount a player may withdraw at a time.
+  max-withdrawal-amount: 3000000.0
+ # This allow you to set the minimal decimal places a number will for example
+ # having it set as 1 will make the number format as so: 100.0
+  minimal-decimal-places: 0
+ # This allow you to set the maximum decimal places a number will for example
+ # having it set as 2 will make the number format as so: 100.00
+  maximum-decimal-places: 0
+ # This would be the Signer of the banknote in the give or giveall command
+ # if you don't provide a signer in the command
+  default-signer: 'Console'
+ # This would allow you to claim a stack of banknotes all at once and it would
+ # calculate all of them together for a grand total.
+  claim-all: false
+ # This would allow you to combine banknotes together to make it all into one
+ # like shown here: https://gyazo.com/0368d6e52e22fc96e2706f951bd85033
+  banknote-combination: false
+ # This will allow you to prevent users from using banknotes in crafting tables.
+  disable-crafting: true
+ # This will all you to prevent users from using banknotes in villager trading.
+  disable-villager-trading: false
+ # This is the sound effect when a player combines a banknote.
+ # Note: Please use a valid sound effect for the version of minecraft.
+ # Servers Running 1.9 & Above: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+ # Servers Running 1.7 or 1.8: http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+  combination-sound:
+    sound: 'ANVIL_USE'
+    enable: false
+ # This is the sound effect when a player withdraws a banknote.
+ # Note: Please use a valid sound effect for the version of minecraft.
+ # Servers Running 1.9 & Above: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+ # Servers Running 1.7 or 1.8: http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+  withdrawal-sound: 
+    sound: 'ENDERDRAGON_WINGS'
+    enable: false
+ # This is the sound effect for when a player redeems a banknote.
+ # Note: Please use a valid sound effect for the version of minecraft.
+ # Servers Running 1.9 & Above: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+ # Servers Running 1.7 or 1.8: http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+  redeem-sound: 
+    sound: 'LEVEL_UP'
+    enable: false
+    
+#------------------------------------------------#
+# - id: This is the id of the banknote item.     #
+# - name: This is the name of the banknote item. #
+# - lore: This is the lore of the banknote item. #
+# - glowing: This is a true or false statement   #
+# if true the item will be enchanted.            #
+# - amount-lore: This is where the {amount} is   #
+# located.                                       #
+#------------------------------------------------#
+banknote-item:
+  id: 339
+  data: 0
+  name: '&a&lMoney'
+  lore:
+  - '&6&l${amount}'
+  glowing: false
+  amount-lore: 1

@@ -1,0 +1,83 @@
+%YAML 1.1
+---
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: 9972.0
+                icon: cart
+                y: 68.0
+                z: -10168.0
+                label: Market
+            marker_2:
+                world: world
+                markup: false
+                x: 6737.0
+                icon: default
+                y: 70.0
+                z: 837.0
+                label: OldSpawn
+            marker_3:
+                world: world
+                markup: false
+                x: 0.0
+                icon: default
+                y: 77.0
+                z: 0.0
+                label: '0'
+            marker_4:
+                world: world
+                markup: false
+                x: -9710.0
+                icon: default
+                y: 73.0
+                z: -9873.0
+                label: ServerShop
+            marker_5:
+                world: world
+                markup: false
+                x: 5937.0
+                icon: default
+                y: 64.0
+                z: 15542.0
+                label: Breaker's
+            marker_6:
+                world: world
+                markup: false
+                x: -3605.0
+                icon: default
+                y: 66.0
+                z: 84376.0
+                label: 80kRailway
+            marker_7:
+                world: world
+                markup: false
+                x: -3605.0
+                icon: default
+                y: 66.0
+                z: 2611.0
+                label: 80kRailwayEnd
+            marker_8:
+                world: world
+                markup: false
+                x: 5282.0
+                icon: default
+                y: 65.0
+                z: 99568.0
+                label: Sushi
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

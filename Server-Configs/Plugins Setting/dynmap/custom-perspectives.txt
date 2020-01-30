@@ -1,0 +1,8 @@
+# The user is free to add new and custom perspectives here, including replacements for standard ones
+# Dynmap's install will not overwrite it
+perspectives:
+  - class: org.dynmap.hdmap.IsoHDPerspective # This line is important; do not change
+    name: iso_SE_30_tinyres # You must give this perspective a unique name; it doesn't have to follow this standard
+    azimuth: 135            # Yaw of the map (e.g. 45 makes a diamond-shaped flat map) 
+    inclination: 30         # Pitch of the map (e.g. 45 is isometric)
+    scale: 1              # Scale of the map (e.g. 2 means 2x2 pixels per block)

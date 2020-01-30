@@ -1,0 +1,183 @@
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+
+#20 ticks = 1 second
+nametag-refresh-interval-ticks: 20
+tablist-refresh-interval-ticks: 20
+header-footer-refresh-interval-ticks: 1
+#VERY EXPERIMENTAL !
+#IF YOU EXPERIENCE ANY ISSUES CONTACT ME
+unlimited-nametag-prefix-suffix-mode:
+  enabled: false
+  #modifying names of NPCs to avoid empty names on NPCs of online players
+  #this blocks any other attemps to change the name visibility or anything, so you need to disable it if you are using some citizens addon that changes their name
+  #needs relog to see the change
+  modify-npc-names: false
+header: []
+footer:
+- ''
+- '&6&lPing: &r&c%player_ping%ms&6   &6&lOnline: &r&c%essentials_safe_online%/30'
+- ''
+- '&6&lTPS: &r&c%tps%/20'
+- '&6[Server Performance]'
+- ''
+- '&6&lServer Age: &r&c%serverage_1496534400%'
+- '&6&lTotal Joined: &r&c%server_unique_joins%'
+- ''
+- '&a&lNews'
+- '&an/a'
+
+#servers and clients 1.9+
+enable-collision: true
+#the yellow number in tablist
+#options: PING, HEARTS, NONE (to disable it), CUSTOM (any placeholder defined below)
+tablist-objective: CUSTOM
+tablist-objective-custom-value: '%mcmmo_power_level%'
+#tablist-objective-custom-value: '%afklevel_player_level_tag%'
+
+#preventing players in spectator gamemode from appearing at the bottom of tablist with transparent name FOR OTHER PLAYERS
+do-not-move-spectators: false
+#NOT case sensitive
+group-sorting-priority-list:
+- owner
+- admin
+- moderator
+- vipfounder
+- founder
+- donatorplus
+- donator
+- secret
+- verified
+- default
+staff-groups:
+- Admin
+- Mod
+- Owner
+- Moderator
+- Helper
+
+#better showing of %rank% placeholder
+rank-aliases:
+  #any other group not defined above
+  _OTHER_: '%vault-prefix%'
+#properties: tabprefix, tabsuffix, tagprefix (in name tag), tagsuffix, customtabname (modifying the name itself), header, footer
+#extra ones which need unlimited nametag mode enabled: abovename (line of text above name tag), belowname (below name tag), customtagname
+Groups:
+  owner:
+    tabprefix: '&c&lOwner&r '
+    tagprefix: '&c&lOwner&r '
+  admin:
+    tabprefix: '&c&lAdmin&r '
+    tagprefix: '&c&lAdmin&r '
+  moderator:
+    tabprefix: '&b&lMod&r '
+    tagprefix: '&b&lMod&r '
+  vipfounder:
+    tabprefix: '&d&lVeteran&r '
+    tagprefix: '&d&lVeteran&r '
+  founder:
+    tabprefix: '&6&lVeteran&r '
+    tagprefix: '&6&lVeteran&r '
+  donatorplus:
+    tabprefix: '&3&lVIP&e+&r '
+    tagprefix: '&3&lVIP&e+&r '
+  donator:
+    tabprefix: '&3&lVIP&r '
+    tagprefix: '&3&lVIP&r '
+  secret:
+    tabprefix: '&3&lVIP&r '
+    tagprefix: '&3&lVIP&r '
+  default:
+    tabprefix: '&f'
+    tagprefix: '&f'
+  #any other group not defined above
+  _OTHER_:
+    tabprefix: '%rank% '
+    tagprefix: '%rank% '
+    tabsuffix: ' %afk%'
+    tagsuffix: ' %afk%'
+    #tabsuffix: ' %afklevel_player_level_tag%%afk%'
+    #tagsuffix: ' %afklevel_player_level_tag%%afk%'
+    customtabname: ''
+    customtagname: ''
+
+#personal settings, override group settings
+Users:
+  md_5hjkufgh:
+    tabprefix: '&6&lSpigot &a'
+    tagprefix: '&6&lDev &a'
+    tabsuffix: ''
+    tagsuffix: ''
+    abovename: Hi
+    belowname: There
+    customtabname: MessageDigest5
+    customtagname: MessageDigest5
+
+#list of worlds with different settings than default, other worlds will use settings from above
+per-world-settings:
+  world1:
+    header:
+    - an example of world with custom
+    footer:
+    - header/footer and prefix/suffix
+    Groups:
+      Owner:
+        tabprefix: '&0&l[&a&lOwner&0&l] &a'
+        tagprefix: '&2&lOwner &a'
+        header:
+        - ur server man
+        footer:
+        - welcome
+      Admin:
+        tabprefix: '&2&lAdmin &1&l'
+        tagprefix: '&2&lAdmin &1&l'
+      Player:
+        tabprefix: '&5&lPlayer &3&l'
+        tagprefix: '&5&lPlayer &3&l'
+    Users:
+      Player1:
+        tabprefix: ''
+        tagprefix: ''
+        tabsuffix: ''
+        tagsuffix: ''
+#setting output of some placeholders
+placeholders:
+  deluxetag-yes: < %value% >
+  deluxetag-no: '&oNo Tag :('
+  faction-yes: < %value% >
+  faction-no: '&2Wilderness'
+  afk-yes: ' &7[AFK]&r'
+  afk-no: ''
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  #if time doesn't show correctly, you can change the time it shows
+  #setting to -1 will make it show 1 hour less than it does currently, 1 makes it show one hour more than currently, 0 does nothing
+  time-offset: 0
+  #remove these strings from everywhere. Typically an empty output when using some clan/faction related plugin but player isn't in any
+  #so players won't have empty brackets before their names
+  remove-strings:
+  - '[] '
+  - '< > '
+
+disable-features-in-worlds:
+  header-footer:
+  - disabledworld
+  tablist-names:
+  - disabledworld
+  nametag:
+  - disabledworld
+  tablist-objective:
+  - disabledworld
+  bossbar:
+  - disabledworld
+  belowname:
+  - disabledworld
+
+#the vanilla belowname feature
+#doesn't support player placeholders (faction, prefix), only server placeholders (time, date, animations) and static text
+belowname:
+  refresh-interval-ticks: 5
+  number: '%health%'
+  text: Health
+  enabled: true
