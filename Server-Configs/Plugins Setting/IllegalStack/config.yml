@@ -8,7 +8,7 @@ Exploits:
     PreventInvalidElytraFlight: true
     PreventInvalidPotions: true
     DisableChestsOnMobs: false
-    PreventZeroTickExploit: false
+    PreventZeroTickExploit: true
     PreventRailDupe: true
     PreventItemSwapLagExploit: false
     PreventHoppersToUnloadedChunks: true
