@@ -79,7 +79,7 @@ Exploits:
 Exploit:
   LagMachines:
     ArmorStand: false
-    End Crystal: true
+    End Crystal: false
   Teleport:
     CorrectionNotify: false
 UserRequested:
