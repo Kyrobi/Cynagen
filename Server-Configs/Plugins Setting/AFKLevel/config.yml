@@ -15,12 +15,11 @@ settings:
     61-80: "&6%playerlevel% "
     81-99: "&c%playerlevel% "
     100-100: "&l&d%playerlevel% "
-  reset-exp-when-level-up: false
+  reset-exp-when-level-up: true
   exp-interval: 1200 #In ticks
   exp-amount-per-interval: 5
   afk-get-exp: false
   exp-per-level:
-    0: 0
     1: 50
     2: 150
     3: 300
