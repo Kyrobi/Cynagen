@@ -71,7 +71,7 @@ world-settings:
     entities-target-with-follow-range: false
     fix-zero-tick-instant-grow-farms: true
     nether-ceiling-void-damage-height: 0
-    per-player-mob-spawns: false
+    per-player-mob-spawns: true
     count-all-mobs-for-spawning: true
     optimize-light: true
     disable-teleportation-suffocation-check: false
