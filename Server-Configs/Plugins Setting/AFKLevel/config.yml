@@ -7,9 +7,8 @@ mysql:
   database: "[REDACTED]"
   playerstable: "[REDACTED]"
 settings:
-  refresh-leaderboard-delay: 600
   tag-format-groups:
-    1-20: "&7%playerlevel% "
+    1-20: "&8%playerlevel% "
     21-40: "&a%playerlevel% "
     41-60: "&3%playerlevel% "
     61-80: "&6%playerlevel% "
@@ -20,6 +19,7 @@ settings:
   exp-amount-per-interval: 5
   afk-get-exp: false
   exp-per-level:
+    0: 0
     1: 50
     2: 150
     3: 300
@@ -122,34 +122,3 @@ settings:
     100: 252500
   commands-to-execute-when-level-up:
     - ""
-#Opens the leaderboard via /level
-gui:
-  name: "&6LeaderBoard &7- &6Page %page%"
-  size: 54
-  players-per-page: 21
-  max-allowed-pages: 20
-  items:
-    idle-items:
-      type: STAINED_GLASS_PANE
-      data: 14
-      name: ""
-      amount: 1
-      slot: [0,1,2,3,4,5,6,7,8,9,17,18,26,27,35,36,44,45,46,47,48,49,50,51,52,53]
-    previous-page-item:
-      type: ARROW
-      data: 0
-      name: "&cPrevious Page"
-      amount: 1
-      slot: 37
-    next-page-item:
-      type: ARROW
-      data: 0
-      name: "&cNext Page"
-      amount: 1
-      slot: 43
-    player-item:
-      type: SKULL_ITEM
-      name: "&6&l%name% &8- &6&lTop %rank%"
-      lore:
-        - "&aLevel: &6%level%"
-        - "&aExp: &6%exp%"
