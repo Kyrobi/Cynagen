@@ -40,7 +40,7 @@ AutoClean:
   # Informs users with mfm.cleaninform permission node how many entities we cleaned up and which ones in particular
   Inform: false
   # How often to check chunks in seconds. Keep it at 30 sec plus, as you dont need to perform this tast to often
-  Interval: 5
+  Interval: 30
   # Defines max amount of entities which we will remove from a chunk or chunk group when checking it
   # Set to 0 if you want to disable limit
   MaxRemoved: 0
