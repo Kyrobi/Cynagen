@@ -32,7 +32,7 @@ footer:
 enable-collision: true
 #the yellow number in tablist
 #options: PING, HEARTS, NONE (to disable it), CUSTOM (any placeholder defined below)
-tablist-objective: CUSTOM
+tablist-objective: PING
 tablist-objective-custom-value: '%mcmmo_power_level%'
 #tablist-objective-custom-value: '%afklevel_player_level_tag%'
 
@@ -97,8 +97,10 @@ Groups:
     tagprefix: '%rank% '
     tabsuffix: ''
     #tabsuffix: ' %afk%'
-    tagsuffix: ' &8Lvl.&7 %afklevel_player_level_tag% %afk%'
-    tabsuffix: ' &8%afklevel_player_level_tag%'
+    #tagsuffix: ' &8Lvl.&7 %afklevel_player_level_tag% %afk%'
+    tagsuffix: ' &6%mcmmo_power_level% %afk%'
+    tabsuffix: ' &6%mcmmo_power_level%'
+    #tabsuffix: ''
     #tabsuffix: ' %afk%'
     #tabsuffix: ' &8Lvl.&7 %mcmmo_power_level% %afk%'
     #tagsuffix: ' %afklevel_player_level_tag%%afk%'
