@@ -24,7 +24,7 @@ settings:
   deprecated-verbose: default
   shutdown-message: Server is probably restarting...
 spawn-limits:
-  monsters: 10
+  monsters: 8
   animals: 4
   water-animals: 2
   ambient: 2
