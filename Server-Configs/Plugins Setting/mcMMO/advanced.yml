@@ -556,11 +556,11 @@ Skills:
     ###
     Unarmed:
         Disarm:
-            ChanceMax: 10.0
+            ChanceMax: 1.0
             MaxBonusLevel:
-                RetroMode: 1000
-                Standard: 100
-            AntiTheft: false
+                RetroMode: 100000000
+                Standard: 10000000
+            AntiTheft: true
         Deflect:
             ChanceMax: 20.0
             MaxBonusLevel: 1000
