@@ -1,5 +1,0 @@
-api-key: [REDACTED]
-prefix: '&7[&cCraftingstore&7]'
-disable-buy-command: false
-gui-prefix: CraftingStore
-interval: 70

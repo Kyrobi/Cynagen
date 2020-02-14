@@ -1,7 +1,0 @@
-# ServerAge by Shockzeh
-
-# This is only required if you run both PlaceholderAPI and MvDWPlaceholderAPI
-# on your server. This will prevent the plugin from hooking into the incorrect
-# placeholder plugin.
-# Supported providers are: 'placeholderapi' or 'mvdwplaceholderapi'
-default-provider: placeholderapi
