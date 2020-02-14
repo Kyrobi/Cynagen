@@ -1,0 +1,224 @@
+# -------------------------------------------------------------------------------------------
+# 
+#  Your file has been automatically updated at 18.07.2019 16:13:59
+#  to ChatControl 8.3.0
+# 
+#  Unfortunatelly, due to how Bukkit saves all .yml files, it was not possible
+#  preserve the documentation comments in your file. We apologize.
+# 
+#  If you'd like to view the default file, you can either:
+#  a) Open the ChatControl-8.3.0.jar with a WinRar or similar
+#  b) or, visit: https://github.com/kangarko/ChatControl/wiki
+# 
+# -------------------------------------------------------------------------------------------
+
+Invalid:
+  Handler: '&8&l! &cHandler named ''{handler}'' does not exist!'
+  Import_File: '&8&l! &cError: File localization/messages_en.yml does not exist! Make
+    sure it''s in ChatControl folder in plugins/ folder.'
+  Player: '&8&l! &cPlayer named ''{player}&c'' is not online!'
+Cannot:
+  Chat_While_Muted: '&8&l! &7You cannot chat while the chat is muted!'
+  Write_Books_While_Muted: '&8&l! &7You cannot write books while the chat is muted!'
+  Place_Signs_While_Muted: '&8&l! &7You cannot place signs while the chat is muted!'
+  Command_While_Muted: '&8&l! &7You cannot use this command while the chat is muted!'
+  Chat_Until_Moved: '&8&l! &7You cannot chat until you move!'
+  Command_Until_Moved: '&8&l! &7You cannot use this command until you move!'
+Anti_Bot:
+  Rejoin_Message: |-
+    &7Bot Protection:
+    &6
+    &cPlease wait &7{time} {seconds}&c before logging in again.
+  Disallowed_Nickname: '&cNickname contains disallowed characters.'
+  Chat_Delay: '&8&l! &cPlease wait &7{time} {seconds} &cbefore chatting.'
+  Command_Delay: '&8&l! &cPlease wait &7{time} {seconds} &cbefore running commands.'
+Anti_Spam:
+  Similar_Message: '&8&l! &cPlease do not repeat the same (or similar) message.'
+  Similar_Command: '&8&l! &cPlease do not repeat the same (or similar) command.'
+  Parrot_Repeated: '&8&l! &cSomeone else said that just recently.'
+  Too_Much_Caps: '&8&l! &cPlease do not use so much CAPS!'
+  Command_Wait_Message: '&8&l! &cPlease wait {time} {seconds} before your next command.'
+  Chat_Wait_Message: '&8&l! &cPlease wait {time} {seconds} before your next message.'
+  Message_Limit_Exceeded: '&8&l! &cYou can only send {limit} messages in the last
+    {period}.'
+  Command_Limit_Exceeded: '&8&l! &cYou can only send {limit} commands in the last
+    {period}.'
+Chat_Mute:
+  Mute: '&8&l! &2Chat was successfully muted.'
+  Unmute: '&8&l! &6Chat is no longer muted.'
+  Mute_Broadcast: '{server} &6{player} has muted the chat.'
+  Unmute_Broadcast: '{server} &6{player} has unmuted the chat.'
+  Anonymous_Mute_Broadcast: '{server} Initiated global chat mute.'
+  Anonymous_Unmute_Broadcast: '{server} Global chat mute canceled.'
+Chat_Clear:
+  Broadcast: '{server} &6{player} cleared the chat.'
+  Anonymous_Broadcast: '{server} The game chat was cleared.'
+  Console_Player_Message: '{prefix} &7Console was successfully cleared.'
+  Console_Message: '&7Console was cleared by {player}'
+  Chat_Staff_Message: '&7^----- [ == &fChat was cleared by {player} &7== ] -----^'
+Signs:
+  Duplicate_Text: '&8&l! &cYou cannot make multiple signs with the same text!'
+  Duplicate_Text_Staff: '&c{player} created signs with same text: {message}'
+  Broke_When_Violated_A_Rule: '&8&l! &cYour sign broke, there is something wrong with
+    it!'
+Books:
+  Block_When_Violated_A_Rule: '&8&l! &cThe book was blocked due to violated content.'
+Items:
+  Block_When_Violated_A_Rule: '&8&l! &cThe item was blocked due to violated content.'
+Points:
+  Not_Enabled: '&8&l! &cWarning points are not enabled!'
+  Listing_Points_Of: '&6[&e-&6] Listing warning points of {player}:'
+Chat_Ignorer:
+  Disabled: '&8&l! &cChat ignorer is disabled. In order to use this command, set &7Rules.Chat_Ignorer.Enabled
+    &cto &7true &cin settings.yml'
+  Set_Not_Found: '&8&l! &cSet {ignoreSet} does not exists! Available: {available}'
+  No_Permission: '&8&l! &cYou lack {permission} to ignore this set!'
+  Ignore: '&8&l! &2You are now ignoring set &7{ignoreSet}&7.'
+  Unignore: '&8&l! &6You are no longer ignoring set &7{ignoreSet}&7.'
+Formatter:
+  No_Permission: '&cYou lack permissions to send chat messages.'
+Channels:
+  Channels_Disabled: '&8&l! &cChannels are disabled. To enable, set &7Enabled &cto
+    &7true &cin channels.yml'
+  Join: '&8&l! &2You have joined the channel: {channel}'
+  Join_Other: '&8&l! &2{player} has been added to the channel: {channel}'
+  Leave: '&8&l! &6You have left the channel: {channel}'
+  Switch: '&8&l! &6You switched from &7{oldChannel} &6to &7{channel} &6channel (to
+    {mode} mode).'
+  Spy: '&8&l! &2You are now spying channel: {channel}'
+  Unspy: '&8&l! &6You are no longer spying: {channel}'
+  Cannot_Spy_Self: '&8&l! &cYou cannot spy the channel you are joined in!'
+  Mode_Write: write
+  Mode_Read: read
+  Mode_Spy: spy
+  Players: '&3Players in {channel} channel: &7{player_list}'
+  Set: '&8&l! &6Set &6{player} to &7{channel} &6channel ({mode} mode).'
+  Unset: '&8&l! &6{player} &7was removed from &6{channel} &7channel.'
+  Invalid_Arguments: '&8&l! &cInvalid arguments. Type &6/channel help &cfor help.'
+  Notify_Channel: '&8&l! &6You are currently in {channel} channel(s).'
+  Notify_No_Channels: '&8&l! &6You do not have any channel to write into. Type ''/channel
+    join'' to join a channel.'
+  Already_Joined: '&8&l! &cYou are already in this channel. Type /ch l {channel} to
+    leave.'
+  Not_In_Channel: '&8&l! &cYou are not in this channel. Type /ch j {channel} to join.'
+  Unknown_Channel: '&8&l! &cChannel named ''{channel}'' does not exist. Available:
+    {channel_list}'
+  No_Write_Channels: '&8&l! &7You have no channel to write into. Type &6/ch &7for
+    help.'
+  Player_Joined_Channel: '&8[&a+&8] &6Player {player} joined this channel ({channel})'
+  Player_Left_Channel: '&8[&c-&8] &6Player {player} left this channel ({channel})'
+  Switch_No_Channel: '&8&l! &cYou can only use switch if you are in one chat channel.'
+  Muted_Cannot_Speak: '&8&l! &cYou cannot speak in the {channel} channel because it
+    has been muted.'
+  Write_Limit_Reached: '&8&l! &cYou can only write to {limit} channel(s) at once!'
+  Read_Limit_Reached: '&8&l! &cYou can only read {limit} channel(s) at once!'
+  Unknown_Mode: '&8&l! &cUnknown channel mode. Available: {available}'
+  Mute: '&8&l! &2The channel {channel} has been muted.'
+  Unmute: '&8&l! &6The channel {channel} is no longer muted.'
+  Your_Channels: '&7Your channels: &f{channels}'
+  No_Party: '&8&l! &cYou have no {party} or are outside of your {party} in this channel.'
+  No_Plot: '&8&l! &cThere is no plot in this location. Your message could not be sent.'
+  Send_Require_Join: '&8&l! &cYou cannot write to a channel you are not joined into.'
+  List_Format: |-
+    &8{smooth_line}
+    <center>&7&l- CHANNELS -
+    &f
+    &3Available: &f{channel_list}
+    &f
+    <no_console>&3Your channels ({channel_count}):
+    <no_console>{list_format_channel_line}
+    <no_console>&f
+    <conditional_tip>&7&lTIP&7: To list players in a channel, type /ch list <channel>
+    &8{smooth_line}
+  List_Format_Channel_Line: '&8 - &f{channel} &7({mode})&6'
+Private_Messages:
+  No_Reply: '&8&l! &cYou have no one to whom you can reply.'
+  Afk_Warning: '&6{player} is afk and might not see your message.'
+  Toggle_PM_Warning: '&6Your message was not delivered because {player} has disabled
+    private messages.'
+  Ignore_Warning: '&6Your message was not delivered because {player} is ignoring you.'
+  Cannot_Message_Self: '&8&l! &cYou cannot message yourself.'
+  Conversing_Enabled: '&8&l! &2You are now conversing with {conversable}. Type ''{end}''
+    to stop.'
+  Conversing_Disabled: '&8&l! &6You are no longer conversing with {conversable}.'
+Ignore:
+  List: '&7Ignoring ({size}): &f{players}'
+  Cannot_Ignore_Yourself: '&cGo ignore yourself, fool!'
+  Ignore: '&aYou are now ignoring {player}.'
+  Unignore: '&cNo longer ignoring {player}.'
+Toggle_PM:
+  Enabled: '&8&l! &2{player} is now receiving private messages'
+  Disabled: '&8&l! &6{player} is no longer receiving private messages.'
+Toggle_BC:
+  Enabled: '&8&l! &2{player} is now receiving broadcast messages'
+  Disabled: '&8&l! &6{player} is no longer receiving broadcast messages.'
+Player:
+  Never_Played: '&8&l! &c{player} has never played on this server.'
+  Not_Online: '&8&l! &c{player} is not online!'
+Spy:
+  Enabled: '&8&l! &2You are now spying commands.'
+  Disabled: '&8&l! &6You are no longer spying commands.'
+  Auto_Enabled_Join: '&6You are now spying players'' commands. Use /spy to disable.'
+Announcer:
+  Message: |-
+    &8*___________________________________________________*
+    &f
+                    &7. . . &6&lA N N O U N C E M E N T &7. . .
+    &8*___________________________________________________*
+    &f
+    &f {message}{dynamicLine}
+    &8*___________________________________________________*
+  Console_Message: '&f[Announcement by &b{player}&f]: &7{message}'
+  Self_Message: '&7Announcement sent.'
+Fake_Messages:
+  Fallback:
+    Join_Message: '&e{player} joined the game.'
+    Quit_Message: '&e{player} left the game.'
+    Kick_Message: '&e{player} left the game.'
+Commands:
+  No_Console: '&8&l! &cThis command is not accessible from console!'
+  Reload_Success: '{prefix} &2Configuration reloaded successfully.'
+  Reload_Fail: '{prefix} &cReloading configuration failed, check console. The error
+    was: &4{error}'
+Usage:
+  Fake_Command: /chatcontrol fake <&bjoin&f/&aleave&f/&ekick&c> [player]
+  Calc_Command: /chatcontrol calc <expression> (e.g. 4 + 4 / 2)
+General:
+  ChatControl: ChatControl
+  Player_Join: player join
+  Player_Quit: player quit
+  Player_Kick: player kick
+  Reason: '&7Reason: &f{reason}'
+  Sign_At_Location: '[SIGN at {location}]'
+  Sign: SIGN
+  Command: COMMAND
+  Message: message
+  Player: player
+  Channel: channel
+  None: none
+  Usage: '&cUsage: '
+  Result: '&7Result: &f{result}'
+  Seconds: second, seconds
+No_Permission: '&8&l! &cInsufficient permission ({permission}).'
+Import_Finished: '&8&l! &2Import has been finished. Check console for more information.'
+Import_Failed: '&8&l! &cImport failed. Check console for more information. Error:
+  {error}'
+Wrong_Parameters: '&8&l! &cWrong parameters or missing permission.'
+Wrong_Arguments: '&8&l! &cWrong arguments. Type &6/chc list&c for command list.'
+Bungee_Chat_Error: '&8&l! &cBungee chat requires BungeeCords support enabled.'
+Bungee_Chat_Toggle_On: '&2Your chat messages are now sent to bungee by default. Type
+  command again to disable.'
+Bungee_Chat_Toggle_Off: '&6Your chat messages are no longer sent to bungee.'
+Admin_Chat_Toggle_On: '&aYour messages will now be sent to admin chat. Type command
+  again to disable.'
+Admin_Chat_Toggle_Off: '&6Your chat messages are no longer sent to admin chat.'
+Chat_Out_Of_Range: '&6There is nobody within your chat range who may have seen your
+  message.'
+Version: 1
+Server_Prefix: '&8[&4Server&8]&c'
+Console_Name: '&cserver'
+Update:
+  Available: |-
+    &2A new version of &3ChatControl&2 is available.
+    &2Current version: &f{current}&2; New version: &f{new}
+    &2URL: &7https://www.spigotmc.org/resources/10258/.

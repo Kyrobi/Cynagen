@@ -1,0 +1,52 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  tools:
+    delay: 10
+    items:
+    - stone_sword 1
+    - stone_shovel 1
+    - stone_pickaxe 1
+    - stone_axe 1
+  claim:
+    delay: 6000
+    items:
+    - golden_shovel 1
+  Halloween:
+    delay: 2592000
+    items:
+    - stone_hoe 1 durability:1 name:§6Reaper's_Shenanigans lore:§bSomething_that_a_reaper_uses..._to_farm!|§6Halloween_2018
+    - cookie 64 durability:1 name:§6Halloween_Cookie lore:§bHalloween_cookie_made_from_the_remains_of_the_dead
+    - paper 1 durability:1 name:§dElixir_Voucher lore:§dElixir_Voucher
+  Christmas:
+    delay: 2592000
+    items:
+    - cookie 64 durability:1 name:§6Christmas_Cookie lore:§bSanta_says_SCREW_YOU!|§6Christmas_2018
+    - coal 1 durability:1 name:§6Special_Coal lore:§bSanta_says_SCREW_YOU!|§6Christmas_2018
+    - paper 1 durability:1 name:§dElixir_Voucher lore:§dElixir_Voucher
+  NewYear:
+    delay: 2592000
+    items:
+    - cake 1 durability:1 name:§6New_Year_Cake lore:§bHappy_New_Year!|§6New_Year_2020
+    - leather_helmet 1 durability:1 color:160,101,64 name:§6New_Year_Helmet lore:§bHappy_New_Year!|§6New_Year_2020
+    - leather_chestplate 1 durability:1 color:160,101,64 name:§6New_Year_Chestplate lore:§bHappy_New_Year!|§6New_Year_2020
+    - leather_leggings 1 durability:1 color:160,101,64 name:§6New_Year_Legging lore:§bHappy_New_Year!|§6New_Year_2020
+    - leather_boots 1 durability:1 color:160,101,64 name:§6New_Year_Boot lore:§bHappy_New_Year!|§6New_Year_2020
+    #- paper 1 durability:1 name:§dElixir_Voucher lore:§dElixir_Voucher
+  Anniversary:
+    delay: 2592000
+    items:
+    - dragon_breath 1 durability:1 name:§6Anniversary lore:§bHappy_Anniversary!|§6June_4,_2018
+    - paper 1 durability:1 name:§dElixir_Voucher lore:§dElixir_Voucher
+  color:
+    delay: 6000
+    items:
+      - writtenbook 1 title:&6Pamphlet_of_Colors  author:Stalin lore:Ingame_color_codes book:Colors

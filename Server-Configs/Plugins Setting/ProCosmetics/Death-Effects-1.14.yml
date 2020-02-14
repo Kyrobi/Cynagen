@@ -1,0 +1,274 @@
+Death-Effects:
+  Enable: true
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: SKELETON_SKULL
+  Amount: 1
+  Slot: 14
+  Displayname: "&bDeath Effects"
+  Lore:
+    - ""
+    - "&7Your death will now be mourned"
+    - "&7with a wonderful particle"
+    - "&7tribute."
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Death Effects menu!"
+    - "&7Right-click to unequip your current Death Effect!"
+
+  Menu:
+    Title: "Death Effects"
+    Size: 54
+
+  Cosmetics:
+    Bloody-Death:
+      Enable: true
+      Name: "&bBloody Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: REDSTONE
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Let your blood in your body explode"
+        - "&7of anger once you die!"
+
+    Candy-Cane-Remains:
+      Enable: true
+      Name: "&bCandy Cane Remains"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: GREEN_DYE
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Share your last candy upon"
+        - "&7death!"
+
+    Confetti-Death:
+      Enable: true
+      Name: "&bConfetti Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: MELON_SEEDS
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Someone is celebrating your death?"
+        - "&7WHAT?"
+
+    Enchanted-Death:
+      Enable: true
+      Name: "&bEnchanted"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: BOOK
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Another smart person"
+        - "&7just died."
+
+    Fall-Of-The-Frost-Lord:
+      Enable: true
+      Name: "&bFall Of The Frost Lord"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: SNOWBALL
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Did Winter just arrive upon"
+        - "&7your death? You missed the"
+        - "&7Christmas presents!"
+
+    Flame-Death:
+      Enable: true
+      Name: "&bFlame Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: BLAZE_POWDER
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Let all of your anger burn"
+        - "&7in to pieces."
+
+    Last-Love:
+      Enable: true
+      Name: "&bLast Love"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: POPPY
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7You are always in my heart, no"
+        - "&7matter what you do to me."
+
+    Lightning-Death:
+      Enable: true
+      Name: "&bLightning Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: RARE
+
+      Material: POPPY
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Let everyone know what king"
+        - "&7really died!"
+
+    Lava-Death:
+      Enable: true
+      Name: "&bLava Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: LAVA_BUCKET
+      Amount: 1
+      Slot: 20
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7ARHHHHHH so hot!"
+
+    Magical-Death:
+      Enable: true
+      Name: "&bMagical Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: RARE
+
+      Material: PURPLE_DYE
+      Amount: 1
+      Slot: 21
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Cast the last spell you have."
+
+    Musical-Death:
+      Enable: true
+      Name: "&bMusical Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: NOTE_BLOCK
+      Amount: 1
+      Slot: 22
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Show your last dance moves"
+        - "&7before death arrives!"
+
+    Shadow-Death:
+      Enable: true
+      Name: "&bShadow Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: COAL
+      Amount: 1
+      Slot: 23
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7A poof of smoke, and you're"
+        - "&7gone!"
+
+    Sparkly-Death:
+      Enable: true
+      Name: "&bSparkly Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: FIREWORK_ROCKET
+      Amount: 1
+      Slot: 24
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Die in a nice way."
+
+    Wet-Death:
+      Enable: true
+      Name: "&bWet Death"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: WATER_BUCKET
+      Amount: 1
+      Slot: 25
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Drown in a puddle of your own"
+        - "&7tears."

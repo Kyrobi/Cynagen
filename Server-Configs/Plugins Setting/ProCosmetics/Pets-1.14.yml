@@ -1,0 +1,168 @@
+Pets:
+  Enable: true
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: BONE
+  Amount: 1
+  Slot: 34
+  Displayname: "&bPets"
+  Lore:
+    - ""
+    - "&7Sometimes no one will"
+    - "&7talk in chat. It can get"
+    - "&7boring af. Call upon an"
+    - "&7adorable pet to follow you!"
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Pets menu!"
+    - "&7Right-click to unequip your current Pet!"
+
+  Menu:
+    Title: "Pets"
+    Size: 54
+
+  Cosmetics:
+    Piggy:
+      Enable: true
+      Name: "&bPig"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: PORKCHOP
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Christmas ham?"
+        - "&7PLEASE NOO!"
+
+    Doggy:
+      Enable: true
+      Name: "&bDoggy"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: BONE
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Wofff... Look what a cutie!"
+
+    Kitty:
+      Enable: true
+      Name: "&bKitty"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: COD
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Meow meow..."
+
+    Colorful-Sheep:
+      Enable: true
+      Name: "&bColorful Sheep"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: WHITE_WOOL
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Who said sheeps cannot"
+        - "&7change wool color?"
+
+    Easter-Bunny:
+      Enable: true
+      Name: "&bEaster Bunny"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: CARROT
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7A cute tiny rabbit following"
+        - "&7you around!"
+
+    Elf:
+      Enable: true
+      Name: "&bElf"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: EMERALD
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Why helping Santa Claus"
+        - "&7when I can help you?"
+
+    Santa-Claus:
+      Enable: true
+      Name: "&bSanta Claus"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: REDSTONE
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Hohhohooho!"
+        - "&7Look who is"
+        - "&7here!"
+
+    Body-Guard:
+      Enable: true
+      Name: "&bBody Guard"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 5000
+      Rarity: COMMON
+
+      Material: POPPY
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Follows you around with a"
+        - "&7rose in his hand."
