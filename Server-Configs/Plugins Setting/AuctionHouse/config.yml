@@ -8,7 +8,7 @@ updateTicks: 40
 auction:
   listingPrice: 0.0
   listingRate: 0.0
-  listingCooldown: 0d0h0m0s
+  listingCooldown: 0d2h0m0s
   listingDuration: 14d0h0m
   expiredDuration: 14d0h0m
   unclaimedDuration: 90d0h0m
