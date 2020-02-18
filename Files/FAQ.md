@@ -1,12 +1,12 @@
 ### How do I apply for staff?
 
-> You can't. So don't ask
+> You can't. So don't ask.
 
 ***
 
 ### I died in the end/nether, can I get my stuff back?
 
-> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end/nether. They are dangerous places and the nether is only going to get worse.
+> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end/nether. They are dangerous places and the nether is only going to get worse (1.16).
 
 > IF you are visiting the end and you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest. Best course of action if you're falling into the void, instantly log out and tell a staff the situation. Don't log back in until you're told to.
 
