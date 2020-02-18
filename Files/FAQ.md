@@ -7,6 +7,7 @@
 ### I died in the end/nether, can I get my stuff back?
 
 > No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end/nether. They are dangerous places and the nether is only going to get worse.
+
 > IF you are visiting the end and you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest. Best course of action if you're falling into the void, instantly log out and tell a staff the situation. Don't log back in until you're told to.
 
 ***
@@ -16,7 +17,6 @@
 
 > There are two ways to receive VIP rank: 
 > 1. You can buy it off of the [store](https://cynagen.craftingstore.net) for $24.99 
-
 > 2. By voting, you have a small chance of receiving a VIP shard. 8 of these VIP shards can be traded for VIP rank forever.
 
 ***
@@ -47,9 +47,7 @@
 ### How do I get more claim blocks?
 
 > 1. By voting.  
-
 > 2. By playing on the server.   
-
 > 3. Buying a donation package.
 
 ***
@@ -110,7 +108,8 @@
 ### Is Keep Inventory on?
 
 > Keep inventory is ONLY enabled in the over-world. It is disabled both in the nether and the end. 
-> It is advised that you stash all your valuables away before you visit the end/nether.
+
+> It is advised that you stash all your valuables away before you visit the end/nether. Ender chests are useful
 
 ***
 
