@@ -1,14 +1,13 @@
 ### How do I apply for staff?
 
-> You can't.
+> You can't. So don't ask
 
 ***
 
-### I died in the end, can I get my stuff back?
+### I died in the end/nether, can I get my stuff back?
 
-> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end. If you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest. 
-
-Best course of action if you're falling into the void, instantly log out and tell a staff the situation. Don't log back in until you're told to.
+> No, regardless if it's caused by a glitch or the anti-cheat. It is advised that you stash all your valuables away before you visit the end/nether. They are dangerous places and the nether is only going to get worse.
+> IF you are visiting the end and you are in the end raiding end cities, make sure you're constantly putting all your valuables in an ender chest. Best course of action if you're falling into the void, instantly log out and tell a staff the situation. Don't log back in until you're told to.
 
 ***
 
@@ -16,9 +15,9 @@ Best course of action if you're falling into the void, instantly log out and tel
 ### How to I get the VIP rank?
 
 > There are two ways to receive VIP rank: 
-> 1. You can buy it off of the [store](https://cynagen.craftingstore.net) for $19.99 
+> 1. You can buy it off of the [store](https://cynagen.craftingstore.net) for $24.99 
 
-> 2. By voting, you have a small chance of receiving a VIP shard. 5 of these VIP shards can be traded for VIP rank that last for 90 days.
+> 2. By voting, you have a small chance of receiving a VIP shard. 8 of these VIP shards can be traded for VIP rank forever.
 
 ***
 
@@ -33,6 +32,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 ### How do I contact the owner?
 
 > You can click [HERE](https://discordapp.com/invite/B5JW7qp) to join the server Discord and contact him through there.
+> Then either chat in one of the channels or use -new to create a support ticket.
 
 ***
 
@@ -57,7 +57,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### Can I claim an unclaimed build?
 
-> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/server-emotes)
+> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/Rules.md)
 
 ***
 
@@ -71,7 +71,7 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### Can I start a build right next to someone else's?
 
-> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/server-emotes)
+> View the description of rule #1. Do not grief [HERE](https://github.com/Kyrobi/Cynagen/blob/master/Files/Rules.md)
 
 ***
 
@@ -85,7 +85,10 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### How do I earn money?
 
-> Each time you vote, you will earn $200. Selling stuff on market can also get you money. Access market via /shop or /market. Additionally, you can buy the donation package which will give you $1000.
+> You can earn money by:
+> 1. When you vote ($200) 
+> 2. Selling stuff on market. Access market via /shop or /market. 
+> 3. You can also buy the donation package which will give you $1000.
 
 ***
 
@@ -99,14 +102,15 @@ Best course of action if you're falling into the void, instantly log out and tel
 
 ### How often does the server reset?
 
-> Server hasn't reseted since it opened. 
+> Server hasn't reseted since it opened. There are also no intentions to reset the server (there simply isn't a need for it).
 
 ***
 
 
 ### Is Keep Inventory on?
 
-> Keep inventory is ONLY enabled in the over-world. It is disabled both in the nether and the end.
+> Keep inventory is ONLY enabled in the over-world. It is disabled both in the nether and the end. 
+> It is advised that you stash all your valuables away before you visit the end/nether.
 
 ***
 
