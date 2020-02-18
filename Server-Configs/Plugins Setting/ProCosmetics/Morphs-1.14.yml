@@ -1,0 +1,307 @@
+Morphs:
+  Enable: false
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: LEATHER
+  Amount: 1
+  Slot: 52
+  Displayname: "&bMorphs"
+  Lore:
+    - ""
+    - "&7Have you ever wanted to be an"
+    - "&7animal? Well, now you can!"
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Morphs menu!"
+    - "&7Right-click to unequip your current Morph!"
+
+  Menu:
+    Title: "Morphs"
+    Size: 54
+
+    Toggle-Self-View:
+      Material: SADDLE
+      Amount: 1
+      Slot: 40
+      Displayname: "&bToggle Self-View"
+      Lore:
+        - ""
+        - "&7Right-click to toggle self-view of your morph!"
+
+  Cosmetics:
+    Bat:
+      Enable: true
+      Name: "&bBat"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: WITHER_SKELETON_SKULL
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Double tap to be able to"
+        - "&7fly in some milliseconds!"
+
+    Blaze:
+      Enable: true
+      Name: "&bBlaze"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: BLAZE_POWDER
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Sneak to fly around!"
+
+    Creeper:
+      Enable: true
+      Name: "&bCreeper"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: CREEPER_HEAD
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Sneak to create an explosion."
+
+    Elder-Guardian:
+      Enable: true
+      Name: "&bElder Guardian"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: PRISMARINE_SHARD
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7The ability to fly is awesome! You"
+        - "&7got the power over the world."
+        - ""
+        - "&7Left click to shoot laser explosion."
+
+    Enderman:
+      Enable: true
+      Name: "&bEnderman"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: ENDER_PEARL
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Left click here to teleport."
+
+    Olaf:
+      Enable: true
+      Name: "&bOlaf"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: SNOWBALL
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Everyone loves Olaf!"
+        - ""
+        - "&7Left click to throw"
+        - "&7a snowball."
+
+    Pig:
+      Enable: true
+      Name: "&bPig"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: PORKCHOP
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Run into others to punch them. Such"
+        - "&7annoying pig running around."
+
+    Slime:
+      Enable: true
+      Name: "&bSlime"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: SLIME_BLOCK
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Jumping around as a slime"
+        - "&7can be exciting."
+        - ""
+        - "&7Left click to throw a slime"
+        - "&7block. Knocks the target."
+
+    Witch:
+      Enable: true
+      Name: "&bWitch"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: POTION
+      Amount: 1
+      Slot: 20
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Ever wanted to curse someone?"
+        - ""
+        - "&7Left click to throw a potion!"
+        - "&7Sneaking while the potion"
+        - "&7hits your target gives them"
+        - "&7blindness, otherwise speed."
+
+    Wither:
+      Enable: true
+      Name: "&bWither"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: WITHER_SKELETON_SKULL
+      Amount: 1
+      Slot: 21
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Fly around in the world"
+        - "&7as a powerful wither."
+        - ""
+        - "&7Left click to shoot a wither skull!"
+
+    Zombie:
+      Enable: true
+      Name: "&bZombie"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: ZOMBIE_HEAD
+      Amount: 1
+      Slot: 22
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Scare you friends!"
+
+    Cat:
+      Enable: true
+      Name: "&bCat"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: TROPICAL_FISH
+      Amount: 1
+      Slot: 23
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Finally you get to sleep all day just like a cat!"
+
+    Chicken:
+      Enable: true
+      Name: "&bChicken"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: EGG
+      Amount: 1
+      Slot: 24
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Pop, ahh an egg!"
+
+    Cow:
+      Enable: true
+      Name: "&bCow"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: LEATHER
+      Amount: 1
+      Slot: 25
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Mooo at your friends!"
+
+    Dog:
+      Enable: true
+      Name: "&bDog"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 2000
+      Rarity: LEGENDARY
+
+      Material: BONE
+      Amount: 1
+      Slot: 28
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Voff, voff!"

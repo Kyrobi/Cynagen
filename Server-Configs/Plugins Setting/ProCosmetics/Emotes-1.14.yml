@@ -1,0 +1,213 @@
+Emotes:
+  Enable: true
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: PLAYER_HEAD
+  Amount: 1
+  Slot: 32
+  Displayname: "&bEmotes"
+  Lore:
+    - ""
+    - "&7Let the others know what mood"
+    - "&7you are at!"
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Emotes menu!"
+    - "&7Right-click to unequip your current Emote!"
+
+  Menu:
+    Title: "Emotes"
+    Size: 54
+
+  Cosmetics:
+    Cheeky:
+      Enable: true
+      Name: "&bCheeky"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7:p"
+
+    Deal-With-It:
+      Enable: true
+      Name: "&bDeal With It"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Some are better than others!"
+
+    Dizzy:
+      Enable: true
+      Name: "&bDizzy"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7I am feeling a bit sick. Maybe"
+        - "&7this rollercoaster was not for me."
+
+    Happy:
+      Enable: true
+      Name: "&bHappy"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7I am happy!"
+
+    In-Love:
+      Enable: true
+      Name: "&bIn Love"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7O MY GOD!"
+        - "&7That person is so pretty!"
+
+    Rage:
+      Enable: true
+      Name: "&bRage"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7WHAT THE ****!"
+
+    RIP:
+      Enable: true
+      Name: "&bRIP"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Will I be missed?"
+
+    Sad:
+      Enable: true
+      Name: "&bSad"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7I don't know what to say."
+        - "&7**Crying**"
+
+    Spicy:
+      Enable: true
+      Name: "&bSpicy"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 20
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7That peppar wss hot!"
+
+    Surprised:
+      Enable: true
+      Name: "&bSurprised"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 21
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7I don't know what to say!"
+
+    Wink:
+      Enable: true
+      Name: "&bWink"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PLAYER_HEAD
+      Amount: 1
+      Slot: 22
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Gotcha!"

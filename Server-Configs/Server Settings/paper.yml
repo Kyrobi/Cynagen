@@ -1,0 +1,198 @@
+# This is the main configuration file for Paper.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# 
+# If you need help with the configuration or have any questions related to Paper,
+# join us in our Discord or IRC channel.
+# 
+# Discord: https://paperdiscord.emc.gs
+# IRC: #paper @ irc.spi.gt ( http://irc.spi.gt/iris/?channels=paper )
+# Website: https://papermc.io/ 
+# Docs: https://paper.readthedocs.org/ 
+
+verbose: false
+config-version: 20
+settings:
+  load-permissions-yml-before-plugins: true
+  bungee-online-mode: true
+  sleep-between-chunk-saves: false
+  region-file-cache-size: 256
+  save-empty-scoreboard-teams: false
+  incoming-packet-spam-threshold: 300
+  save-player-data: true
+  use-versioned-world: false
+  velocity-support:
+    enabled: false
+    online-mode: false
+    secret: ''
+  queue-light-updates-max-loss: 10
+  suggest-player-names-when-null-tab-completions: true
+  watchdog:
+    early-warning-every: 5000
+    early-warning-delay: 10000
+  spam-limiter:
+    tab-spam-increment: 1
+    tab-spam-limit: 500
+  book-size:
+    page-max: 2560
+    total-multiplier: 0.98
+  enable-player-collisions: true
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: 2
+  async-chunks:
+    enable: true
+    generation: true
+    thread-per-world-generation: true
+    load-threads: 8
+  use-alternative-luck-formula: false
+  remove-invalid-statistics: true
+messages:
+  no-permission: '&cI''m sorry, but you do not have permission to perform this command.
+    Please contact the server administrators if you believe that this is in error.'
+  kick:
+    authentication-servers-down: ''
+    connection-throttle: Connection throttled! Please wait before reconnecting.
+    flying-player: Flying is not enabled on this server
+    flying-vehicle: Flying is not enabled on this server
+timings:
+  server-name: Unknown Server
+  enabled: true
+  verbose: true
+  server-name-privacy: false
+  hidden-config-entries:
+  - database
+  - settings.bungeecord-addresses
+  history-interval: 300
+  history-length: 3600
+world-settings:
+  default:
+    seed-based-feature-search: true
+    portal-create-radius: 16
+    entities-target-with-follow-range: false
+    fix-zero-tick-instant-grow-farms: true
+    nether-ceiling-void-damage-height: 0
+    per-player-mob-spawns: true
+    count-all-mobs-for-spawning: true
+    optimize-light: true
+    disable-teleportation-suffocation-check: false
+    remove-corrupt-tile-entities: true
+    fixed-chunk-inhabited-time: -1
+    queue-light-updates: true
+    game-mechanics:
+      disable-pillager-patrols: true
+      disable-relative-projectile-velocity: false
+      villages-load-chunks: false
+      scan-for-legacy-ender-dragon: false
+      disable-chest-cat-detection: true
+      disable-end-credits: false
+      disable-player-crits: false
+      disable-sprint-interruption-on-attack: false
+      shield-blocking-delay: 5
+      disable-unloaded-chunk-enderpearl-exploit: true
+    portal-search-radius: 32
+    optimize-explosions: true
+    use-vanilla-world-scoreboard-name-coloring: false
+    delay-chunk-unloads-by: 5s
+    max-auto-save-chunks-per-tick: 6
+    save-queue-limit-for-auto-save: 25
+    enable-treasure-maps: true
+    treasure-maps-return-already-discovered: false
+    experience-merge-max-value: -1
+    max-chunk-sends-per-tick: 5
+    max-chunk-gens-per-tick: 2
+    prevent-moving-into-unloaded-chunks: true
+    max-growth-height:
+      cactus: 3
+      reeds: 3
+    fishing-time-range:
+      MinimumTicks: 100
+      MaximumTicks: 600
+    despawn-ranges:
+      soft: 32
+      hard: 50
+    falling-block-height-nerf: 0
+    tnt-entity-height-nerf: 0
+    lightning-strike-distance-limit:
+      sound: 10
+      impact-sound: 10
+      flash: 20
+    frosted-ice:
+      enabled: true
+      delay:
+        min: 20
+        max: 40
+    lootables:
+      auto-replenish: false
+      restrict-player-reloot: true
+      reset-seed-on-fill: true
+      max-refills: -1
+      refresh-min: 12h
+      refresh-max: 2d
+    filter-nbt-data-from-spawn-eggs-and-related: true
+    max-entity-collisions: 1
+    disable-creeper-lingering-effect: true
+    hopper:
+      cooldown-when-full: true
+      disable-move-event: true
+    duplicate-uuid-resolver: saferegen
+    duplicate-uuid-saferegen-delete-range: 32
+    keep-spawn-loaded: false
+    anti-xray:
+      enabled: false
+      engine-mode: 2
+      chunk-edge-mode: 2
+      max-chunk-section-index: 3
+      update-radius: 2
+      hidden-blocks:
+      - gold_ore
+      - iron_ore
+      - coal_ore
+      - lapis_ore
+      - mossy_cobblestone
+      - obsidian
+      - chest
+      - diamond_ore
+      - redstone_ore
+      - clay
+      - emerald_ore
+      - ender_chest
+      - air
+      replacement-blocks:
+      - stone
+      - oak_planks
+      - air
+    skip-entity-ticking-in-chunks-scheduled-for-unload: true
+    keep-spawn-loaded-range: 2
+    auto-save-interval: 6000
+    armor-stands-do-collision-entity-lookups: false
+    disable-thunder: false
+    skeleton-horse-thunder-spawn-chance: 0.01
+    disable-ice-and-snow: false
+    fire-physics-event-for-redstone: false
+    grass-spread-tick-rate: 6
+    water-over-lava-flow-speed: 5
+    bed-search-radius: 1
+    use-faster-eigencraft-redstone: true
+    container-update-tick-rate: 3
+    nether-ceiling-void-damage: true
+    allow-non-player-entities-on-scoreboards: false
+    parrots-are-unaffected-by-player-movement: false
+    disable-explosion-knockback: false
+    prevent-tnt-from-moving-in-water: false
+    non-player-arrow-despawn-rate: 20
+    creative-arrow-despawn-rate: 20
+    armor-stands-tick: false
+    spawner-nerfed-mobs-should-jump: false
+    allow-leashing-undead-horse: false
+    baby-zombie-movement-speed: 0.5
+    all-chunks-are-slime-chunks: false
+    mob-spawner-tick-rate: 60
+    squid-spawn-height:
+      maximum: 0.0
+    alt-item-despawn-rate:
+      enabled: false
+      items:
+        COBBLESTONE: 300
+    generator-settings:
+      flat-bedrock: false
+    baby-zombie-movement-modifier: 0.5

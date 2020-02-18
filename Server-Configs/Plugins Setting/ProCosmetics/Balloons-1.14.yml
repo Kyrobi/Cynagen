@@ -1,0 +1,267 @@
+Balloons:
+  Enable: true
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: LEAD
+  Amount: 1
+  Slot: 16
+  Displayname: "&bBalloons"
+  Lore:
+    - ""
+    - "&7Balloons are collectibles that"
+    - "&7you can float above your head"
+    - "&7as you wander the world."
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Balloons menu!"
+    - "&7Right-click to unequip your current Balloon!"
+
+  Menu:
+    Title: "Balloons"
+    Size: 54
+
+  Cosmetics:
+    Calf:
+      Enable: true
+      Name: "&bCalf Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: POPPY
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Free milk for everyone!"
+
+    Kitten:
+      Enable: true
+      Name: "&bKitten Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: COD
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7A cute little kitten hovers around."
+
+    Mini-Pig:
+      Enable: true
+      Name: "&bMini-Pig Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: COOKED_PORKCHOP
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Who doesn't want a pig hovering"
+        - "&7around their head?"
+
+    Mushroom-Cow:
+      Enable: true
+      Name: "&bMushroom Cow Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: RED_MUSHROOM
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Another variant of a normal cow."
+
+    Puppy:
+      Enable: true
+      Name: "&bPuppy Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: BONE
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Woff woff..."
+
+    Rabbit:
+      Enable: true
+      Name: "&bRabbit Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: CARROT
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Your rabbit needs a carrot."
+
+    Tiny-Villager:
+      Enable: true
+      Name: "&bTiny Villager Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: EMERALD
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Your own trade floating market!"
+
+    Zombie:
+      Enable: true
+      Name: "&bZombie Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: ROTTEN_FLESH
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Rotten flesh from the undead."
+
+    Guardian:
+      Enable: true
+      Name: "&bGuardian Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PRISMARINE_SHARD
+      Amount: 1
+      Slot: 20
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Watch out so he doesn't slap you."
+
+    Disco:
+      Enable: true
+      Name: "&bDisco Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: RARE
+
+      Material: BLUE_STAINED_GLASS
+      Amount: 1
+      Slot: 21
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Why just having one color"
+        - "&7when you can have all?"
+
+    Egg:
+      Enable: true
+      Name: "&bEgg Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: DRAGON_EGG
+      Amount: 1
+      Slot: 22
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7This egg is from another dimension"
+        - "&7Don't let the enderdragon know!"
+
+    Emerald:
+      Enable: true
+      Name: "&bEmerald Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: EMERALD_BLOCK
+      Amount: 1
+      Slot: 23
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7Not everyone can afford an"
+        - "&7Emerald block."
+
+    Explosive:
+      Enable: true
+      Name: "&bExplosive Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: TNT
+      Amount: 1
+      Slot: 24
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7This one may scare someone."
+
+    Pumpkin:
+      Enable: true
+      Name: "&bPumpkin Balloon"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+
+      Material: PUMPKIN
+      Amount: 1
+      Slot: 25
+      Page: 1
+      Displayname: "(name)"
+      Lore:
+        - ""
+        - "&7This one will fit your Halloween"
+        - "&7costume for sure!"

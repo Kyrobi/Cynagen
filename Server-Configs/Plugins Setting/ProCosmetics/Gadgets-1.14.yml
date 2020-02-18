@@ -1,0 +1,359 @@
+Gadgets:
+  Enable: true
+  Fill-Empty-Slots: true
+  Go-Back-Item: true
+
+  Material: PISTON
+  Amount: 1
+  Slot: 30
+  Displayname: "&bGadgets"
+  Lore:
+    - ""
+    - "&7All sorts of zany contraptions"
+    - "&7to use on your friends and"
+    - "&7foes."
+    - ""
+    - "&3You own &b(current)&7/&b(maximum)"
+    - ""
+    - "&7Left-click to open the Gadgets menu!"
+    - "&7Right-click to unequip your current Gadget!"
+
+  Menu:
+    Title: "Gadgets"
+    Size: 45
+
+  Cosmetics:
+    Ethereal-Pearl:
+      Enable: false
+      Name: "&bEthereal Pearl"
+      Can-Be-Found: true
+      Purchasable: false
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 5.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: ENDER_PEARL
+      Amount: 1
+      Slot: 10
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7The endermen won't be happy"
+        - "&7once they find out we stole"
+        - "&7these enderpearls!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Fireworks:
+      Enable: true
+      Name: "&bFireworks"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 1.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: FIREWORK_ROCKET
+      Amount: 1
+      Slot: 11
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Do you need to celebrate"
+        - "&7someone? These fireworks"
+        - "&7should do the trick!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    TNT:
+      Enable: true
+      Name: "&bTNT"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 3.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: TNT
+      Amount: 1
+      Slot: 12
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Throw these TNT at the person"
+        - "&7you want to get rid off!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Paintball:
+      Enable: true
+      Name: "&bPaintball"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 0.3
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: GOLDEN_HORSE_ARMOR
+      Amount: 1
+      Slot: 13
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Why is it looking so boring here?"
+        - "&7Spread the world with colors!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Bat-Blaster:
+      Enable: true
+      Name: "&bBat Blaster"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 5.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: IRON_HORSE_ARMOR
+      Amount: 1
+      Slot: 14
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Unleash waves of terrifyng"
+        - "&7bats at people you don't like!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Confetti:
+      Enable: true
+      Name: "&bConfetti"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 0.3
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: BLAZE_ROD
+      Amount: 1
+      Slot: 15
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Suprise someone with some"
+        - "&7wonderful colors!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Party-Popper:
+      Enable: true
+      Name: "&bParty Popper"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 20.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 10
+        Cost: 20
+        Infinity: false
+
+      Material: CAKE
+      Amount: 1
+      Slot: 16
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Party like no other!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Coin-Party-Bomb:
+      Enable: true
+      Name: "&bCoin Party Bomb"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 10000
+      Rarity: RARE
+      Cooldown: 50.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 1
+        Cost: 500
+        Infinity: false
+
+      Material: SUNFLOWER
+      Amount: 1
+      Slot: 19
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7You'll be everyone's favorite player"
+        - "&7once you have thrown once of these!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Merry-Go-Round:
+      Enable: true
+      Name: "&bMerry-Go-Round"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: RARE
+      Cooldown: 80.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 2
+        Cost: 400
+        Infinity: false
+
+      Material: MINECART
+      Amount: 1
+      Slot: 20
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Weeee, I have never had"
+        - "&7funnierrrrr!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Rocket:
+      Enable: true
+      Name: "&bRocket"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 30.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 3
+        Cost: 500
+        Infinity: false
+
+      Material: IRON_BLOCK
+      Amount: 1
+      Slot: 21
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Get ready for your biggest"
+        - "&7adventure ever!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Trampoline:
+      Enable: true
+      Name: "&bTrampoline"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 40.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 2
+        Cost: 300
+        Infinity: false
+
+      Material: BLACK_WOOL
+      Amount: 1
+      Slot: 22
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Come and bounce with me!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"
+
+    Disco-Ball:
+      Enable: true
+      Name: "&bDisco Ball"
+      Can-Be-Found: true
+      Purchasable: true
+      Cost: 1000
+      Rarity: COMMON
+      Cooldown: 50.0
+      Ammo:
+        Purchasable: true
+        Purchase-Amount: 5
+        Cost: 20
+        Infinity: false
+
+      Material: BLUE_STAINED_GLASS
+      Amount: 1
+      Slot: 23
+      Page: 1
+      Displayname: "&b(ammo) (name)"
+      Lore:
+        - ""
+        - "&7Shut up and dance with me!"
+        - ""
+        - "&bYou currently own &7(ammo)"
+        - ""
+        - "&9Ammo craftable for &e(ammoCost) coins&9!"

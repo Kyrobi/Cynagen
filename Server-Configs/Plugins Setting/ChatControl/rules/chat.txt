@@ -1,0 +1,154 @@
+# -------------------------------------------------------------------------------
+
+# This file manages rules in chat (not commands) and includes rules from rules.txt.
+
+#
+
+# For help, see the header in the rules.txt file.
+
+# -------------------------------------------------------------------------------
+
+
+
+# -------- Prevent people saying bad things about your server
+
+# Notice the id, it can be a string and can used multiple times
+
+match \bPickaxeChat\b
+then deny
+
+match \bI joined using ChatCraft\b
+then deny
+
+match @everyone
+then console banip -s {player} 4h Do not do that.
+then deny
+
+match @here
+then console banip -s {player} 4h Do not do that.
+then deny
+
+
+###################################################
+#######Automatically Answer Questions#############
+
+
+###BEGIN VIP
+match \bhow much is vip\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bmuch does vip cost\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bdo i get vip\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bdo I buy VIP\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bcost of vip\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bbecome a VIP\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bI purchase VIP\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+
+match \bi obtain VIP\b
+then warn &a&lVIP is &4$24.99 &a and can be purchased \n&a&lat &4https://cynagen.craftingstore.net/
+then deny
+###END VIP
+
+###WHAT ARE THE PERKS OF VIP###
+
+match \bwhat can you do with VIP\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat perks do you get from vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat do you get with vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bhow do i get vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bhow do i become vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat are the perks VIP\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat do you get when you get vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat do you get when you become vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat do I get with VIP\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bwhat are the benefits of vip\b
+then warn &aYou can find the perks of VIP by doing &c&l/vip
+then deny
+
+match \bpaypal\b
+then warn &aIf you want to buy VIP but don't have a PayPal account, no worries! Simply continue on by selecting "PayPal." After you have reach the payment area, you can just pay by typing in your card number without singing into a PayPal account!
+
+match \bHypixel\b
+then replace Hypickle
+
+
+###END BASIC QUESTIONS
+
+
+###BEGIN BASIC QUESTIONS
+
+###END BASIC QUESTIONS
+
+
+
+
+######################################################
+
+
+#match ($)
+#ignore perm chattt.owo
+#then replace $1 | owo| uwu| OwO| UwU| :3| *nuzzles*| OmO| omo
+
+
+#match ($)
+#ignore perm chat.owo
+#then replace $1 ?
+
+# Example of preventing special, unicode characters. Those are misused to bypass filters.
+
+# Please keep in mind that non-english languages might use them as well.
+
+#match [^\u0000-\u007F]+
+
+#then warn Unicode is prohibited
+
+#then deny
+
+
+
+
+# -------- Example usage of unicode characters - making smileys
