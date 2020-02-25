@@ -21,6 +21,6 @@ Please title this post "Ban Appeal:" followed by a name
 
 **I like to be unbanned because**:
 
-**What's your opinion on getting tattoos?**:
+**What do you think is the best country?**:
 
 **Additional information**: (Optional)
