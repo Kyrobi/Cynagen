@@ -27,6 +27,14 @@ How to get: Get this by crafting **Blinding Light of Destiny** on the server.
 
 Description: You have unlocked the Blinding Light of Destiny! You are truly a legendary player.
 
+### [Honorary Cat Girl] 
+
+Difficulty: Exclusive
+
+How to get: An exclusive role for Venus_DeMilos.
+
+Description: The server's cat girl. uwu
+
 
 # Special Event Ranks
 
