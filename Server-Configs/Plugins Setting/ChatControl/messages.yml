@@ -1,0 +1,724 @@
+# !-----------------------------------------------------------------------------------------!
+#   This file holds configuration for join, quit, kick, death
+#   messages and automatic message broadcaster.
+# !-----------------------------------------------------------------------------------------!
+#
+#   To use placeholders, you'll need to enable custom
+#   variables in settings.yml at Variables.Enabled.
+#
+#   See "variables/javascript.txt" for list of precreated variables.
+#
+# !-----------------------------------------------------------------------------------------!
+#
+#   The configuration can go into very advanced. Don't worry if you don't understand all
+#   in the beginning; you may not need to use every possible option on your server at all.
+#
+# !-----------------------------------------------------------------------------------------!
+
+# -----------------------------------------------------------------------------------------
+# Automatic message broadcaster.
+# -----------------------------------------------------------------------------------------
+Broadcaster:
+  #
+  # Enable the whole section?
+  #
+  Enabled: false
+  #
+  # Display styles.
+  # 0 - From first to the last message from the list.
+  # 1 - Randomly picks up from the list.
+  # 2 - Random, but messages won't repeat until every message has been broadcasted.
+  #
+  Mode: 0
+  #
+  # Prefix and suffix supports variables {player} and {world}
+  #
+  Prefix: '&8[&2Tip&8]&2'
+  #
+  # Option suffix
+  # 
+  Suffix: ''
+  #
+  # Delay between messages
+  #
+  Delay_Seconds: 180
+  #
+  # Play a sound each time a message pops out in the chat, increasing players' attention.
+  # Usage: <bukkitSoundName>, <volume>, <pitch> 
+  # Example: ENTITY_ARROW_HIT_PLAYER, 1.0, 0.1
+  #
+  Sound: none
+  #
+  # The actual messages. It is possible to display different messages in worlds.
+  #
+  # NOTE: You can use JSON formats you create in formatting.yml here, just type the name of the format
+  #       directly on the line :)
+  #
+  Messages: 
+    #
+    # Messages set as 'global' are displayed in all worlds.
+    #
+    global: 
+      - Hey, {player}, did you know that we are running ChatControl?
+      - 'Check out &ahttps://spigotmc.org/resources/10258'
+    # 
+    # Messages for 'hardcore' world. The world receives both global messages and these specified below.
+    #
+    hardcore: 
+      - Grief is not permitted what-so-ever and every griefer will be banned.
+      - Can you survive the night on {world} world?
+    #
+    # This world receives messages included in the hardcore world.
+    #
+    hardcore_nether: 
+      - includeFrom hardcore
+    #
+    # No messages will be broadcasted in this world.
+    #
+    ignored-world: 
+      - excludeGlobal
+    # 
+    # No global messages will be displayed here.
+    #
+    creative: 
+      - excludeGlobal
+      - 'Welcome on Creative world. Enjoy your gamemode :)'
+      - |-
+        This is an example of multi-line.
+        Use it if the new line character 
+        is not working for you.
+      - 'This is another message, this time only on one line!'
+
+# -----------------------------------------------------------------------------------------
+# Hide join, kick or quit messages completely?
+# 
+# Useful if you have BungeeControl and 'broadcast-servers-switch' enabled.
+# -----------------------------------------------------------------------------------------
+Hide_Join_Quit_Kick_Messages: false
+
+# -----------------------------------------------------------------------------------------
+# Configure custom join messages.
+# -----------------------------------------------------------------------------------------
+Join_Message:
+  #
+  # Set to true to enable custom join messages.
+  #
+  Enabled: false
+  #
+  # Do not send the message if the player is vanished? Most vanish plugins are supported.
+  #
+  Ignore_Vanished: true
+  #
+  # The delay in ticks before displaying join message.
+  # Increase to display it AFTER all messages when the player logs-in.
+  #
+  Delay_Ticks: 1
+  #
+  # That's the default message if no condition is specified or hit.
+  # Use 'default' to leave unchanged, 'hide' to silence or simply write an own message, e.g. '&6{player} &7has joined the server!'
+  # Is it possible to specify multiple messages that will be picked up randomly.
+  #
+  Message: default
+  #
+  # Rules for displaying custom different messages. 
+  # [NOTICE] They are processed in alphabetical order according to names.
+  #
+  Conditions: 
+    #
+    # The name if the condition sets it order. They are ordered alphabetically.
+    #
+    hells_message: 
+      #
+      # Either specify one gamemode or a list. Numbers and names are supported.
+      #
+      Gamemode: SURVIVAl
+      #
+      # Either specify one world or a list like so:
+      #
+      World: [world_nether, hardcore_nether, another_nether]
+      #
+      # Either specify one message or a list from which they'll randomly be picked up.
+      #
+      Message: '&8[&2+&8] &7Welcome to &chell &7{player}!'
+
+    anniversary_message: 
+      #
+      # You can also specify a Javascript condition.
+      #
+      Condition: 'player.getStatistic(Java.type("org.bukkit.Statistic").LEAVE_GAME) == 99'
+      #
+      # An example of only one message, but multi-lined.
+      #
+      Message: |- 
+               &6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               &e&l{player} &ejoined the server 100th time!
+               &6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      
+    staff_message: 
+      #
+      # Permission player must have for messages below when they join.
+      #
+      Permission: "chatcontrol.joinmessage.staff"
+      
+      Message:
+        - '&8[&2+&8] &7Welcome &b{player} &7to the server!'
+        - '&8[&2+&8] &7Bless &9{player} &7for joining!'
+        - '&8[&2+&8] &7All say hey to &e{player} &7for joining!'
+        - '&8[&2+&8] &7Watch out for &c{player} &7joining!'
+
+# -----------------------------------------------------------------------------------------
+# Configure custom death messages.
+# -----------------------------------------------------------------------------------------
+Quit_Message:
+  #
+  # Set to true to enable custom quit messages.
+  #
+  Enabled: false
+  #
+  # Do not send the message if the player is vanished? Most vanish plugins are supported.
+  #
+  Ignore_Vanished: true
+  
+  Message: default
+  
+  Conditions: 
+    staff_message: 
+      Permission: "chatcontrol.joinmessage.staff"
+      
+      Message:
+        - '&8[&4-&8] &b{player} &7left the server'
+        - '&8[&4-&8] &9{player} &7just quit the game. Good bye!'
+        - '&8[&4-&8] &7Say goodbye to &e{player} &7for leaving!'
+
+# -----------------------------------------------------------------------------------------
+# Configure custom kick messages.
+#
+# Only works if the plugin that is kicking your player do not change the message.
+# THIS IS RARELY USED IN BUKKIT, BECAUSE BAN MANAGEMENT PLUGINS HANDLE IT IN THEIR OWN WAY
+# -----------------------------------------------------------------------------------------
+Kick_Message: 
+  #
+  # Set to true to enable custom quit messages.
+  #
+  Enabled: false
+
+  Message: default
+  
+  # You don't need to specify conditions if you don't need to.
+
+# -----------------------------------------------------------------------------------------
+# Configure custom death messages.
+#
+# Thanks to c0wg0d for contributions and examples.
+# -----------------------------------------------------------------------------------------
+Death_Messages: 
+  #
+  # Set to true to enable custom death messages.
+  #
+  Enabled: false
+  #
+  # The prefix used in front of all messages.
+  #
+  Prefix: ''
+  #
+  # Do not send the message if the player is vanished? Most vanish plugins are supported.
+  #
+  Ignore_Vanished: false
+  #
+  # Enable to make messages compatible with DiscordSRV / DynMap or similar.
+  #
+  Hide_By_Gamerule: false
+  #
+  # Log death messages to console?
+  #
+  Log_To_Console: true
+  #
+  # Integration with DiscordSRV.
+  #
+  Discord:
+    #
+    # Send death messages to a Discord channel?
+    #
+    Enabled: true
+    #
+    # Channel name on Discord where to send.
+    #
+    Channel: 'myDiscordChannel'
+  #
+  # Here you can customize the {killer} and {killer_item} variable's translations.
+  #
+  Translate: 
+    Skeleton: Mighty Skeleton
+    Wither Skeleton: Withered Skeleton
+    Diamond Sword: Sword of Death
+    
+  #
+  # The default message if it's not recognized by any cause.
+  #
+  Default: 
+    Message:
+      - '&e{player} &7was blindsided by an unknown force'
+      - '&e{player} &7has died of unknown causes'
+    #
+    # Use 'hide' to not broadcast to bungee, 'default' to use the main message or specify a custom message like: &6{player} &7just joined on &c{server_name}&7!
+    # To use, you must have enabled BungeeCord in settings.yml first!
+    #
+    Bungee_Message: hide
+    #
+    # To whom the message should be displayed?
+    # If you don't specify it, it will be displayed to everyone.
+    # ALL -> display to all players
+    # BOTH -> only display to the killer (if exists) and the dead player
+    # PLAYER -> only display to the dead player
+    # KILLER -> only display to the killer, if exists
+    #
+    Display_To: ALL
+    #
+    # Range controls how far in the world the message should spread.
+    # Set to -1 to send to the entire server, or set the range to limit for the player's world.
+    #
+    Range: -1
+    #
+    # Rule for displaying different death messages.
+    #
+    Conditions:
+      #
+      # An example condition preventing sending messages when the player dies in creative.
+      # Conditions: Gamemode, Killer, Range, Permission, Condition (for JavaScript condition, see examples above in Join_Message)
+      #
+      silent_on_creative:
+        Gamemode: CREATIVE
+
+        Message: none
+
+  Contact:
+    Message:
+      - '&e{player} &7tried to hug a cactus'
+      - '&e{player} &7tried to fist bump with a cactus'
+      - '&7That there is what we call a prickly pear, yeehaw and ouch &e{player}'
+
+  Entity_Attack:
+    Message:
+      - '&e{player} &7wrongly assumed {killer} liked hugs'
+
+    Conditions:
+      blaze:
+        #
+        # This condition requires a certain killer type. For killer type names, see:
+        # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+        #
+        Killer: BLAZE
+        Message:
+          - '&e{player} &7was burnt to a crisp by a blaze'
+
+      cave_spider:
+        Killer: CAVE_SPIDER
+        Message:
+          - '&e{player} &7couldn''t find the cave spider andidote in time'
+
+      ravager:
+        Killer: RAVAGER
+        Message:
+          - '&e{player} &7died to CHONK'
+          - '&e{player} &7got killed by a CHONK'
+          - '&e{player} &7got obliterated by a CHONK'
+
+      #creeper: # in Entity_Explosion
+
+      dragon_fireball:
+        Killer: DRAGON_FIREBALL
+        Message:
+          - '&e{player} &7was hit by a dragon fireball'
+
+      drowned:
+        Killer: DROWNED
+        Message:
+          - '&e{player} &7was murdered by drowned'
+
+      elder_guardian:
+        Killer: ELDER_GUARDIAN
+        Message:
+          - '&e{player} &7was zapped by an elder guardian'
+
+      #ender_crystal: # in Entity_Explosion
+
+      ender_dragon:
+        Killer: ENDER_DRAGON
+        Message:
+          - '&e{player} &7failed to train the dragon'
+
+      enderman:
+        Killer: ENDERMAN
+        Message:
+          - '&e{player} &7lost a staring contest with an enderman'
+
+      endermite:
+        Killer: ENDERMITE
+        Message:
+          - '&e{player} &7tried to feed an endermite and failed'
+
+      #evoker: # use evoker_fangs
+
+      evoker_fangs:
+        Killer: EVOKER_FANGS
+        Message:
+          - '&e{player} &7could not evoke a win from that evoker'
+
+      giant:
+        Killer: GIANT
+        Message:
+          - '&e{player} &7got squished under a giant''s foot'
+
+      guardian:
+        Killer: GUARDIAN
+        Message:
+          - '&e{player} &7was zapped by a guardian'
+
+      husk:
+        Killer: HUSK
+        Message:
+          - '&e{player} &7was zombified by a husk'
+
+      iron_golem:
+        Killer: IRON_GOLEM
+        Message:
+          - '&e{player} &7upset an iron golem and paid the price'
+
+      lightning:
+        Killer: LIGHTNING
+        Message:
+          - '&e{player} &7was hugging a metal pole in a thunderstorm'
+
+      magma_cube:
+        Killer: MAGMA_CUBE
+        Message:
+          - '&e{player} &7was burnt to a crisp by a magma cube'
+
+      phantom:
+        Killer: PHANTOM
+        Message:
+          - '&e{player} &7was taken away by phantom'
+
+      pig_zombie:
+        Killer: PIG_ZOMBIE
+        Message:
+          - '&e{player} &7angered a zombie pigman'
+
+      primed_tnt:
+        Killer: PRIMED_TNT
+        Message:
+          - '&e{player} &7died from TNT'
+
+      silverfish:
+        Killer: SILVERFISH
+        Message:
+          - '&e{player} &7was infested by a silverfish'
+
+      slime:
+        Killer: SLIME
+        Message:
+          - '&e{player} &7ate too much jello'
+
+      spider:
+        Killer: SPIDER
+        Message:
+          - '&e{player} &7suffered fatally from arachnaphobia'
+
+      vex:
+        Killer: VEX
+        Message:
+          - '&e{player} &7couldn''t use bug spray fast enough on that vex'
+
+      vindicator:
+        Killer: VINDICATOR
+        Message:
+          - '&e{player} &7tried to axe the vindicator a question'
+
+      #wither: # under Entity_Explosion
+
+      wither_skeleton:
+        Killer: WITHER_SKELETON
+        Message:
+          - '&e{player} &7bothered a very grumpy wither skeleton'
+
+      #wither_skull: # under Projectile
+
+      wolf:
+        Killer: WOLF
+        Message:
+          - '&7Poor &e{player}&7, that wasn''t a doggie, that was a wolf'
+
+      zombie:
+        Killer: ZOMBIE
+        Message:
+          - '&e{player} &7found out the hard way that zombies don''t like hugs'
+
+      zombie_villager:
+        Killer: ZOMBIE_VILLAGER
+        Message:
+          - '&e{player} &7failed to cure the zombie villager'
+
+      pvp_diamond_sword:
+        Killer: PLAYER
+        Killer_Item: DIAMOND_SWORD
+        Message:
+          - '&c{player} &7was distracted by {killer}&7''s shiny {killer_item}!'
+
+      pvp_raw_fish:
+        Killer: PLAYER
+        Killer_Item: RAW_FISH
+        Message:
+          - '&c{player} &7was trout slapped by {killer}&7''s {killer_item}!'
+          
+      pvp_wood_sword:
+        Killer: PLAYER
+        #
+        # You may use the wildcat '*' character to match any kind of sword. Careful, this is not regular expression, just our own system!
+        #
+        Killer_Item: '*_SWORD'
+        Message:
+          - '&c{player} &7got a splinter and died from &a{killer}&7''s {killer_item}!'
+
+      pvp_wood_axe:
+        Killer: PLAYER
+        Killer_Item: '*_AXE'
+        Message:
+          - '&c{player} &7asked {killer}&7''s {killer_item} a terrible knock knock joke'
+          
+      pvp_x: # The _x is just for the plugin to recognize this as the last condition.
+        Killer: PLAYER
+        #
+        # Message for the killer, if available:
+        #
+        Killer_Message:
+          - '<noprefix> &8[&4PvP&8] &6You just &cmurdered &6{player}!'
+          - '<noprefix> &8[&4PvP&8] &6You just &cslayed &6{player}!'
+
+        Message:
+          - '&c{player} &7was annoyed to death by &a{killer}&7!'
+          - '&a{killer} &7has slain &c{player}&7!'
+          - '&a{killer} &7is victorious over &c{player}&7!'
+          - '&a{killer} &7has overpowered &c{player} &7in combat!'
+          - '&a{killer} &7killed &c{player}&7!'
+          - '&a{killer} &7has ended poor &c{player}&7!'
+          - '&a{killer} &7overcame &c{player} &7in battle!'
+          - '&a{killer} &7defeated &c{player} &7in mighty struggle!'
+          - '&a{killer} &7ended all dreams for &c{player}&7!'
+
+  Projectile:
+    Message:
+      - '&e{player} &7made a great porcupine impression'
+
+    Conditions:
+
+      fireball:
+        # You can use the operators from above in each death cause here as well.
+        Killer: FIREBALL
+        Message:
+          - '&e{player} &7failed to dodge a fireball'
+
+      skeleton:
+        Killer: SKELETON
+        Message:
+          - '&e{player} &7couldn''t outrun that skeleton'
+
+      stray:
+        Killer: STRAY
+        Message:
+          - '&e{player} &7didn''t stray away long enough'
+
+      wither_skull:
+        Killer: WITHER_SKULL
+        Message:
+          - '&e{player} &7got up close and personal with a wither skull'
+
+      firework:
+        Killer: FIREWORK
+        Message:
+          - '&e{player} &7forgot to run away after lighting a firework'
+
+      ghast:
+        Killer: GHAST
+        Message:
+          - '&e{player} &7couldn''t deflect the ghast''s fireball in time'
+
+  Suffocation:
+    Message:
+      - '&e{player} &7had their head in a block for too long'
+
+  Fall:
+    Message:
+      - '&e{player} &7got up close and personal with the ground'
+      - '&e{player} &7believed they could fly'
+      - '&e{player} &7thought they were a bird'
+      - '&e{player} &7tripped over a rock'
+      - '&e{player} &7was texting while driving'
+      - '&e{player} &7forgot their feather falling boots'
+      - '&e{player} &7slipped on a banana peel'
+      - '&e{player} &7tried to take the high way'
+      - '&e{player} &7tried to fly like Superman and failed'
+      - '&e{player} &7forgot to look before they leaped'
+      - '&e{player} &7face planted'
+      - '&e{player} &7went skydiving and forgot their parachute'
+      - '&e{player} &7tried to fly like an eagle, but it was more like a brick'
+      - '&e{player} &7isn''t a bird, but congrats on the SPLAT sound, it was perfect!'
+      - '&e{player} &7performed a successful test of the laws of gravity'
+
+  Fire:
+    Message:
+      - '&e{player} &7was turned into a well cooked steak'
+      - '&e{player} &7forgot to stop, drop, and roll'
+      - '&e{player} &7forgot to drink a fire resistance potion'
+      - '&e{player} &7wanted to be the next Human Torch'
+      - '&e{player} &7forgot to put on sunscreen'
+
+  Fire_Tick:
+    Message:
+      - '&e{player} &7couldn''t find the fire extinguisher'
+      - '&e{player} &7ate one too many bowls of extra spicy chili'
+      - '&e{player} &7was playing with matches'
+      - '&e{player} &7thought yelling would stop the fire'
+
+  Lava:
+    Message:
+      - '&e{player} &7was no match for a pool of lava'
+      - '&e{player} &7was trying to craft a lava lamp with real lava'
+      - '&e{player} &7mistook lava for a hot tub'
+      - '&e{player} &7couldn''t take the heat'
+      - '&e{player} &7tried dancing on lava.  Burn, baby, burn!'
+      - '&7Silly &e{player}&7... That isn''t Kool Aid, that''s lava'
+
+  Drowning:
+    Message:
+      - '&e{player} &7needs to learn to swim'
+      - '&e{player} &7lost a breath holding contest with a fish'
+      - '&e{player} &7thought for sure they were a fish'
+      - '&e{player} &7decided to go swimming with the dolphins'
+      - '&e{player} &7forgot they didn''t have gills'
+      - '&e{player} &7took a nap during swim class'
+      - '&e{player} &7tried a little too hard to find Atlantis'
+      - '&e{player} &7realized their requirements for oxygen way too late'
+      - '&e{player}&7, swimming with a pumpkin on your head is not SCUBA diving'
+      - '&e{player}&7, you are not a fish! Stop breathing water! I said stop!...Too late'
+      - '&7Dog paddling wasn''t enough for &e{player}'
+
+  Block_Explosion:
+    Message:
+      - '&e{player} &7thought TNT stood for Totally Not TNT'
+      - '&e{player} &7forgot TNT goes ka-boom'
+      - '&e{player} &7learned the hard way what the Big Bang Theory really is'
+      - '&e{player} &7only wanted to travel to the moon. Looks like that rocket blew up'
+      - '&e{player} &7went boom, boom, BOOM! Silly &e{player}'
+
+  Entity_Explosion:
+    Message: '&e{player} &7blew up'
+
+    Conditions:
+      creeper:
+        Killer: CREEPER
+        Message:
+          - '&e{player} &7was the victim of a creeper ambush'
+          - '&e{player} &7believed creepers were the hugging type'
+          - '&e{player} &7tried to hug a creeper'
+          - '&e{player} &7tried to befriend a creeper'
+          - '&e{player} &7Creeper! AWW MAN!'
+          - '&e{player} &7Creeper! AWW MAN!'
+          - '&e{player} &7Creeper! AWW MAN!'
+          - '&e{player} &7should listen more carefully for &2creepers&f next time'
+          - '&7A creeper blast vaporized &e{player}'
+
+      ender_crystal:
+        Killer: ENDER_CRYSTAL
+        Message:
+          - '&e{player} &7sneezed too hard next to an end crystal'
+
+      primed_tnt:
+        Killer: PRIMED_TNT
+        Message:
+          - '&e{player} &7died from TNT'
+
+      wither:
+        Killer: WITHER
+        Message:
+          - '&e{player} &7tried to fist bump a spawning wither'
+
+  Void:
+    Message:
+      - '&e{player} &7figured out how to mine bedrock'
+      - '&e{player} &7went swimming in the void'
+      - '&e{player} &7forgot to look where they were walking'
+      - '&e{player} &7wanted to a-void you'
+      - '&7The void has claimed &e{player}'
+
+  Lightning:
+    Message:
+      - '&e{player} &7was thunderstruck'
+      - '&e{player} &7was seeing stars'
+      - '&e{player} &7was destroyed by Thor''s mighty hammer'
+      - '&e{player} &7thought it was a good idea to play in the rain'
+      - '&7Ca-chow! &e{player} &7was struck by Lightning... McQueen'
+      - '&7I''m just as shocked as you are, &e{player}'
+
+  Suicide:
+    Message:
+      - '&e{player} &7decided to Let It Go...'
+      - '&e{player} &7was running with scissors'
+      - '&e{player} &7fell on their sword... ouch'
+      - '&7Life was too hard for &e{player}'
+      - '&7Oh yes, that was brilliant &e{player}&7.  Congrats, you are dead. *facepalm*'
+
+  Starvation:
+    Message:
+      - '&e{player} &7should learn to eat'
+      - '&e{player} &7doesn''t know how to cook'
+      - '&e{player} &7skipped breakfast... and lunch... and dinner'
+
+  Magic:
+    Message: '&e{player} &7has died of magic'
+
+    Conditions:
+      players_potion:
+        Killer: PLAYER
+        Message:
+          - '&e{player} &7was killed by {killer}''s deadly potion'
+    
+      witchs_potion:
+        Killer: WITCH
+        Message:
+          - '&e{player} &7got too close to a witch'
+
+  Wither:
+    Message:
+      - '&e{player} &7slowly withered away'
+
+  Falling_Block:
+    Message:
+      - '&e{player} &7tried to catch a falling anvil and failed'
+
+  Thorns:
+    Message: '&e{player} &7has died from thorns damage'
+
+  Dragon_Breath:
+    Message:
+      - '&7The Enderdragon has annihilated &e{player}'
+      - '&e{player} &7couldn''t tame a NightFury'
+
+  Custom:
+    Message: '&e{player} &7has miraculously died'
+
+  Fly_Into_Wall:
+    Message:
+      - '&e{player} &7hasn''t quite mastered the art of flying yet'
+
+  Hot_Floor:
+    Message:
+      - '&e{player} &7couldn''t do the fire walk after all'
+
+  Cramming:
+    Message:
+      - '&e{player} &7felt what it was like to be a sardine'
+
+  Dryout:
+    Message:
+      - '&e{player} &7has dried out'
+      
