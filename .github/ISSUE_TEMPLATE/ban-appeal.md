@@ -21,6 +21,6 @@ Please title this post "Ban Appeal:" followed by a name
 
 **I like to be unbanned because**:
 
-**What do you think is the best country?**:
+**Explain why is cereal is/isn't considered a soup**:
 
 **Additional information**: (Optional)
