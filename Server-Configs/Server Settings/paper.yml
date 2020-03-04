@@ -193,7 +193,7 @@ world-settings:
     alt-item-despawn-rate:
       enabled: false
       items:
-        COBBLESTONE: 300
+        GOLDEN_SWORD: 150
     generator-settings:
       flat-bedrock: false
     baby-zombie-movement-modifier: 0.5
