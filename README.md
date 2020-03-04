@@ -1,6 +1,11 @@
 # Cynagen
-A Minecraft server. A place to file ban appeals and report issues.
+A Minecraft survival server.
 
-Please create a new issue if you want to file a report on ban appeals, report general issues, anticheat bypass, anticheat false positives, and other stuff.
+This repository contains the server settings, rules, and bunch of other information pertaining to the server.
+The website can by found by going to the `gh-pages` branch of this repo.
+
+Additionally, the `issues` tab is used or filing a ban appeal, reporting players, making suggestions, and other that would otherwise require the player to be in Discord server.
+
+
 
 Feel free to contribute to this repository.
