@@ -23,7 +23,7 @@ rules:
   distance: 8
   max-amount: 20
 # A rule for spawner grinders, max of 10 mobs of the same type in the same block.
-- entities: zombie, skeleton, spider, cave spider
+- entities: zombie, skeleton, spider, cave spider, blaze
   worlds: all
   distance: 5
   max-amount: 10
