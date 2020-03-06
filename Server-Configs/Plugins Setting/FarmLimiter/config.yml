@@ -15,21 +15,21 @@ rules:
 - entities: all
   exclude: villager
   worlds: all
-  distance: 10
-  max-amount: 15
+  distance: 3
+  max-amount: 20
 # A rule to avoid friendly mob farms, limit the mobs amount to 25.
 - entities: pig, cow, sheep, chicken, mushroom cow, rabbit, panda, wolf, turtle, tropical fish, salmon, cod, bee, fox
   worlds: all
-  distance: 8
-  max-amount: 20
+  distance: 3
+  max-amount: 25
 # A rule for spawner grinders, max of 10 mobs of the same type in the same block.
 - entities: zombie, skeleton, spider, cave spider, blaze, creeper, iron golem
   worlds: all
-  distance: 5
-  max-amount: 10
+  distance: 4
+  max-amount: 20
 - entities: villager
   worlds: all
-  distance: 10
+  distance: 2
   max-amount: 15
 
 extra:
