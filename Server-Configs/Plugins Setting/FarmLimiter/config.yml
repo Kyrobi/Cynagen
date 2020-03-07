@@ -15,8 +15,8 @@ rules:
 - entities: all
   exclude: villager
   worlds: all
-  distance: 3
-  max-amount: 25
+  distance: 2
+  max-amount: 20
 # A rule to avoid friendly mob farms, limit the mobs amount to 25.
 - entities: pig, cow, sheep, chicken, mushroom cow, rabbit, panda, wolf, turtle, tropical fish, salmon, cod, bee, fox
   worlds: all
