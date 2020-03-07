@@ -35,6 +35,10 @@ rules:
   worlds: all
   distance: 5
   max-amount: 10
+- entities: minecart, minecart chest, minecart furnace, minecart hopper
+  worlds: all
+  distance: 3
+  max-amount: 10
 
 extra:
   # The rate of mobs that will successfully spawn from a nether portal.
