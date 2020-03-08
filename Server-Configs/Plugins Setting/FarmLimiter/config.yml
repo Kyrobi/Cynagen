@@ -42,7 +42,7 @@ rules:
 - entities: iron golem
   worlds: all
   distance: 5
-  max-amount: 8
+  max-amount: 5
 
 extra:
   # The rate of mobs that will successfully spawn from a nether portal.
