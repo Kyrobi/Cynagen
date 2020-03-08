@@ -23,7 +23,7 @@ rules:
   distance: 2
   max-amount: 20
 # A rule for spawner grinders, max of 10 mobs of the same type in the same block.
-- entities: zombie, skeleton, spider, cave spider, blaze, creeper, iron golem
+- entities: zombie, skeleton, spider, cave spider, blaze, creeper
   worlds: all
   distance: 4
   max-amount: 20
@@ -39,6 +39,10 @@ rules:
   worlds: all
   distance: 3
   max-amount: 10
+- entities: iron golem
+  worlds: all
+  distance: 5
+  max-amount: 8
 
 extra:
   # The rate of mobs that will successfully spawn from a nether portal.
