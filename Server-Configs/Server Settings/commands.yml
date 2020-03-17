@@ -21,6 +21,8 @@ aliases:
   - craft
   kc:
   - kittycannon
+  bc:
+  - beezooka
   k:
   - kittycannon
   reload:
@@ -57,6 +59,8 @@ aliases:
   - warp market
   market:
   - warp market
+  qs find:
+  - qsgui
   votekick:
   - []
   sc:
