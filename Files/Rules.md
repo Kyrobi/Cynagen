@@ -54,7 +54,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **c).** Using modifications to the game such as x-ray texture packs is also considered cheating.
 
-**d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord.
+**d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord. [Here](https://github.com/Kyrobi/Cynagen/blob/master/Files/allowedglitches.md) is a list of approved gtliches that you can use.
 
 **e).** Using anything that gives the user a clear advantage on the server. If you're not sure, ask in our Discord.
 
