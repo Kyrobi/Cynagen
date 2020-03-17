@@ -2,7 +2,7 @@
 # Redistribution of this product is forbidden.
 
 # How often to check mob farms in seconds.
-check-interval: 60
+check-interval: 20
 
 broadcast:
   enable: false
@@ -26,7 +26,7 @@ rules:
 - entities: zombie, skeleton, spider, cave spider, blaze, creeper
   worlds: all
   distance: 4
-  max-amount: 20
+  max-amount: 10
 - entities: villager
   worlds: all
   distance: 2
@@ -35,7 +35,7 @@ rules:
   worlds: all
   distance: 5
   max-amount: 10
-- entities: minecart, minecart chest, minecart furnace, minecart hopper
+- entities: minecart, minecart chest, minecart furnace, minecart hopper, boat
   worlds: all
   distance: 3
   max-amount: 10
