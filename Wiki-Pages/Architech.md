@@ -27,3 +27,79 @@ Architech's plugins list:
 ![image](https://user-images.githubusercontent.com/20980266/76998977-f4335c80-6923-11ea-9373-059082456254.png)
 
 I know that this section is relatively petty, but it's still important to point out as she gets mostly everything from Cynagen.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Plot Shop Concept**
+
+Cynagen has a player plot shop system that allows the for buying of plots and making a shop out of it. Architech also has this.
+
+Cynagen's plot shop:
+![image](https://user-images.githubusercontent.com/20980266/76999759-2abda700-6925-11ea-80b6-ea226eed3e4c.png)
+
+Architech's plot shop:
+![image](https://user-images.githubusercontent.com/20980266/76999584-da464980-6924-11ea-8415-e51a951b5566.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Super Weapon Concept**
+
+Cynagen has an end-game weapon called `The Blinding Light of Destiny` (Ripped from AQW). There are multiple steps needed and requires an enormous amounts of materials to make.
+
+Cynagen's requirements:
+
+![image](https://user-images.githubusercontent.com/20980266/77000111-cc44f880-6925-11ea-809e-08d68d8ae7a4.png)
+
+Architech's reguirements:
+
+![image](https://user-images.githubusercontent.com/20980266/77000297-2776eb00-6926-11ea-9f47-35c5556c8c26.png)
+
+As you can probably tell, the items required are basically the exact same. Architect didn't even bother to change the name and the enchant on the `Diamond Token`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Discord Role**
+
+On Cynagen's Discord, we have some collectible roles. Architech likes those, too.
+
+Cynagen's Discord Roles:
+
+![image](https://user-images.githubusercontent.com/20980266/77000659-b8e65d00-6926-11ea-95ae-79ac5dfdf860.png)
+
+Architech Discord Roles:
+
+![image](https://user-images.githubusercontent.com/20980266/77000765-e206ed80-6926-11ea-97c8-8bdfb06a2090.png)
+
+Architech did not really even bother to change the colors of the roles either.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Server Shop**
+
+Both Cynagen and Architech have a server shop where players can purchse items with real-life currency. Archtich has some of the same items that Cynagen offers. 
+
+Cynagen's Shop:
+
+![image](https://user-images.githubusercontent.com/20980266/77001115-65284380-6927-11ea-9671-8d707f2499a9.png)
+
+Architech's Shop:
+
+![image](https://user-images.githubusercontent.com/20980266/77001170-7f622180-6927-11ea-9721-9e6c1d62f275.png)
+
+The items and the prices are the same.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**PvP Arena**
+
+Soft has came on with an alt onto Cynagen to get "inspired" and build the spawn on her own server.
+
+Cynagen's PvP arena:
+
+![image](https://user-images.githubusercontent.com/20980266/77001611-31015280-6928-11ea-95ca-5e9997d15054.png)
+
+
+Architech's PvP arena:
+
+![image](https://user-images.githubusercontent.com/20980266/77001508-116a2a00-6928-11ea-8337-99f9f122d62d.png)
