@@ -8,7 +8,7 @@ This pages goes into detail of how Architech is a literal copy-cat of Cynagen.
 
 # Background
 
-Back around Febuarary 13, 2020, players named SoftballGenius3 "Soft" and BountySlayer_24 "Bounty" decided to create their own server with SoftballGenius has the owner. Soft was clearly inspired by Cynagen. While building up her server, she has essentially copied what makes Cynagen unique. The following contiains screenshot evidence of this offense.
+Back around Febuarary 13, 2020, players named SoftballGenius3 "Soft" and BountySlayer_24 "Bounty" decided to create their own server with SoftballGenius as the owner. Bounty has since left the server with Luis replacing Bounty's position as co-owner. Soft is clearly inspired by Cynagen. While building up her server, she has essentially copied what makes Cynagen unique. The following contiains screenshot evidence of this offense.
 
 
 
@@ -103,3 +103,17 @@ Cynagen's PvP arena:
 Architech's PvP arena:
 
 ![image](https://user-images.githubusercontent.com/20980266/77001508-116a2a00-6928-11ea-8337-99f9f122d62d.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Buying VIP message**
+
+Cynagen's broadcast message when someone buys VIP:
+
+`broadcast {player} is now a part of the epic gamer squad!`
+
+Architech's broadcast message when someone buys VIP:
+
+![image](https://user-images.githubusercontent.com/20980266/77039481-05ac5100-6984-11ea-8967-5d4741c40f67.png)
+
+Note: I don't have access to their command that gets fired when someone does get VIP to verify. But I'm just going to use her message as evidence.
