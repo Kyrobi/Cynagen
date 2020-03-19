@@ -93,7 +93,7 @@ The items and the prices are the same.
 
 **PvP Arena**
 
-Soft has came on with an alt onto Cynagen to get "inspired" and build the spawn on her own server.
+Soft has came on with an alt onto Cynagen to get "inspired" by copying Cynagen's PvP arena onto her own server.
 
 Cynagen's PvP arena:
 
@@ -103,6 +103,12 @@ Cynagen's PvP arena:
 Architech's PvP arena:
 
 ![image](https://user-images.githubusercontent.com/20980266/77001508-116a2a00-6928-11ea-8337-99f9f122d62d.png)
+
+Here are some Discord messages showing that Soft was indeed on Cynagen's server and copying the PvP arena:
+
+![image](https://user-images.githubusercontent.com/20980266/77039726-8a976a80-6984-11ea-90a3-4ab70785dc1f.png)
+
+![image](https://user-images.githubusercontent.com/20980266/77039840-c0d4ea00-6984-11ea-9b7e-894105799bca.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -115,5 +121,7 @@ Cynagen's broadcast message when someone buys VIP:
 Architech's broadcast message when someone buys VIP:
 
 ![image](https://user-images.githubusercontent.com/20980266/77039481-05ac5100-6984-11ea-8967-5d4741c40f67.png)
+
+You can see that she did not even bother to change the message at all.
 
 Note: I don't have access to their command that gets fired when someone does get VIP to verify. But I'm just going to use her message as evidence.
