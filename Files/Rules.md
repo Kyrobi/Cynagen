@@ -74,7 +74,7 @@ Common sense is this magical thing that very few people have. According to every
 
 ## General
 
-* Do not change your nickname to match an existing one. Similar nicknames are allowed (Ex. Thing1 and Thing2).
+* Do not change your nickname to match an existing one or attempt to impersonate a person on the server. It's annoying.
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
