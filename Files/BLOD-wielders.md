@@ -4,7 +4,8 @@ The ``Blinding Light of Destiny`` is the ultimate end-game item on Cynagen. The 
 
 ![image](https://user-images.githubusercontent.com/20980266/77242334-5feb2300-6bcb-11ea-9a70-a08bbf1defc9.png)
 
-List of players who has obtained the Blinding Light of Destiny
+
+### List of players who have obtained the Blinding Light of Destiny
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
