@@ -10,6 +10,6 @@ List of players who has obtained the Blinding Light of Destiny
 
 **socksguy**  `October 12, 2019`
 
-**JokerBoss99**
+**JokerBoss99** `February 14, 2019`
 
 **ColtCrohnie** `March 21, 2019`
