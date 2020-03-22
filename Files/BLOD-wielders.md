@@ -1,4 +1,4 @@
-The ``Blinding Light of Destiny`` is the ultimate end-game item on Cynagen. The item requires an insane amount of resources and time to be invested. First introduced in July 22, 2018, the item has only been obtained by the most dedicated members of the server.
+The ``Blinding Light of Destiny`` is the ultimate end-game item on Cynagen. The item requires an insane amounts of resource and time to be invested. First introduced in July 22, 2018, the item has only been obtained by the most dedicated members of the server.
 
 ### Blinding Light of Destiny 
 
