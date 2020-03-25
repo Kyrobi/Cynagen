@@ -63,12 +63,12 @@ world-settings:
   default:
     trident-despawn-rate: 1200
     view-distance: default
-    seed-outpost: [REDACTED]
+    seed-outpost: []
     verbose: true
     merge-radius:
-      exp: 6.0
-      item: 4.5
-    mob-spawn-range: 4
+      exp: 10.0
+      item: 5.0
+    mob-spawn-range: 3
     growth:
       bamboo-modifier: 100
       sweetberry-modifier: 100
@@ -101,19 +101,19 @@ world-settings:
       other: 12
     ticks-per:
       hopper-transfer: 8
-      hopper-check: 1
+      hopper-check: 3
     hopper-amount: 1
     random-light-updates: false
     dragon-death-sound-radius: 0
-    seed-village: [REDACTED]
-    seed-desert: [REDACTED]
-    seed-igloo: [REDACTED]
-    seed-jungle: [REDACTED]
-    seed-swamp: [REDACTED]
-    seed-monument: [REDACTED]
-    seed-shipwreck: [REDACTED]
-    seed-ocean: [REDACTED]
-    seed-slime: [REDACTED]
+    seed-village: []
+    seed-desert: []
+    seed-igloo: []
+    seed-jungle: []
+    seed-swamp: []
+    seed-monument: []
+    seed-shipwreck: []
+    seed-ocean: []
+    seed-slime: []
     hunger:
       jump-walk-exhaustion: 0.08
       jump-sprint-exhaustion: 0.3
@@ -122,7 +122,7 @@ world-settings:
       swim-multiplier: 0.05
       sprint-multiplier: 0.2
       other-multiplier: 0.0
-    max-tnt-per-tick: 1
+    max-tnt-per-tick: 10
     max-tick-time:
       tile: 15
       entity: 20
@@ -131,7 +131,7 @@ world-settings:
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
-    wither-spawn-sound-radius: 5
+    wither-spawn-sound-radius: 20
     hanging-tick-frequency: 1000
     zombie-aggressive-towards-villager: false
     nerf-spawner-mobs: true

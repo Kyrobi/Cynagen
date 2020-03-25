@@ -101,8 +101,8 @@ world-settings:
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
     experience-merge-max-value: -1
-    max-chunk-sends-per-tick: 8
-    max-chunk-gens-per-tick: 1
+    max-chunk-sends-per-tick: 48
+    max-chunk-gens-per-tick: 4
     prevent-moving-into-unloaded-chunks: true
     max-growth-height:
       cactus: 3
@@ -172,7 +172,7 @@ world-settings:
     skeleton-horse-thunder-spawn-chance: 0.01
     disable-ice-and-snow: false
     fire-physics-event-for-redstone: false
-    grass-spread-tick-rate: 6
+    grass-spread-tick-rate: 2
     water-over-lava-flow-speed: 5
     bed-search-radius: 1
     use-faster-eigencraft-redstone: true
@@ -193,16 +193,16 @@ world-settings:
     squid-spawn-height:
       maximum: 0.0
     alt-item-despawn-rate:
-      enabled: false
+      enabled: true
       items:
-        COBBLESTONE: 300
-        NETHERRACK: 10
-        GOLDEN_SWORD: 5
-        BAMBOO: 5
-        CACTUS: 10
-        SUGERCANE: 5
-        SUGAR_CANE: 5
-        KELP: 5
+        COBBLESTONE: 1200
+        NETHERRACK: 200
+        GOLDEN_SWORD: 100
+        BAMBOO: 200
+        CACTUS: 200
+        SUGERCANE: 200
+        SUGAR_CANE: 200
+        KELP: 200
     generator-settings:
       flat-bedrock: false
     baby-zombie-movement-modifier: 0.5
