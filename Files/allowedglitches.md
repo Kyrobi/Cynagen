@@ -9,7 +9,7 @@ Some of these might have been patched by Mojang themselves. If that's the case, 
 
 - Getting on the nether roof
 
-- 0 tick farms
+- ~~0 tick farms~~
 
 - Breaking of bedrock
 
