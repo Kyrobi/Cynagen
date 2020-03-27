@@ -17,7 +17,9 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 
 ## 2. Do not advertise.
-**a).** Anything that actively pull players away from playing on Cynagen to something else is prohibited. This means that you are not allowed to promote other servers. Dropping your Instagram account or a YouTube channel link is fine. 
+**a).** Advertising is prohibited in chat. Advertising consists of promoting anything that isn’t Cynagen related.
+
+**b).** Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videos, Google links, Twitch, and external sites are allowed provided you're sensible with them - no linking to a virus, NSFW, or the like.
 
 
 
