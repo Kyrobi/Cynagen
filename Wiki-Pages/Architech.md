@@ -127,6 +127,9 @@ You can see that she did not even bother to change the message at all.
 Note: I don't have access to their command that gets fired when someone does get VIP to verify. But I'm just going to use her message as evidence.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**RIP**
 Edit: March 28, 2020
 
 RIP
