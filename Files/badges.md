@@ -1,12 +1,12 @@
 
 
-### [x Year] 
+**[x Year]** 
 How to get: You get this depending on how many year(s) you have been on the server.
 
 Description: Seems like you've played for a good amount of time, huh?
 
 
-### [GayLord]
+**[GayLord]**
 
 How to get: You get this by getting 10000% gayness from the command '/igay' on the Discord server.
 
@@ -17,25 +17,25 @@ Note: Message that is displayed when you are given the GayLord badge
 
 
 
-### [BLOD]
+**[BLOD]**
 
 How to get: Get this by crafting **Blinding Light of Destiny** on the server.
 
 Description: You have unlocked the Blinding Light of Destiny! You are truly a legendary player.
 
-### [Honorary Cat Girl] 
+**[Honorary Cat Girl]**
 
 How to get: An exclusive role for Venus_DeMilos.
 
 Description: The server's cat girl. uwu
 
-### [Honorary Dog Girl] 
+**[Honorary Dog Girl]**
 
 How to get: An exclusive role for MushiSushi.
 
 Description: The server's dog girl. uwu
 
-### [Honorary Dog Boy] 
+**[Honorary Dog Boy]**
 
 How to get: *No description provided*
 
@@ -44,7 +44,7 @@ Description: The server's dog boy. uwu
 
 # Special Event Ranks
 
-### [Winter Soldier]
+**[Winter Soldier]**
 
 How to get: Get this by killing the enderdragon(s) / wither(s) on the 2019 Eternal Winter event server.
 
@@ -52,7 +52,7 @@ Description: Only the strongest of the players will survive the harsh world. Goo
 
 # Special Ranks
 
-### [Veteran]
+**[Veteran]**
 
 How to get: You must have played on Cynagen before March 1st, 2018. You can check this by doing `/jointime` ingame. Open a ticket if you qualify.
 
