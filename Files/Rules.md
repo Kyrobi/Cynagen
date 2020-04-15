@@ -78,7 +78,7 @@ Common sense is this magical thing that very few people have. According to every
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
-* You may not build any __**AFK**__ machines.
+* Any system that "plays" for you while you're AFK is not allowed (i.e. acrobatic farm).
 
 * You are not allow to profit from strcitly VIP specific items / perks. 
 
