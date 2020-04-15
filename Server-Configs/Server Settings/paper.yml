@@ -58,20 +58,22 @@ timings:
   server-name: Unknown Server
   enabled: true
   verbose: true
-  server-name-privacy: false
+  server-name-privacy: true
   hidden-config-entries:
   - database
   - settings.bungeecord-addresses
-  history-interval: 300
+  history-interval: 60
   history-length: 3600
 world-settings:
   default:
+    light-queue-size: 20
+    tracker-update-distance: 1.0
     iron-golems-can-spawn-in-air: false
     zombie-villager-infection-chance: -1.0
     seed-based-feature-search: true
-    portal-create-radius: 16
+    portal-create-radius: 128
     entities-target-with-follow-range: false
-    fix-zero-tick-instant-grow-farms: false
+    fix-zero-tick-instant-grow-farms: true
     nether-ceiling-void-damage-height: 0
     per-player-mob-spawns: true
     count-all-mobs-for-spawning: true
@@ -92,6 +94,14 @@ world-settings:
       disable-sprint-interruption-on-attack: false
       shield-blocking-delay: 5
       disable-unloaded-chunk-enderpearl-exploit: true
+      pillager-patrols:
+        spawn-chance: 0.2
+        spawn-delay:
+          per-player: false
+          ticks: 12000
+        start:
+          per-player: false
+          day: 5
     portal-search-radius: 128
     optimize-explosions: true
     use-vanilla-world-scoreboard-name-coloring: false
@@ -172,7 +182,7 @@ world-settings:
     skeleton-horse-thunder-spawn-chance: 0.01
     disable-ice-and-snow: false
     fire-physics-event-for-redstone: false
-    grass-spread-tick-rate: 2
+    grass-spread-tick-rate: 4
     water-over-lava-flow-speed: 5
     bed-search-radius: 1
     use-faster-eigencraft-redstone: true

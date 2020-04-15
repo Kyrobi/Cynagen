@@ -61,59 +61,60 @@ advancements:
   - '*'
 world-settings:
   default:
+    seed-endcity: [Redacted]
     trident-despawn-rate: 1200
     view-distance: default
-    seed-outpost: []
+    seed-outpost: [Redacted]
     verbose: true
     merge-radius:
       exp: 10.0
       item: 5.0
-    mob-spawn-range: 3
+    mob-spawn-range: 4
     growth:
       bamboo-modifier: 100
       sweetberry-modifier: 100
       kelp-modifier: 100
-      beetroot-modifier: 200
-      carrot-modifier: 200
-      potato-modifier: 200
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
-      melon-modifier: 200
+      melon-modifier: 100
       mushroom-modifier: 100
-      pumpkin-modifier: 200
-      sapling-modifier: 200
-      wheat-modifier: 200
-      netherwart-modifier: 200
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
       vine-modifier: 100
-      cocoa-modifier: 200
+      cocoa-modifier: 100
     entity-activation-range:
       raiders: 5
-      animals: 4
-      monsters: 16
-      misc: 2
+      animals: 16
+      monsters: 24
+      misc: 8
       water: 2
       tick-inactive-villagers: false
     entity-tracking-range:
       players: 48
       animals: 32
       monsters: 32
-      misc: 12
-      other: 12
+      misc: 20
+      other: 20
     ticks-per:
       hopper-transfer: 8
       hopper-check: 3
     hopper-amount: 1
     random-light-updates: false
     dragon-death-sound-radius: 0
-    seed-village: []
-    seed-desert: []
-    seed-igloo: []
-    seed-jungle: []
-    seed-swamp: []
-    seed-monument: []
-    seed-shipwreck: []
-    seed-ocean: []
-    seed-slime: []
+    seed-village: [Redacted]
+    seed-desert: [Redacted]
+    seed-igloo: [Redacted]
+    seed-jungle: [Redacted]
+    seed-swamp: [Redacted]
+    seed-monument: [Redacted]
+    seed-shipwreck: [Redacted]
+    seed-ocean: [Redacted]
+    seed-slime: [Redacted]
     hunger:
       jump-walk-exhaustion: 0.08
       jump-sprint-exhaustion: 0.3
