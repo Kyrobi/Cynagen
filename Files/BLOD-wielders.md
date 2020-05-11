@@ -20,3 +20,5 @@ The **Blinding Light of Destiny** is the ultimate end-game item on Cynagen. The 
 **Wayward_One_** `March 24, 2020`
 
 **thatoneguy9966** `April 30, 2020`
+
+**Barrelsrider** `May 10, 2020`
