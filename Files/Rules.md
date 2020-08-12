@@ -43,7 +43,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **d).** Purposely causing lag to the server is not allowed. This includes anything that will jeopardize the server's integrity.
 
-**e).** Anyone with bad faith and/or deliberately irritates and harasses other player(s) within the game are not permitted on the server.
+**e).** Anyone with bad faith and/or deliberately irritates and/or harasses other player(s) within the game are not permitted on the server.
 
 
 
