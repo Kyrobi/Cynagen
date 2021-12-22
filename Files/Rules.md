@@ -69,7 +69,9 @@ Common sense is this magical thing that very few people have. According to every
 
 **c).** Going around a punishment is considered not having common sense.
 
-**d).** Going around the spirit or the intent of the rules is not allowed.
+
+
+## 7. Going around the spirit or the intent of the rules is not allowed.
 
 
 ## General
