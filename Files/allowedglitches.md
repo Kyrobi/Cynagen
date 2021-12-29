@@ -12,9 +12,3 @@ Some of these might have been patched by Mojang themselves. If that's the case, 
 - ~~0 tick farms~~
 
 - Breaking of bedrock
-
-- TNT duping machine
-
-- Rail duping
-
-- Carpet duping
