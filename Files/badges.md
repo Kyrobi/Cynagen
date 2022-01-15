@@ -9,7 +9,7 @@ Description: Seems like you've played for a good amount of time, huh?
 
 **[GayLord]**
 
-How to get: You get this by getting 10000% gayness from the command '/igay' on the Discord server.
+How to get: You get this by getting 100% gayness from the command '/igay' on the Discord server.
 
 Description: Only the true Gaylord has the patience to issue that many commands.
 
