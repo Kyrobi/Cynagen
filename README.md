@@ -1,4 +1,4 @@
-### Notice: All the information here is no longer being maintained. Please head over to the forum to view updated information: https://cynagen.boards.net/
+### Notice: All the information here is no longer being maintained and are outdated Please head over to the forum to view updated information: https://cynagen.boards.net/
 
 
 # Cynagen
