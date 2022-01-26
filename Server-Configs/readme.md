@@ -1,3 +1,6 @@
+### ALL OF THIS IS OUTDATED!
+
+
 ## Introduction
 I don't know if making this info public is awesome, good, or simply stupid. I guess we'll find out.
 
