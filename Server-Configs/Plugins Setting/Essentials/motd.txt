@@ -1,4 +1,0 @@
-&7Welcome back, &d&l{PLAYER}&r&6! :3
-&cInformation:
-&bServer Website: &dcynagen.xyz
-&bServer Discord: &ddiscordapp.com/invite/B5JW7qp
