@@ -1,7 +1,0 @@
-2.0.1 Jan 16 2019
-- Fixed maf calculation for ^igay
-
-2.0.0 | Jan 15, 2019
-- Recoded the bot in Java
-- Bot commands are no longer case sensitive
-- Bot fixes to ^uptime not tracking hours correctly
