@@ -18,4 +18,4 @@ Claims do [b]NOT[/b] automatically reset. However, within reason, a claim can be
 
 
 ## What is mspt in tab?
-you can view the details on it here: [a href="https://www.toptal.com/developers/hastebin/oqaquricad.yaml"]https://www.toptal.com/developers/hastebin/oqaquricad.yaml[/a]
+you can view the details on it here: https://www.toptal.com/developers/hastebin/oqaquricad.yaml
