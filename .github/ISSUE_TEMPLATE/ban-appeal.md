@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-Please title this post "Ban Appeal:" followed by a name
+Please title this post "Ban Appeal:" followed by your username.
+
+Please fill in the information below
 
 **Minecraft username**:
 
