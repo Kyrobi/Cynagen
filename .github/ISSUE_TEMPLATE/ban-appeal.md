@@ -13,10 +13,6 @@ Please title this post "Ban Appeal:" followed by your username.
 
 **Minecraft username**:
 
-**I was banned on**: (Format: Dec 23, 2012)
-
-**I was banned by**: (Leave blank if unknown)
-
 **I was banned for**:
 
 **A brief summary of what happened before the ban was**:
