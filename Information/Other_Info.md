@@ -13,8 +13,11 @@ Claims do **NOT** automatically reset. However, within reason, a claim can be re
 - McMMO repair block: **Emerald Block.**    McMMO salvage block: **Diamond Block**
 
 
-## Mob Cap
-- In addition to the natural spawning cap, the server also has a custom mob cap. You can view the mob cap for mobs here: https://pastebin.com/g2LNd2Tv. Updated as of Feb 14, 2022
+## World border size
+As of April 30, 2022, the world size are as follows:
+Overword - 200k x 200k
+Nether - 15k x 15x
+End - 15k x 15k
 
 
 ## What is mspt in tab?
