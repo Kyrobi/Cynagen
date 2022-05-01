@@ -16,7 +16,7 @@ Claims do **NOT** automatically reset. However, within reason, a claim can be re
 ## World border size
 As of April 30, 2022, the world size are as follows:
 - Overword - 200k x 200k
-- Nether - 15k x 15x
+- Nether - 30k x 30x
 - End - 15k x 15k
 
 
