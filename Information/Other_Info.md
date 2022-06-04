@@ -17,7 +17,7 @@ Claims do **NOT** automatically reset. However, within reason, a claim can be re
 As of April 30, 2022, the world size are as follows:
 - Overword - 200k x 200k
 - Nether - 30k x 30x
-- End - 15k x 15k
+- End - 30k x 30k
 
 
 ## What is mspt in tab?
