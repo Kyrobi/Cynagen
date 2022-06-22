@@ -1,5 +1,5 @@
 
-**This feature is no longer available on the server**
+**NOTE: This feature is no longer available on the server**
 
 
 Claim flags allows you to customize some rules inside
