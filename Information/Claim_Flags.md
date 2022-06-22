@@ -1,3 +1,7 @@
+
+**This feature is no longer available on the server**
+
+
 Claim flags allows you to customize some rules inside
 your claim. An example or this would be enabling PvP
 inside your claim or to block a certain player from
