@@ -29,3 +29,6 @@ Updated as of June 21, 2022
       villagers: 16
       flying-monsters: 16
 <br />How many mobs of each type can spawn around each player. This is per-player based.
+
+
+Ask Kyrobi if you want other info
