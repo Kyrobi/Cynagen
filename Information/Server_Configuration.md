@@ -54,7 +54,8 @@ Updated as of June 24, 2022
 
 **mob-spawn-range**: 3
 
-<br />Radius in chunks around the player in which mobs will spawn
+<br />Radius in chunks around the player in which mobs will spawn.
+<br />This also determines the maximum size of a farm as no mobs will spawn outside of this defined range
 
 <hr>
 
