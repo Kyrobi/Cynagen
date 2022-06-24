@@ -5,7 +5,7 @@ Updated as of June 21, 2022
 **view-distance=8**
 <br />Number of chunks (in radius) loaded around each player. This does not include the chunk you're standing in.
 
-**simulation-distance=4**
+**simulation-distance=3**
 <br />Maximum distance from players that living entities may be updated by the server, in chunks (radius, not diameter).
 <br />If entities are outside of this radius, then they will not be ticked by the server nor will they be visible to players.
 
