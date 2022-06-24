@@ -23,6 +23,7 @@ Updated as of June 24, 2022
 - animals: 3
 - water-animals: 1
 - ambient: 0
+
 <br />How many mobs of each type can spawn around each player. This is per-player based.
 
 <hr>
@@ -35,6 +36,7 @@ Updated as of June 24, 2022
 - water: 4
 - villagers: 16
 - flying-monsters: 16
+
 <br />Controls the range in blocks that entities will become "activated" - entities outside of this range will tick at a reduced rate.
 
 <hr>
