@@ -10,7 +10,6 @@ Claims do **NOT** automatically reset. However, within reason, a claim can be re
 - Double drops for McMMO are disabled.
 - Most of the skills have been nerfed. Some are more heavily nerfed than others.
 - Each still caps out at level 1000.
-- McMMO repair block: **Emerald Block.**    McMMO salvage block: **Diamond Block**
 
 
 ## World border size
