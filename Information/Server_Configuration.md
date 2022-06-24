@@ -1,6 +1,6 @@
 Here are some good-to-know configuration on the server that players would apprecieate.
 
-Updated as of June 21, 2022
+Updated as of June 24, 2022
 
 <hr>
 
@@ -29,8 +29,8 @@ Updated as of June 21, 2022
 
 **entity-activation-range**:
 - animals: 16
-- monsters: 32
-- raiders: 32
+- monsters: 48
+- raiders: 48
 - misc: 4
 - water: 4
 - villagers: 16
@@ -41,7 +41,7 @@ Updated as of June 21, 2022
 
 **entity-tracking-range**:
 - players: 48
-- animals: 48
+- animals: 32
 - monsters: 48
 - misc: 32
 - other: 32
