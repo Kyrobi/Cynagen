@@ -78,7 +78,7 @@ monster: - soft: 32 - hard: 48
 
 **ticks-per**:
 - hopper-transfer: 8 // The time - in server ticks - between when a hopper pushes/pulls/receives items and when the hopper pushes/pulls more items
-- hopper-check: 3 //The time - in server ticks - hoppers attempt to push/pull items since the last attempt.
+- hopper-check: 1 //The time - in server ticks - hoppers attempt to push/pull items since the last attempt.
 <hr>
 
 Ask Kyrobi if you want other info
