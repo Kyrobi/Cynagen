@@ -23,6 +23,6 @@ Please title this post "Ban Appeal:" followed by your username.
 
 **Reflect on what you did wrong. What are some things you will start doing to improve yourself?**:
 
-**Explain why is cereal is/isn't considered a soup**:
+**Explain why and when the best time to mow the lawn is**:
 
 **Additional information**: (Optional)
