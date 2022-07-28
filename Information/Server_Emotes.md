@@ -1,5 +1,5 @@
 Here is a list of all the available emotes
-on the server as of Oct 29, 2018.
+on the server as of July 27, 2022.
 ===========================================
 
 ```:-\( then replace ☹```
