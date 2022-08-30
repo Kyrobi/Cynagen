@@ -1,4 +1,4 @@
-View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/Files)
+View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/Information/Rules.md)
 
 ## 1. Do not grief
 
