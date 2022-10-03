@@ -1,5 +1,5 @@
 ## Chunk Resetting
-Every 12 months (interval subjected to change), chunks will be selectively reset. What this means is that any chunks that have been loaded for **less than** 45 minutes will be reset. Claiming an area will not keep the area from being reset if the chunks have been loaded for **less than** 45 minutes. The chunk loade time is a one-time thing. Once a chunk as been loaded for a total of 45 minutes, it will always be there. You do not have to come on every X period to load the chunk again for 45 minutes. 
+Every 12 months (interval subjected to change), chunks will be selectively reset. What this means is that any chunks that have been loaded for **less than** 45 minutes will be reset. Claiming an area will not prevent the area from being reset if the chunks have been loaded for **less than** 45 minutes. The chunk load time is a one-time thing. Once a chunk as been loaded for a total of 45 minutes, it will always be there. You do not have to come on every X period to load the chunk again for 45 minutes. 
 
 This timer only counts up when a player is in a ticking chunk (aka Simulation distance, which as of now, is 4 chunks around players).
 
