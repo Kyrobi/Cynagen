@@ -69,11 +69,6 @@ Common sense is this magical thing that very few people have. According to every
 
 
 
-## 7. Use English in public chat
-Our moderators cannot be expected to speak other languages to moderate chat. Please keep public chat English
-
-**a).** Using foreign language in private chat is fine.
-
 
 
 ## Note: Going around the spirit or the intent of the rules is not allowed
