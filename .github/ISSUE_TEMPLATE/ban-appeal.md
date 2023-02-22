@@ -23,6 +23,6 @@ Please title this post "Ban Appeal:" followed by your username.
 
 **Reflect on what you did wrong. What are some things you will start doing to improve yourself?**:
 
-**Explain why and when the best time to mow the lawn is**:
+**Gives 5 reaons why it is justified to steal from a poor elderly person**:
 
 **Additional information**: (Optional)
