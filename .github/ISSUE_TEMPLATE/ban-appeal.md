@@ -27,7 +27,7 @@ Please title this post "Ban Appeal:" followed by your username.
 
 Please attach a drawing of a pig balancing an egg on its head in your ban appeal.
 1. The drawing MUST be done by YOU
-2. Any rendition of the drawing will disqualify you immediately from the appeal
+2. The drawing can be on paper or digital
 3. You need to include your Minecraft username in the bottom right. The name needs to be legible
 
 Here is an example:
