@@ -9,7 +9,8 @@ assignees: ''
 
 **WARNING**
 We have moved our ban appeals from GitHub to Discord. Join https://discord.gg/wgvZRszvc4 instead.
-Please title this post "Ban Appeal:" followed by your username.
+
+~~Please title this post "Ban Appeal:" followed by your username.~~
 
 
 ~~### Please fill in the information below~~
